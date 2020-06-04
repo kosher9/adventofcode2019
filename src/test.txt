@@ -1,0 +1,3311 @@
+12/6/18, 12:03 - Ced: <Media omitted>
+12/10/18, 21:29 - Ced: <Media omitted>
+12/10/18, 21:31 - Fad: Ok 👌
+12/10/18, 21:31 - Fad: Merci
+12/11/18, 17:30 - Ced: <Media omitted>
+12/11/18, 17:32 - Ced: Pourquoi tu m'as fait ça Fad....c'est bien?
+12/11/18, 17:33 - Fad: 🤣🤣🤣
+12/11/18, 17:33 - Ced: Hummmmmmml
+12/11/18, 17:34 - Fad: <Media omitted>
+12/11/18, 17:34 - Fad: <Media omitted>
+12/11/18, 17:34 - Fad: <Media omitted>
+12/11/18, 17:39 - Ced: 😂😂
+12/11/18, 18:16 - Ced: <Media omitted>
+12/11/18, 18:27 - Fad: Seriously
+12/11/18, 18:30 - Ced: Le mec est malade j te dis.
+12/11/18, 18:30 - Fad: Hmmm
+12/13/18, 08:19 - Ced: <Media omitted>
+12/13/18, 08:19 - Fad: Lol
+12/13/18, 08:19 - Fad: Du courage
+12/13/18, 08:20 - Fad: X la pauvreté ki entraîne tt sa inn
+12/13/18, 08:20 - Ced: Hummm
+12/13/18, 08:20 - Ced: <Media omitted>
+12/16/18, 19:31 - Fad: Xlt
+12/16/18, 19:32 - Ced: Salut gars!
+12/16/18, 19:32 - Fad: Xcmt
+12/16/18, 19:32 - Ced: Bien et toi?
+12/16/18, 19:32 - Fad: Xv loo
+12/16/18, 19:33 - Fad: Dit u rattrape demain ?
+12/16/18, 19:34 - Ced: !💵
+12/16/18, 19:36 - Fad: T'es pas seul ds le cas man
+12/16/18, 19:41 - Ced: Ils accepteront de laisser composer sans payer tu penses?
+12/16/18, 19:45 - Ced: Attends, on a vraiment 7 chapitres en technique de développement ?
+12/16/18, 19:43 - Fad: Je sais pas trop
+12/16/18, 19:49 - Ced: Il y a juste celui sur:
+-Les conventions de code
+-les CVS
+12/16/18, 19:49 - Ced: Non?
+12/16/18, 19:49 - Fad: Je viens de l'apprendr
+12/16/18, 19:53 - Ced: Okay
+12/16/18, 19:56 - Fad: Design paternité
+Commentaires de code
+12/16/18, 19:57 - Ced: Voilà. Design patterns
+12/16/18, 19:57 - Ced: Paternité maaa 😂😂😂😂
+12/16/18, 19:58 - Fad: Correction automatique
+12/16/18, 19:58 - Ced: J m'en doutais bien.
+12/16/18, 19:59 - Fad: Lol
+12/16/18, 20:12 - Ced: Donc tu rattrapes demain n'est-ce pas ?
+12/16/18, 20:13 - Fad: Wi
+12/16/18, 20:13 - Ced: Okay
+12/16/18, 20:13 - Ced: C'est à quelle heure ?
+12/16/18, 20:13 - Fad: 7h30
+12/16/18, 20:15 - Ced: 🙁
+12/17/18, 09:22 - Ced: Lol
+12/17/18, 23:04 - Ced: <Media omitted>
+12/18/18, 01:03 - Fad: Web
+12/18/18, 01:05 - Ced: Quoi dans web?
+12/18/18, 01:06 - Fad: Tt se k'on fait ac le php
+12/18/18, 01:06 - Ced: Ah d'accord
+12/18/18, 01:19 - Ced: Php permet de faire des thread, créer des serveurs ?
+12/19/18, 12:29 - Ced: 😂
+12/20/18, 15:46 - Ced: Je me suis trompé
+12/20/18, 15:51 - Ced: Kotlin gère très bien le desktop via un framework *tornado* qui s'appuie sur les fonctionnalités de javafx avec plein d'autres features.
+12/20/18, 18:12 - Fad: Ok cool
+12/21/18, 12:00 - Ced: Fad?
+12/21/18, 12:00 - Fad: Wi ?
+12/21/18, 12:01 - Ced: Ça va ?
+12/21/18, 12:01 - Fad: Wi wi et tw
+12/21/18, 12:01 - Ced: Ça va. Merci.
+12/21/18, 12:01 - Ced: C'est bien la dernière version de Android studio que tu utilises?
+12/21/18, 12:04 - Fad: Wi
+12/21/18, 12:04 - Ced: <Media omitted>
+12/21/18, 12:20 - Fad: Kel navigation ? State ou method
+12/21/18, 12:21 - Fad: J'ai mm un soucis avec le gradle je dw faire une synchronisation d'abord
+12/21/18, 12:21 - Fad: Je dw aller au cyber
+12/21/18, 15:20 - Ced: <Media omitted>
+12/22/18, 16:49 - Ced: Fad?
+12/22/18, 16:50 - Ced: Dis, PostgreSQL est basé sur MySQL non ?
+12/22/18, 17:18 - Fad: Nn X différent
+12/22/18, 17:29 - Ced: Explique un peu
+12/22/18, 17:30 - Fad: Les sont des sgbd ki utilise le langage sql
+12/22/18, 17:32 - Ced: Donc PostgreSQL utilise du SQL et non du MySQL.
+12/22/18, 17:32 - Fad: Wi
+12/24/18, 12:05 - Ced: Fad?
+12/24/18, 13:10 - Fad: Bjr
+12/24/18, 13:18 - Ced: Bonjour
+12/24/18, 13:18 - Fad: Xcmt
+12/24/18, 13:19 - Ced: Dis, tu pourras faire un tour à l'école ?
+12/24/18, 13:19 - Fad: Est-ce qu'il y a le Wi-Fi ?
+12/24/18, 13:20 - Ced: Je n'y suis pas
+12/24/18, 13:21 - Fad: Je dw aller o cyber pour régler mn problème de gradle
+12/24/18, 13:21 - Ced: Okay
+12/24/18, 13:22 - Ced: Si jamais tu peux dis le moi stp. Thks
+12/24/18, 13:22 - Fad: Ok
+12/31/18, 01:00 - Ced: <Media omitted>
+12/31/18, 01:00 - Fad: 😅
+12/31/18, 01:01 - Ced: Il fera plus
+1/10/19, 09:32 - Ced: Yo
+1/10/19, 09:34 - Fad: Ya
+1/10/19, 09:36 - Ced: <Media omitted>
+1/10/19, 09:40 - Ced: Oubien vous savez pas?
+1/10/19, 09:55 - Fad: À par notre projet de l'année dernière j'ai pas fait d'hébergement
+1/10/19, 09:56 - Fad: Et je savais pas se ke le gars a payer
+1/10/19, 09:58 - Ced: Okay
+1/10/19, 10:06 - Ced: <Media omitted>
+1/10/19, 10:09 - Fad: Wi je crw
+1/15/19, 13:02 - Ced: Yo Fad!
+1/15/19, 14:04 - Fad: Wi
+1/15/19, 14:04 - Ced: <Media omitted>
+1/15/19, 14:06 - Fad: Ok
+1/18/19, 17:15 - Fad: Wi
+1/18/19, 17:15 - Ced: <Media omitted>
+1/18/19, 17:17 - Fad: X à 19h
+1/21/19, 13:57 - Ced: Salut Fad!
+1/21/19, 15:08 - Fad: Xlt
+1/21/19, 15:19 - Ced: Tchaley, comment tu vas?
+1/21/19, 15:20 - Ced: Je voulais te demander si l'installation de l'ADSL de togocom était payante
+1/21/19, 17:55 - Fad: Wi biensur
+1/21/19, 18:26 - Ced: Et pourquoi l'installation de la fibre est gratos ?
+1/31/19, 16:13 - Ced: <Media omitted>
+1/31/19, 16:23 - Fad: 😯
+1/31/19, 18:14 - Ced: Vraiment
+2/2/19, 22:01 - Ced: Sérieux, je pense que je ne ferai jamais ce projet.
+2/2/19, 22:06 - Fad: Prkw
+2/2/19, 22:09 - Ced: Tchaley, aucune envie...j'essaie pourtant. Mais Kotlin m'appelle à chaque fois gars...j'arrive pas à résister
+2/3/19, 08:04 - Fad: Ok
+2/3/19, 10:59 - Ced: Continues avec tes *ok*
+2/8/19, 08:03 - Ced: Salut Fad, tu peux m'envoyer les corrigés de POO?
+2/8/19, 10:08 - Fad: J'ai pas sa
+2/8/19, 10:17 - Ced: <Media omitted>
+2/8/19, 10:19 - Fad: Annn
+2/8/19, 10:19 - Fad: U viens se swr ?
+2/8/19, 10:20 - Fad: J'amène le cahier et u prend foto
+2/8/19, 10:20 - Ced: J pense pas venir. 😅
+2/8/19, 10:21 - Fad: Ok
+2/8/19, 10:22 - Fad: <Media omitted>
+2/8/19, 10:22 - Fad: <Media omitted>
+2/8/19, 10:23 - Fad: <Media omitted>
+2/8/19, 10:24 - Fad: <Media omitted>
+2/8/19, 10:26 - Fad: <Media omitted>
+2/8/19, 10:26 - Fad: <Media omitted>
+2/8/19, 10:26 - Fad: <Media omitted>
+2/8/19, 10:29 - Ced: Merci
+2/8/19, 10:29 - Ced: Ça pèse quand même hun 😄
+2/8/19, 10:30 - Ced: Et on voit rien en plus 😂
+2/8/19, 10:30 - Ced: Je passerai ce soir
+2/8/19, 10:31 - Ced: Tu seras là vers quelle heure ?
+2/14/19, 10:04 - Ced: Fad?
+2/14/19, 10:05 - Fad: Bjr
+2/14/19, 10:11 - Ced: Bonjour gars!
+2/14/19, 10:11 - Ced: <Media omitted>
+2/14/19, 10:13 - Fad: Wi
+2/14/19, 10:19 - Ced: Okay
+2/14/19, 10:43 - Ced: <Media omitted>
+2/14/19, 10:46 - Fad: Il faut effacer tous les fichiers(sauf les projet ) de netbains ds tn pc et u recommence
+2/14/19, 10:48 - Ced: <Media omitted>
+2/14/19, 10:51 - Fad: Il ya ossi ds users appdata
+2/14/19, 10:54 - Ced: J viens de supprimer aussi
+2/14/19, 10:58 - Ced: Mais toujours est il que ça refuse la desinstallation
+2/14/19, 10:58 - Ced: Car le fichier uninstall.exe n'existe pas.
+2/14/19, 10:58 - Fad: Sa marche pas ?
+2/14/19, 11:03 - Fad: Fo installer kn mm
+2/14/19, 14:20 - Ced: T'es à ESIBA ?
+2/14/19, 14:21 - Fad: Pas encore
+2/14/19, 14:27 - Ced: Ok. Vers quelle heure ?
+2/14/19, 14:36 - Fad: 15
+2/14/19, 23:57 - Ced: Fad?
+2/15/19, 09:26 - Fad: Bjr
+2/15/19, 09:27 - Ced: Je voulais enfait te demander un truc mais c'est bon.
+2/15/19, 09:30 - Fad: Ok
+2/16/19, 00:06 - Ced: Aladin c'est trop con.
+2/16/19, 00:06 - Ced: Foutument con!
+2/16/19, 00:52 - Ced: Ils auraient dû s'arrêter au 1
+2/16/19, 03:03 - Fad: Hmmm
+2/16/19, 21:33 - Ced: Oft, tu participera au truc de télégram sur Html/Css ?
+2/16/19, 21:39 - Ced: Concernant le projet de Mr Gbolovi, il faudra te remettre quoi?
+2/16/19, 21:39 - Fad: Nn nn je crw pa
+2/16/19, 21:39 - Fad: Cmt sa ?
+2/16/19, 21:40 - Ced: <Media omitted>
+2/16/19, 21:44 - Fad: Le rapport (physique)  et l'application sur cd
+2/16/19, 21:44 - Fad: X pr le cd serge di d'ammener 100 fr
+2/16/19, 21:44 - Ced: Okay
+2/16/19, 21:47 - Ced: Pourquoi pas ?
+2/16/19, 21:47 - Fad: Jsui pa intéressés
+2/16/19, 21:48 - Ced: Okay
+2/16/19, 22:12 - Ced: <Media omitted>
+2/17/19, 06:57 - Fad: Wi c'est un raccourci u doit créer
+2/17/19, 08:12 - Ced: Okay. Parceque habituellement, je fais une copie.
+2/20/19, 02:36 - Ced: <Media omitted>
+2/20/19, 07:00 - Fad: <Media omitted>
+2/20/19, 09:47 - Ced: 😗😗😗 ils ont mis les images pourquoi alors?
+2/20/19, 10:04 - Fad: Ohooo
+2/20/19, 11:28 - Ced: <Media omitted>
+2/20/19, 11:31 - Fad: Le film est bn
+2/20/19, 11:41 - Fad: Le gars va choper le sida
+2/20/19, 11:41 - Ced: Merci
+2/20/19, 11:42 - Fad: Jtp
+2/20/19, 13:15 - Ced: <Media omitted>
+2/20/19, 13:17 - Ced: <Media omitted>
+2/20/19, 13:19 - Fad: X un film
+2/20/19, 13:19 - Ced: 😄
+2/20/19, 13:20 - Ced: Ta copine demande un truc
+2/20/19, 13:20 - Fad: Lol
+2/20/19, 13:21 - Ced: <Media omitted>
+2/20/19, 13:21 - Fad: Nn
+2/22/19, 17:12 - Ced: Et toi même ?
+2/22/19, 17:13 - Fad: X le gars ac j'ai travaillé la dernière fois.
+Il dit com je vais à l'école
+2/22/19, 17:19 - Ced: Okay
+2/24/19, 13:53 - Ced: <Media omitted>
+2/24/19, 13:54 - Ced: <Media omitted>
+2/28/19, 16:58 - Ced: Fad, stp tu pourrais venir à ESIBA pour qu'on fasse les maths ?
+2/28/19, 17:48 - Ced: ??
+3/1/19, 07:18 - Fad: Je suis à esiba
+3/1/19, 07:39 - Fad: Mn forfait est fini dès que j'ai reçu tn message
+3/1/19, 07:40 - Fad: J'étais à esiba ier kn mm
+3/1/19, 10:07 - Ced: Hummm ok
+3/1/19, 10:08 - Ced: Et personne ne pouvait t'aider ?
+3/1/19, 12:16 - Fad: Lol
+3/2/19, 07:34 - Fad: Bjr
+3/2/19, 07:34 - Fad: On travaille ou aujourd'hui ?
+3/2/19, 08:15 - Ced: Z moi...
+3/2/19, 08:16 - Ced: 😕
+3/2/19, 08:16 - Fad: Ok
+3/2/19, 08:36 - Fad: U peu me buy un truc à bouffer ?
+J'ai pas encore manger
+3/2/19, 08:56 - Ced: Tu connais z karima?
+3/2/19, 08:56 - Fad: Nn
+3/2/19, 08:56 - Ced: <Media omitted>
+3/2/19, 08:59 - Fad: Farouk et mw on passer acheter sa.
+Tw mm u en veu ?
+3/2/19, 09:00 - Ced: 150 maka 5
+3/2/19, 09:00 - Fad: Ok
+3/2/19, 09:00 - Ced: <Media omitted>
+3/2/19, 09:01 - Fad: Ok
+3/2/19, 09:01 - Ced: Thks
+3/2/19, 09:01 - Fad: 👍
+3/2/19, 20:20 - Fad: Xlt
+3/2/19, 20:22 - Ced: Salut gars!
+3/2/19, 20:23 - Fad: <Media omitted>
+3/2/19, 20:23 - Fad: <Media omitted>
+3/2/19, 20:23 - Fad: <Media omitted>
+3/2/19, 20:24 - Ced: <Media omitted>
+3/2/19, 20:25 - Ced: <Media omitted>
+3/2/19, 20:25 - Ced: <Media omitted>
+3/2/19, 20:27 - Fad: Ok
+3/2/19, 20:45 - Fad: <Media omitted>
+3/2/19, 20:58 - Ced: <Media omitted>
+3/2/19, 21:13 - Fad: Ok
+3/2/19, 23:50 - Ced: Hummmm.....ça avance ?
+3/3/19, 06:38 - Fad: Sa va aller
+3/3/19, 06:39 - Fad: <Media omitted>
+3/3/19, 11:36 - Ced: <Media omitted>
+3/3/19, 11:38 - Fad: Ok
+3/3/19, 11:41 - Fad: U à procéder cmt
+3/3/19, 11:42 - Ced: <Media omitted>
+3/3/19, 11:43 - Ced: <Media omitted>
+3/3/19, 11:44 - Ced: <Media omitted>
+3/3/19, 11:51 - Fad: Ok
+3/3/19, 16:40 - Ced: <Media omitted>
+3/3/19, 17:41 - Fad: Cool
+3/3/19, 18:14 - Fad: Mw j'ai tjr pas trouvé l'algorithme
+3/3/19, 18:14 - Fad: U à utiliser les dictionnaires ?
+3/3/19, 18:15 - Ced: Non...Set et Map...
+3/3/19, 18:16 - Ced: Pour les opérations de tri
+3/3/19, 18:16 - Ced: Et List...
+3/3/19, 18:16 - Fad: Ofait j'arrive à trié les images mais pas leurs id
+3/3/19, 18:17 - Ced: Tu utilise les class?
+3/3/19, 18:17 - Ced: Dans les dictionnaires ?
+3/3/19, 18:18 - Fad: Nn je fais sa ds une seule classe mais ac différentes fonctions
+
+Oui avec les dictionnaires et les listes ossi
+3/3/19, 18:19 - Ced: <Media omitted>
+3/3/19, 18:20 - Ced: <Media omitted>
+3/3/19, 18:22 - Fad: Wi j'ai fait sa seulement j'ai com liste finale pr l'exemple:
+3
+0
+1
+2 3
+3/3/19, 18:22 - Fad: Ô lieu de
+3
+0
+3
+1 2
+3/3/19, 18:23 - Ced: À ton avis, pourquoi ça a rassemblé 2 et 3?
+3/3/19, 18:26 - Fad: X pr les images vertical
+3/3/19, 18:27 - Fad: Ofait ô début j'ai mis les images ds un dictionnaire id et images
+3/3/19, 18:28 - Ced: Normalement c'est 1 et 2 non?
+3/3/19, 18:28 - Fad: Wi
+3/3/19, 18:28 - Ced: <Media omitted>
+3/3/19, 18:29 - Fad: Ofait ds la liste des slide j'ai pas pu récupérer l'id de l'image
+3/3/19, 18:29 - Ced: Okay...
+3/3/19, 18:30 - Fad: Ocune idée 💡
+3/3/19, 18:30 - Ced: <Media omitted>
+3/3/19, 18:32 - Fad: Wi X se ke j'ai fait
+3/3/19, 18:35 - Ced: <Media omitted>
+3/3/19, 19:01 - Fad: Ok je vais essayer la méthode des classes je crois que sa sera plus simple à gérer
+3/3/19, 19:02 - Ced: Okay
+3/3/19, 19:03 - Fad: 6
+3/3/19, 19:03 - Ced: Faux .. la réponse = “oui” ou “non” la question était: “Pouvez-vous répondre à celà ?”
+
+Copie et colle les éléments suivants dans ta story:
+Pouvez-vous répondre à cela? Il y a 5 personnes dans une pièce. Vous entrez et en tuez 4 sur ces 5, combien de personnes restent réellement dans cette pièce. Si vous vous trompez, vous devez le republier avec qui vous avez perdu.
+J'ai perdu contre Cédric !
+3/3/19, 19:04 - Fad: Lol
+3/3/19, 19:08 - Ced: 😹
+3/5/19, 08:31 - Fad: <Media omitted>
+3/5/19, 09:09 - Ced: Non, c'est dimanche.
+3/5/19, 09:09 - Fad: Ok
+3/5/19, 09:10 - Ced: C'est les bonnes réponses
+3/5/19, 09:10 - Fad: <Media omitted>
+3/5/19, 09:10 - Ced: Tu tapes judge système dans ton navigateur voir
+3/5/19, 09:10 - Fad: Ok
+3/5/19, 10:08 - Ced: Bonjour pour les inscriptions il me faut :
+Nom
+Prénom
+Date de naissance
+Numéro de téléphone
+Adresse mail
+Adresse postale
+3/5/19, 10:08 - Ced: <Media omitted>
+3/5/19, 10:15 - Ced: Je ne sais pas ce que ça va donner. Je t'enverrai le lien une fois sûr.
+3/5/19, 10:16 - Fad: Ok
+3/5/19, 10:16 - Fad: Psk les histoires laa
+3/5/19, 10:19 - Ced: <Media omitted>
+3/5/19, 10:22 - Fad: Ok
+3/5/19, 12:32 - Ced: <Media omitted>
+3/5/19, 12:44 - Fad: Les trucs de commentaires,  convention de code,
+On a mm réalisé un projet ac swing
+3/5/19, 12:59 - Ced: Ah. Cvs et tout ça non?
+3/5/19, 12:59 - Fad: Wi wi
+3/5/19, 13:02 - Ced: <Media omitted>
+3/5/19, 13:05 - Fad: Il y a eu examens
+3/5/19, 13:07 - Ced: Ah
+3/5/19, 13:13 - Ced: Tout le monde a pratiquement la même note
+3/5/19, 13:41 - Fad: Wi wi
+3/5/19, 13:41 - Fad: Bn comme le projet était par groupe de 3
+3/5/19, 13:44 - Ced: <Media omitted>
+3/5/19, 15:16 - Fad: Je fais autre chose d'abord
+3/5/19, 15:56 - Ced: Ok
+3/5/19, 17:57 - Ced: <Media omitted>
+3/10/19, 22:46 - Ced: Salut Fad !
+3/10/19, 22:46 - Ced: En forme?
+3/10/19, 22:46 - Fad: Wi et tw
+3/10/19, 22:47 - Ced: Tu voulais m'envoyer le lien de quelques sites...
+3/10/19, 22:47 - Ced: 🖖🏾🙏🏾
+3/10/19, 22:47 - Fad: Je les ai plu
+3/10/19, 22:47 - Fad: Travail
+3/10/19, 22:48 - Ced: ?
+3/10/19, 22:48 - Fad: Fo faire tw mm le site
+3/10/19, 22:50 - Ced: Okay....d'accord.
+3/10/19, 22:53 - Fad: 👍
+3/12/19, 23:04 - Ced: <Media omitted>
+3/13/19, 10:07 - Fad: Merci
+3/13/19, 10:14 - Ced: Jtp
+3/15/19, 11:21 - Ced: Yo!
+3/15/19, 13:01 - Fad: Wi
+3/15/19, 13:21 - Ced: Vous avez fini votre projet ?
+3/15/19, 13:22 - Fad: Il reste le front end
+3/15/19, 13:24 - Ced: 👍🏾
+3/15/19, 13:25 - Fad: Et vs
+3/15/19, 13:25 - Ced: J vais ptêtre commencer demain
+3/15/19, 15:59 - Fad: Ok
+3/15/19, 16:18 - Fad: U viens à l'école aujourd'hui ?
+3/15/19, 16:23 - Ced: Non non
+3/15/19, 16:24 - Fad: Et mn film
+3/15/19, 16:25 - Ced: On se verra demain
+3/15/19, 16:25 - Fad: Ok
+3/15/19, 16:25 - Ced: Hier j'étais là pr karmen et toi.
+3/15/19, 16:25 - Fad: Ok
+3/18/19, 05:36 - Fad: Xlt
+3/18/19, 05:36 - Fad: U peu m dessiner mon mcd ?
+3/18/19, 05:37 - Fad: <Media omitted>
+3/18/19, 08:19 - Ced: Okay
+3/18/19, 08:19 - Ced: Tu veux juste l'image n'est-ce pas ?
+3/18/19, 08:27 - Ced: ?
+3/18/19, 15:08 - Fad: Wi wi
+3/20/19, 00:22 - Ced: <Media omitted>
+3/20/19, 09:40 - Fad: U va dans le dossier dist de ton projet
+3/22/19, 20:12 - Ced: 20 Minutes: PNL: Après un live YouTube dément, le groupe balance finalement son clip!.
+https://www.20minutes.fr/arts-stars/culture/2478835-20190322-direct-live-pnl-terre-tourne-youtube-fans-transe
+3/22/19, 20:16 - Fad: Ils sont malades ces gars
+3/22/19, 20:17 - Ced: <Media omitted>
+3/22/19, 20:19 - Fad: U à déjà vu le clip ?
+Il es 20h
+3/22/19, 20:21 - Ced: Non non
+3/22/19, 20:21 - Fad: Ok
+3/22/19, 20:24 - Ced: Je vais voir sur youtube
+3/22/19, 20:28 - Ced: C'est le clip qui s'appelle *il est 20h* ?
+3/22/19, 20:29 - Fad: Nn nn
+3/22/19, 20:29 - Fad: Le clip sort à 20h
+3/22/19, 20:29 - Ced: Sinon j'ai vu celui là
+3/22/19, 20:30 - Fad: Le live ?
+3/22/19, 20:31 - Ced: Non le clip en bas de la page.
+3/22/19, 20:33 - Fad: Ann ok la sa dw être sa
+3/23/19, 09:08 - Ced: fad
+3/23/19, 09:08 - Ced: T'es aux cours?
+3/23/19, 09:08 - Fad: Wi
+3/23/19, 09:08 - Ced: Stp, vous finissez à quelle heure?
+3/23/19, 09:08 - Ced: Dalleb aussi?
+3/23/19, 09:09 - Ced: J'ai pas pu me reveiller tôt. J'espère que le cours durera pour que je puisse passer en pause
+3/23/19, 09:10 - Ced: J dois faire une répartition
+3/23/19, 09:11 - Fad: Nn
+3/23/19, 09:11 - Fad: Ok
+3/23/19, 09:12 - Ced: Alors ?
+3/23/19, 09:26 - Fad: 13h
+3/23/19, 09:26 - Fad: Dalleb viens d'arriver
+3/23/19, 09:26 - Ced: Nice
+3/23/19, 09:26 - Ced: Il m'a écrit
+3/23/19, 09:27 - Ced: Merci
+3/23/19, 19:30 - Fad: X kw sa
+3/23/19, 20:17 - Ced: 21ème siècle tchaley
+3/23/19, 20:17 - Fad: Hmmm
+3/30/19, 09:19 - Ced: Je suppose que t'es aux cours.
+3/30/19, 09:38 - Fad: Wi
+3/30/19, 10:12 - Ced: Vous avez déjà pris la pause?
+3/30/19, 17:12 - Fad: Wi
+3/30/19, 22:05 - Ced: “Kotlin : data class” by Ced kosher https://link.medium.com/0duVs6mouV
+3/30/19, 22:07 - Ced: Mon premier article 😅. Certes basic mais, je compte aborder les notions petit à petit et proposer de meilleurs contenus.
+3/30/19, 23:50 - Fad: 👍
+3/30/19, 23:50 - Fad: Félicitations
+3/30/19, 23:50 - Ced: Merci beaucoup
+3/30/19, 23:50 - Ced: Tu vas te coucher n'est-ce pas ? !
+3/30/19, 23:51 - Fad: Je viens de rentrer de l'anniversaire de Larissa
+3/30/19, 23:57 - Ced: Ah tu y étais ? !
+3/30/19, 23:57 - Ced: J savais pas.
+3/30/19, 23:57 - Fad: Wi
+3/30/19, 23:57 - Ced: Ça a été ?
+3/30/19, 23:57 - Fad: Wi pmal
+3/30/19, 23:57 - Ced: 👍🏾
+3/30/19, 23:57 - Fad: 👍
+4/4/19, 17:05 - Ced: Salut gars!
+4/4/19, 17:06 - Ced: Comment tu vas ?
+4/4/19, 17:06 - Fad: Bien et toi
+4/4/19, 17:06 - Ced: Ça va tchaley
+4/4/19, 17:07 - Ced: Dis tu peux recevoir un appel sur ton tel?
+4/4/19, 17:07 - Fad: Wi
+4/4/19, 17:10 - Ced: Okay... enfait, je voulais te demander des infos mais c'est bon.
+4/4/19, 17:10 - Ced: Tu seras aux cours ce soir?
+4/4/19, 17:11 - Fad: Wi je suis déjà à l'école
+4/4/19, 17:13 - Ced: Okay
+4/4/19, 17:22 - Ced: Si jamais je viens aux cours rappelle moi que j'ai un truc pour toi.
+4/4/19, 18:19 - Fad: X le dernier jour inn
+4/4/19, 18:19 - Fad: Elle va faire appel
+4/4/19, 18:20 - Ced: Seriously? J'arrive
+4/4/19, 18:20 - Fad: Wi
+4/9/19, 23:41 - Ced: <Media omitted>
+4/9/19, 23:42 - Fad: Ann ok
+4/14/19, 13:15 - Ced: Yo
+4/14/19, 13:15 - Ced: Dis, tu as le programme de la semaine culturelle ?
+4/15/19, 19:31 - Fad: Bsr
+4/15/19, 19:52 - Ced: Bonsoir
+4/15/19, 19:53 - Fad: Xcmt
+4/15/19, 19:58 - Ced: Bien et toi ? La forme?
+4/15/19, 19:58 - Fad: Wi wi et tw
+4/15/19, 19:59 - Fad: U viens pas ?
+4/15/19, 20:05 - Ced: Où ça ?
+4/15/19, 20:06 - Ced: Esiba ?
+4/15/19, 20:06 - Ced: J viens de quitter
+4/15/19, 20:06 - Fad: Wi
+4/15/19, 20:06 - Ced: Envoi une toff 😹
+4/15/19, 20:06 - Fad: Pour la swré
+4/15/19, 20:06 - Fad: Demande à Achille ou Kevin
+4/15/19, 20:08 - Ced: Balancez dans le groupe
+4/18/19, 13:12 - Fad: Xlt
+4/18/19, 13:15 - Ced: Salut tchaley !
+4/18/19, 13:15 - Ced: C'est comment ?
+4/18/19, 13:16 - Fad: Xv et tw
+4/18/19, 13:16 - Fad: U viens à la swré tday ?
+4/18/19, 13:18 - Ced: La soirée de gala?
+4/18/19, 13:18 - Ced: Non
+4/18/19, 13:19 - Ced: Je ne prevoyais venir à aucune de leur soirées enft.
+4/18/19, 13:20 - Fad: Annn ok
+4/18/19, 13:21 - Ced: <Media omitted>
+4/18/19, 13:22 - Fad: Je sais pas encore
+4/18/19, 13:25 - Fad: En plus je serai obligé de demander la tune ô parents pr sa
+4/18/19, 13:31 - Ced: <Media omitted>
+4/18/19, 13:33 - Fad: Ok ok
+4/18/19, 20:53 - Ced: <Media omitted>
+4/18/19, 21:02 - Fad: Le gars mm à un mac ô zon
+4/18/19, 21:05 - Ced: Il ne va quand même pas se torturer avec son propre produit 😹
+4/18/19, 21:08 - Fad: Un dileur n prend pas sa cam
+4/18/19, 21:13 - Ced: N'est-ce pas ? 😹
+4/19/19, 19:45 - Fad: <Media omitted>
+4/19/19, 21:10 - Ced: 😹😹😹
+4/19/19, 21:12 - Ced: <Media omitted>
+4/19/19, 22:03 - Fad: Ok
+4/26/19, 15:04 - Ced: Des gens ont été maudit pour moins que ça. Bonne vie.
+4/26/19, 15:05 - Fad: On me l'a fait ossi je veux pas le garder pour moi
+4/26/19, 15:05 - Ced: <Media omitted>
+4/26/19, 15:07 - Fad: J'entends rien
+4/26/19, 15:08 - Ced: <Media omitted>
+4/26/19, 15:09 - Fad: M'en bas les couilles
+4/29/19, 15:04 - Ced: Yo Fad!
+4/29/19, 15:05 - Ced: Tu peux me rappeler le nom de la plate-forme qyi permet l'envoi de fichiers lourds?
+4/29/19, 15:25 - Fad: J'ai oublié
+4/29/19, 15:25 - Fad: Demande à farouk
+5/1/19, 02:01 - Ced: https://youtu.be/7LuSP4QaXiQ
+5/5/19, 21:55 - Ced: 😹😹😹😹
+Oft, Mia est fiancée.
+5/5/19, 21:56 - Fad: Kel mia
+5/5/19, 21:57 - Ced: <Media omitted>
+5/5/19, 21:58 - Ced: Genre t'en connais combien ?
+5/5/19, 21:59 - Fad: Le gars fait kw ds la vie
+5/5/19, 21:59 - Ced: <Media omitted>
+5/5/19, 22:01 - Fad: Et le gars il es trnkil ?
+5/5/19, 22:02 - Ced: 😹😹😹
+5/5/19, 22:02 - Ced: <Media omitted>
+5/5/19, 22:04 - Fad: Ok X bien
+5/12/19, 12:55 - Ced: Salut Fad!
+5/12/19, 12:55 - Ced: T'as suivi End game ?
+5/12/19, 13:22 - Fad: Wi
+5/12/19, 13:22 - Fad: Salut
+5/12/19, 19:41 - Ced: <Media omitted>
+5/12/19, 19:43 - Ced: <Media omitted>
+5/12/19, 21:13 - Fad: Wi c'est intéressant mais en dehors du sacrifice et de la compétence mais c'est pas suffisant il faut aussi de l'argent. Moi je veux pas k'on se casse la tête après chercher un investisseur ki va venir jouer ô bosse.  sinn X intéressant
+5/12/19, 21:14 - Fad: Je crw ke X 2 cette vision on avait kn on a créé C2f Ideal
+5/12/19, 21:14 - Fad: Ofait je réfléchis tt le temps à sa surtout cette semaine et mm ce matin j'y pensais encore
+5/12/19, 21:22 - Ced: Merci. Ça fait plaisir de voir que tu y tiens vraiment.
+5/12/19, 21:23 - Ced: <Media omitted>
+5/12/19, 21:28 - Ced: <Media omitted>
+5/12/19, 23:57 - Ced: Pour l'argent, j'y ai beaucoup pensé aussi.
+5/13/19, 00:00 - Ced: Mais tu vois, j me dis que même si je fais sortir ces appli, j'ai bien envie de continuer mes études/formations pour être excellent dans les domaines qui m'intéressent (mobile et server)
+5/13/19, 00:02 - Ced: Vu tout ce que j'ai bien envie de réaliser, il faut vraiment avoir les compétences pour. Sinon prendre des professionnels  ce qui n'est pas donné 😄
+5/13/19, 00:04 - Ced: Donc les choses se feront petit à petit les maj des applis, les projets qu'on pourra se faire pourront  contribuer aux besoins de nos applis.
+5/13/19, 00:05 - Ced: C'est après ces études/formations que je compte me concentrer entièrement à mes projets et à l'entreprise Inch'Allah.
+5/13/19, 00:06 - Ced: Les plans sur lesquels je comptais pour me faire des sous ne sont malheureusement plus trop ça.
+5/13/19, 00:10 - Ced: D'ici là, je suppose qu'on pourra lancer à grande échelle nos produits.
+5/13/19, 00:11 - Ced: Nous même.
+5/13/19, 00:14 - Ced: Voilà comment je vois mes 2 à 3 prochaines années
+5/13/19, 00:14 - Ced: Tout ce que je pense qu'il me reste à faire, c'est prier.
+5/13/19, 00:16 - Ced: Qu'on puisse faire des rencontres parler de nous. Il faudra se bouger le cul. Se créer un réseau. Surtout avec des gens à l'extérieur.
+5/13/19, 00:17 - Ced: Dans ma tête ça sonne normal mais dans les faits je sais que ce ne sera pas facile. Que Dieu veille sur moi. Inch'Allah j'y arriverai. On sera grand.
+5/28/19, 15:22 - Ced: Check out @lafouine78’s Tweet: https://twitter.com/lafouine78/status/1132426273559633921?s=08
+6/1/19, 15:40 - Fad: <Media omitted>
+6/1/19, 15:40 - Fad: Envw sa a karima stp
+6/1/19, 19:35 - Fad: 👀
+6/1/19, 19:35 - Ced: C'est fait tkt
+6/1/19, 19:36 - Fad: Ok merci
+6/1/19, 19:36 - Ced: Jtp
+6/3/19, 09:46 - Ced: <Media omitted>
+6/3/19, 09:54 - Fad: Déjà reçu
+6/3/19, 09:54 - Fad: Merci
+6/3/19, 09:58 - Ced: Okay
+6/13/19, 22:32 - Ced: 😕
+6/13/19, 22:32 - Ced: <Media omitted>
+6/13/19, 22:33 - Fad: Xlt
+6/13/19, 22:33 - Fad: Wi tkt j'ai téléchargé les films
+6/13/19, 22:34 - Fad: Les déguns
+6/13/19, 22:35 - Ced: Okay
+6/13/19, 22:35 - Ced: Thks
+6/13/19, 22:36 - Ced: <Media omitted>
+6/13/19, 22:36 - Ced: <Media omitted>
+6/13/19, 22:36 - Fad: Jtp
+6/13/19, 22:37 - Fad: On commence un nouveau cour demain
+6/13/19, 22:39 - Ced: Ah
+6/13/19, 22:40 - Ced: Ça m'avait échappé
+6/18/19, 21:34 - Ced: Salut Fad!
+6/18/19, 21:34 - Ced: En forme ?
+6/18/19, 21:35 - Fad: Wep et tw
+6/18/19, 21:35 - Ced: Dis, concernant le cours sécurité réseau. Quels chapitres on doit bosser?
+6/18/19, 21:35 - Ced: Tkl tchaley
+6/18/19, 21:35 - Fad: Tout
+6/18/19, 21:36 - Fad: U viens de m rappeler k'on à devwr lundi
+6/18/19, 21:36 - Ced: Ah bon?
+6/18/19, 21:36 - Ced: <Media omitted>
+6/18/19, 21:36 - Fad: Wi
+6/18/19, 21:37 - Fad: Nn X pa mw
+6/18/19, 21:37 - Ced: <Media omitted>
+6/18/19, 21:38 - Fad: Nn inn
+6/18/19, 21:39 - Fad: En j'aurai apri k'il demande pas s k'il ya ds le cours
+Il prend les choses sur internet
+6/18/19, 21:39 - Ced: Okay
+6/18/19, 21:41 - Ced: Tu pourrais m'envoyer le cours? 😅
+6/18/19, 21:41 - Fad: Demain
+6/18/19, 21:41 - Ced: Thks
+6/18/19, 21:43 - Fad: 👍🏾
+6/18/19, 21:43 - Ced: <Media omitted>
+6/18/19, 21:44 - Fad: Nn il reste 2
+6/18/19, 21:45 - Ced: Okay. Merci. J viens de les retrouver. C'était dans une discussion avec Serges. 🙏🏾
+6/18/19, 21:45 - Fad: Ok 👌
+6/18/19, 21:46 - Ced: <Media omitted>
+6/18/19, 21:46 - Fad: Wi exam après devoir
+6/18/19, 21:47 - Ced: Okay
+6/18/19, 21:47 - Ced: Yu fais quoi?
+6/18/19, 21:47 - Ced: Tu*
+6/18/19, 21:47 - Fad: Couché
+6/18/19, 21:48 - Ced: 😕 ah bon?... tu te reveilles tôt ou c'est le chômage ?
+6/18/19, 21:48 - Fad: Les 2 plus la fatigue
+6/18/19, 21:49 - Ced: Ah d'accord. Peace!
+6/18/19, 21:49 - Fad: Et toi
+6/18/19, 21:54 - Ced: J'allais commencer à bricoler quelques trucs...
+6/18/19, 21:55 - Ced: Le module sur la camera est fonctionnel. Mais beaucoup d'améliorations à apporter. Et quelques autres.
+6/18/19, 21:56 - Ced: Ça me prend trop de temps
+6/19/19, 04:15 - Fad: 👍🏾
+6/22/19, 14:23 - Fad: Xlt
+6/22/19, 14:34 - Ced: Salut Fad!
+6/22/19, 14:35 - Fad: Xcmt
+6/22/19, 14:37 - Ced: Un peu souffrant
+6/22/19, 14:37 - Ced: Et toi?
+6/22/19, 14:38 - Fad: Abn
+Du courage
+6/22/19, 14:38 - Fad: Mw je vais bien
+6/22/19, 14:38 - Fad: Dit et innex sa marche tjr ?
+6/22/19, 14:38 - Ced: 😄
+6/22/19, 14:38 - Ced: Non non. C'est la merde actu
+6/22/19, 14:39 - Fad: Abn et mw ki voulais commence?
+6/22/19, 14:39 - Ced: <Media omitted>
+6/22/19, 14:39 - Ced: You deleted this message
+6/22/19, 14:40 - Fad: Ok
+6/22/19, 14:40 - Ced: <Media omitted>
+6/22/19, 14:42 - Fad: Wai wai je vw
+6/22/19, 14:44 - Fad: Pr le cours actuel fo installer sqlserver
+6/22/19, 14:44 - Fad: On a mm commencer un tp aujourd'hui
+6/22/19, 14:49 - Ced: Mercu
+6/22/19, 14:49 - Ced: Merci*
+6/22/19, 14:50 - Fad: 👍🏾
+6/22/19, 14:50 - Ced: J'ignorais qu'on avait cours. J'ai vu le texto au réveil
+6/22/19, 14:51 - Ced: Le devoir sur Lundi tient tjrs?
+6/22/19, 14:51 - Fad: Innn X klk chose sa inn mw j'ai oublié
+6/22/19, 14:51 - Fad: Mw ossi
+6/22/19, 14:52 - Ced: T'as pu y aller
+6/22/19, 14:52 - Fad: Wi ver 9h
+6/22/19, 14:52 - Ced: Hummm tu vas me foutre la flemme
+6/22/19, 14:53 - Fad: Nn tw fo bosser
+6/22/19, 14:53 - Ced: Loool😄
+6/22/19, 14:53 - Fad: Mw la où je suis la j crw pa Ke X encore possible
+6/22/19, 15:00 - Ced: Lol. Pourquoi
+6/22/19, 15:01 - Fad: Mw mm je sais pas
+6/22/19, 15:02 - Ced: J'ai une montée de migraine quand je regarde sur l'écran. Si le soir ça va mieux, j vais toucher les chapitres les plus courts et venir m'assoire comme tout le monde
+6/22/19, 15:02 - Fad: Ok 👍🏾
+6/22/19, 15:05 - Ced: Tu veux plus programmer des serveurs 🌚
+6/22/19, 15:05 - Ced: ?
+6/22/19, 15:06 - Fad: Si si je l'ai déjà fait ac python. Pour faire du php
+6/22/19, 15:09 - Ced: Tu as développer un serveur avec python et fait une api php?
+6/22/19, 15:10 - Fad: Nn ya un module ki permet de faire sa CGI
+6/22/19, 15:12 - Ced: Ah d'accord
+6/22/19, 15:13 - Fad: 👍🏾
+6/22/19, 15:14 - Ced: Tu préfères ça ?
+6/22/19, 15:14 - Fad: Nn nn
+6/22/19, 15:15 - Fad: Si j veux faire du Web ac python se sera django
+6/22/19, 15:16 - Ced: Django rentre dans la création et configuration de serveur ?
+6/22/19, 15:19 - Fad: Nn
+6/22/19, 15:20 - Fad: Bn je crois pas
+6/22/19, 15:20 - Ced: Okay
+6/24/19, 13:49 - Ced: <Media omitted>
+6/24/19, 13:50 - Fad: Ok on va vwr
+6/24/19, 13:51 - Fad: Mw mm je sais pas encore kw faire comme projet de soutenance
+6/24/19, 13:53 - Ced: Ah. Y a ça aussi
+6/24/19, 13:53 - Ced: J peux te donner des idées si tu veux.
+6/24/19, 13:54 - Fad: Wi envoi
+6/24/19, 13:56 - Ced: Web ou desktop?
+6/24/19, 13:56 - Fad: Peu importe
+6/24/19, 13:57 - Ced: <Media omitted>
+6/24/19, 14:02 - Ced: <Media omitted>
+6/24/19, 14:05 - Fad: Ok cool
+6/24/19, 14:13 - Ced: C'est tout ce que tu trouves à dire ?
+6/24/19, 14:13 - Ced: <Media omitted>
+6/24/19, 14:15 - Fad: Wi X intéressant j vais y penser.
+Merci
+6/24/19, 14:19 - Ced: 😂
+6/24/19, 14:19 - Ced: Si tu l dis.
+6/24/19, 14:19 - Fad: Ok
+6/25/19, 12:00 - Fad: Tsruu
+6/25/19, 12:11 - Ced: 😂😂😂
+6/25/19, 12:12 - Ced: Pourquoi tu fais ça ?
+6/25/19, 12:26 - Fad: Hmmm formation la mw mm je peux faire sa
+6/25/19, 12:27 - Ced: <Media omitted>
+6/25/19, 12:36 - Fad: Je vais faire la formation où ?
+6/25/19, 12:44 - Ced: Dans une école...
+6/25/19, 12:44 - Ced: <Media omitted>
+6/25/19, 13:16 - Fad: Ok
+6/25/19, 16:03 - Ced: Tu pourrais même l'approcher
+6/25/19, 16:05 - Fad: Ok
+6/25/19, 16:06 - Fad: U viens à l'école le swr ?
+6/25/19, 16:10 - Ced: Oui. J pense bien
+6/25/19, 16:11 - Fad: Ok
+6/27/19, 11:27 - Ced: https://stackoverflow.com/jobs/276881/full-stack-laravel-developer-scalable-path
+6/27/19, 13:01 - Fad: xlt
+6/27/19, 13:01 - Fad: u peut me renvoyer le lien ?
+6/27/19, 13:05 - Ced: https://stackoverflow.com/jobs/276881/full-stack-laravel-developer-scalable-path
+6/27/19, 13:08 - Fad: merci
+6/27/19, 13:10 - Ced: Dis, tu me conseillerais quoi pour vite monter des interfaces web?
+6/27/19, 13:10 - Fad: bootstrap
+6/27/19, 13:11 - Fad: sinon il y a ossi react js,  angular
+6/27/19, 13:11 - Ced: Et vuejs?
+6/27/19, 13:11 - Fad: wi sa ossi
+6/27/19, 13:12 - Ced: J'ai pas envie de les parcourir. Lequel me servirait le mieux sachant que c'est pour l'accompagner avec *Go*
+6/27/19, 13:13 - Ced: Jtp. Bonne chance surtout
+6/27/19, 13:13 - Fad: mw x bootstrap j'utilise pr le moment je pense faire angular ossi
+6/27/19, 13:14 - Ced: J t'enverrai le lien même. Il y a apperemment de bon projets web. Tu pourrais bien t'amuser
+6/27/19, 13:14 - Ced: Okay
+6/27/19, 13:15 - Fad: jai pas encore lu.
+je suis en train de manger
+6/27/19, 13:15 - Ced: Ah. C'est bien
+6/27/19, 13:16 - Fad: 👍🏾
+6/27/19, 13:23 - Ced: <Media omitted>
+6/27/19, 13:24 - Ced: Meilleur tuto *bootstrap* 😄
+6/27/19, 13:29 - Fad: x cool
+6/27/19, 14:29 - Ced: Dis, à quelle heure le secrétariat ferme?
+6/27/19, 14:30 - Fad: 17h je crois
+6/27/19, 14:30 - Ced: Ok
+6/27/19, 23:17 - Ced: Attends tchaley
+6/27/19, 23:17 - Ced: Je viens de lire sur insta que l'islam ne permet pas les représentations humaines
+6/27/19, 23:17 - Ced: Sérieux ? ?
+6/27/19, 23:18 - Fad: les photos et portrait ?
+6/27/19, 23:19 - Ced: Les poupées
+6/27/19, 23:19 - Fad: abn
+6/27/19, 23:19 - Fad: je savais pas
+6/27/19, 23:20 - Fad: <Media omitted>
+6/27/19, 23:20 - Ced: <Media omitted>
+6/27/19, 23:21 - Fad: abn inn
+6/27/19, 23:21 - Ced: <Media omitted>
+6/27/19, 23:23 - Fad: <Media omitted>
+6/27/19, 23:24 - Ced: Dis, où se trouvent les extrémistes ? Une liste exostive stp
+6/27/19, 23:24 - Fad: je sais pas.
+6/27/19, 23:24 - Fad: u veux faire quoi ac eux
+6/27/19, 23:25 - Ced: Et ceux qui font de la modélisation, les jeux vidéos, ils ne peuvent pas être musulmans ?
+6/27/19, 23:26 - Ced: Rien tchaley. Pour ma survie. Pour que je sache où mettre les pieds
+6/27/19, 23:26 - Fad: fo pas rentrer ds sa
+6/27/19, 23:26 - Ced: <Media omitted>
+6/27/19, 23:26 - Fad: <Media omitted>
+6/27/19, 23:27 - Fad: u a peur ?
+6/27/19, 23:28 - Fad: <Media omitted>
+6/27/19, 23:27 - Ced: <Media omitted>
+6/27/19, 23:29 - Ced: <Media omitted>
+6/27/19, 23:32 - Ced: Une extrémiste sortirait vraiment pas avec moi 😂
+6/27/19, 23:33 - Fad: <Media omitted>
+6/27/19, 23:35 - Ced: Que Dieu m'en épargne 😄😅
+6/27/19, 23:35 - Fad: amine
+6/27/19, 23:44 - Ced: Dis, tu connais de bon tutos bootstrap ?
+6/28/19, 00:13 - Ced: Laisse. Ça passe pas avec Go
+6/28/19, 05:56 - Fad: ok
+6/28/19, 15:11 - Ced: Oui. C'est noir bonbon qui a dit. Du coup ça a tout son sens.
+6/29/19, 16:10 - Ced: Tu as suivi *black snake*
+6/29/19, 16:10 - Ced: ?
+6/29/19, 16:10 - Fad: nn nn
+6/29/19, 16:11 - Ced: Ok
+6/29/19, 16:12 - Ced: Je viens de commencer
+6/29/19, 16:13 - Fad: <Media omitted>
+6/29/19, 16:13 - Ced: D'accord
+6/29/19, 16:18 - Ced: You deleted this message
+6/29/19, 16:20 - Ced: <Media omitted>
+7/1/19, 13:12 - Ced: Oft, t'as postulé ?
+7/1/19, 13:13 - Fad: pr ?
+7/1/19, 13:16 - Ced: Ceci
+7/1/19, 13:16 - Fad: a nn.
+u na pas tt lu ?
+7/1/19, 13:17 - Ced: Si. C'était le principal
+7/1/19, 13:18 - Ced: J'ai dit que si t'étais intéressé, je t'aurais envoyé le lien du site qui fait les annonces. Là tu pourrais voir toutes les autres propositions.
+7/1/19, 13:18 - Fad: il yavai d'autres compétences
+7/1/19, 13:19 - Fad: mais u ma pas envoyé
+7/1/19, 13:20 - Ced: <Media omitted>
+7/1/19, 13:21 - Ced: T'en avais pas besoin sur le coup enft.
+7/1/19, 13:22 - Fad: ok
+7/1/19, 13:22 - Ced: J t'envoie le lien sur tgm
+7/1/19, 13:23 - Fad: ok
+7/1/19, 22:26 - Ced: ???
+7/1/19, 22:27 - Ced: Les montres ne sont plus utilisées pour l'heure 🌚
+7/2/19, 00:53 - Fad: abn
+7/2/19, 01:26 - Ced: Tu travailles sur quoi cette nuit comme ça ?
+7/2/19, 06:41 - Fad: sur le sommeil
+7/2/19, 06:41 - Fad: <Media omitted>
+7/2/19, 07:32 - Ced: Ok. Courage.
+7/2/19, 07:32 - Ced: Oui j'y serai
+7/2/19, 07:32 - Fad: ok
+7/2/19, 07:32 - Fad: u mamene le film
+7/2/19, 07:33 - Ced: Quel film?
+7/2/19, 07:40 - Fad: black snack
+7/2/19, 07:43 - Ced: Ok. J'espère bien
+7/2/19, 19:57 - Ced: J'ai oublié qu'on a français. J viendrai pas aujourd'hui
+7/2/19, 22:29 - Fad: ok
+7/2/19, 22:29 - Ced: Le cours a été ?
+7/2/19, 22:29 - Fad: wi
+7/2/19, 22:31 - Ced: Nice
+7/2/19, 22:34 - Fad: <Media omitted>
+7/2/19, 22:39 - Ced: 😂😂😂 enjaille toi
+7/2/19, 22:40 - Fad: 😎
+7/6/19, 08:42 - Ced: Yo
+7/6/19, 08:42 - Ced: Tu es aux cours?
+7/6/19, 08:43 - Fad: wi mais il n'est pas encore la
+7/6/19, 08:43 - Ced: Okay.
+7/6/19, 09:15 - Ced: J'arrive. Il est là ?
+7/6/19, 09:19 - Fad: nn
+7/14/19, 12:11 - Ced: <Media omitted>
+7/14/19, 12:12 - Ced: <Media omitted>
+7/14/19, 12:13 - Ced: <Media omitted>
+7/14/19, 12:14 - Ced: <Media omitted>
+7/14/19, 13:06 - Fad: xlt
+7/14/19, 13:06 - Fad: <Media omitted>
+7/14/19, 13:07 - Fad: <Media omitted>
+7/14/19, 13:52 - Ced: 😂
+7/14/19, 13:52 - Ced: <Media omitted>
+7/14/19, 13:59 - Fad: <Media omitted>
+7/14/19, 13:59 - Ced: <Media omitted>
+7/14/19, 14:03 - Fad: ok
+7/14/19, 14:35 - Ced: <Media omitted>
+7/14/19, 14:38 - Fad: <Media omitted>
+7/14/19, 14:43 - Ced: Enft, j'ai décidé de créer ma communauté.
+7/14/19, 14:43 - Ced: C'est dans ce sens que je voudrais de tes idées
+7/14/19, 14:44 - Ced: Tu es sur facebook. Essais de faire un tour sur Lomé Kotlin User Group voir. Tu me diras ce que tu en penses
+7/14/19, 14:44 - Fad: ok
+7/15/19, 00:50 - Ced: Si
+7/15/19, 06:17 - Fad: ol
+7/15/19, 06:17 - Fad: ok
+7/16/19, 21:28 - Fad: <Media omitted>
+7/16/19, 22:31 - Fad: <Media omitted>
+7/16/19, 23:18 - Ced: Merci
+7/16/19, 23:19 - Fad: jtp
+7/17/19, 19:03 - Ced: Yo
+7/17/19, 19:03 - Ced: Guy est là stp?
+7/17/19, 19:08 - Fad: nn
+7/18/19, 02:47 - Ced: <Media omitted>
+7/18/19, 05:51 - Fad: ok
+7/18/19, 06:01 - Ced: N'oublie pas de le balancer ce qu'il faut stp
+7/18/19, 07:11 - Fad: ok
+7/18/19, 12:10 - Fad: <Media omitted>
+7/18/19, 12:31 - Ced: Thks
+7/18/19, 12:43 - Fad: 👍🏾
+7/18/19, 18:38 - Fad: xlt
+7/18/19, 18:38 - Ced: Dis y a cours.
+7/18/19, 18:38 - Fad: wi mais j viens pas
+7/18/19, 18:38 - Ced: Why?
+7/18/19, 18:39 - Fad: fatigue
+7/18/19, 18:40 - Ced: Okay
+7/22/19, 13:55 - Ced: <Media omitted>
+7/22/19, 14:00 - Fad: <Media omitted>
+7/22/19, 14:05 - Ced: <Media omitted>
+7/22/19, 14:28 - Fad: <Media omitted>
+7/22/19, 14:30 - Ced: Ah d'accord.
+7/22/19, 21:45 - Ced: Fad, stp, le nom de Mme de Brigitte
+7/23/19, 08:23 - Fad: awata
+7/27/19, 16:14 - Fad: hbd cedrik
+7/27/19, 20:38 - Ced: Thanks bro!
+7/27/19, 20:38 - Ced: T'es où ?
+7/27/19, 20:38 - Ced: On a pris un appartement
+7/27/19, 20:38 - Fad: zon
+7/27/19, 20:39 - Ced: Tu passes quand tu peux.
+7/27/19, 20:39 - Fad: Abn ?
+7/27/19, 20:39 - Fad: ac ki ?
+7/27/19, 20:39 - Ced: You deleted this message
+7/27/19, 20:39 - Ced: Mes potes du Bénin
+7/27/19, 20:40 - Fad: ok u men avait parlé
+7/27/19, 20:40 - Fad: où ?
+7/27/19, 20:40 - Ced: Bientôt on sera avec Tanguy et Kalvin
+7/27/19, 20:40 - Fad: ok
+7/27/19, 20:41 - Ced: location: https://maps.google.com/?q=6.2091318,1.1431123
+7/27/19, 20:41 - Ced: On était ak Yann et Farouk à l'instant
+7/27/19, 20:41 - Fad: ok
+7/27/19, 20:41 - Fad: <Media omitted>
+7/27/19, 20:46 - Ced: <Media omitted>
+7/27/19, 20:47 - Fad: ann ok
+7/27/19, 20:47 - Fad: <Media omitted>
+7/27/19, 20:55 - Ced: <Media omitted>
+7/27/19, 20:57 - Fad: ok on verra
+7/27/19, 20:59 - Ced: 😒 fais un effort tchaley
+7/27/19, 21:09 - Fad: ok
+7/31/19, 23:04 - Ced: Salut Fad!
+7/31/19, 23:04 - Ced: Dis, on est sensé bosser quoi en IHM?
+7/31/19, 23:40 - Fad: tt
+8/3/19, 16:34 - Ced: Why?? 😹😅
+8/3/19, 16:35 - Fad: 😌 souvenir
+8/3/19, 16:36 - Fad: informaticien photoshopeur
+8/3/19, 16:48 - Ced: Okay 😄
+8/4/19, 15:14 - Ced: Je dis hein?!....fad, tu as fini c2f?
+8/4/19, 15:15 - Fad: innn 😅
+8/4/19, 15:16 - Ced: <Media omitted>
+8/4/19, 15:26 - Fad: <Media omitted>
+8/4/19, 15:26 - Fad: <Media omitted>
+8/4/19, 15:27 - Fad: <Media omitted>
+8/4/19, 15:32 - Ced: <Media omitted>
+8/4/19, 15:34 - Ced: <Media omitted>
+8/4/19, 15:54 - Fad: <Media omitted>
+8/4/19, 16:03 - Ced: <Media omitted>
+8/4/19, 16:05 - Ced: <Media omitted>
+8/4/19, 16:08 - Fad: <Media omitted>
+8/4/19, 16:19 - Ced: Okay. T'as des idées pour ça ?
+8/4/19, 16:27 - Fad: pas encore
+8/4/19, 16:27 - Ced: <Media omitted>
+8/4/19, 16:29 - Ced: <Media omitted>
+8/4/19, 16:30 - Fad: oui bon moi c'est le seul problème que je vois
+8/4/19, 16:33 - Fad: oui oui je vois
+8/4/19, 16:34 - Ced: <Media omitted>
+8/4/19, 16:36 - Fad: <Media omitted>
+8/4/19, 16:36 - Ced: Donc l'idée est que dès maintenant on fasse le tout tous ensemble. Qu'on réunisse nos forces et qu'on fasse parler de nous. Qu'on réalise des projets au nom d'un groupe ou d'une communauté. Avec le temps on se fera suffisamment entendre pour réaliser plus grand
+8/4/19, 16:38 - Fad: ok
+8/4/19, 16:42 - Ced: Toi et tes *ok* quoi 🤦🏾‍♂
+8/4/19, 16:42 - Fad: oui ok
+8/5/19, 08:46 - Ced: Salut Fad!
+8/5/19, 08:46 - Ced: Dis, t'as les cours de systèmes embarqués ?
+8/5/19, 11:25 - Fad: nn
+8/5/19, 11:26 - Ced: Et tu bosses quoi pour demain ?
+8/5/19, 11:32 - Fad: <Media omitted>
+8/5/19, 11:49 - Ced: C'est ça je veux.
+8/5/19, 11:49 - Ced: Système distribué *
+8/6/19, 23:07 - Ced: Oft, j'étais là et je me demandais...
+8/6/19, 23:08 - Ced: Kalvin va soutenir aussi non?
+8/6/19, 23:08 - Ced: C'est quoi son plan ?
+8/7/19, 06:19 - Fad: <Media omitted>
+8/7/19, 06:19 - Fad: <Media omitted>
+8/7/19, 06:47 - Ced: <Media omitted>
+8/7/19, 06:52 - Fad: <Media omitted>
+8/7/19, 06:55 - Ced: Okay
+8/7/19, 07:38 - Ced: Apperemment, on ramasse le 19
+8/7/19, 07:43 - Fad: oui
+8/7/19, 15:02 - Fad: l'inscription passe pas
+8/7/19, 15:06 - Ced: Okay. J lui dis.
+8/7/19, 15:09 - Ced: Z moi ça passe.
+8/7/19, 15:11 - Fad: je clique sur le bouton mais sa passe pas
+8/7/19, 15:12 - Ced: Ah bon?
+8/7/19, 15:12 - Ced: Tu as rempli tous les champs?
+8/7/19, 15:14 - Fad: x bon maintenant
+8/7/19, 15:15 - Fad: <Media omitted>
+8/7/19, 15:20 - Ced: Effectivement.
+8/7/19, 15:21 - Fad: ok
+8/7/19, 16:48 - Ced: <Media omitted>
+8/7/19, 16:48 - Ced: <Media omitted>
+8/7/19, 17:25 - Fad: <Media omitted>
+8/7/19, 17:26 - Fad: <Media omitted>
+8/7/19, 17:27 - Fad: cobber
+8/7/19, 17:27 - Ced: <Media omitted>
+8/7/19, 17:28 - Fad: <Media omitted>
+8/7/19, 17:28 - Ced: Ils l'ont supprimé je pense
+8/7/19, 17:30 - Fad: ok
+8/7/19, 17:31 - Fad: <Media omitted>
+8/7/19, 17:31 - Ced: Tu n'aurais pas une façon de les joindre?
+8/7/19, 17:31 - Fad: nn
+8/7/19, 17:31 - Ced: Okay
+8/8/19, 10:50 - Ced: Nice
+8/8/19, 11:01 - Fad: 👍🏾
+8/9/19, 11:12 - Ced: Bonjour Fad!
+8/9/19, 11:12 - Ced: Comment tu vas?
+8/9/19, 11:35 - Fad: bien et toi
+8/9/19, 11:37 - Ced: Ça va tchaley
+8/9/19, 11:37 - Ced: <Media omitted>
+8/9/19, 11:39 - Ced: <Media omitted>
+8/9/19, 11:39 - Ced: <Media omitted>
+8/9/19, 11:39 - Ced: <Media omitted>
+8/9/19, 12:04 - Fad: aucune idée inn
+8/9/19, 12:06 - Ced: Ok. Thks
+8/9/19, 13:11 - Ced: <Media omitted>
+8/9/19, 14:02 - Fad: ok cool
+8/9/19, 21:12 - Ced: <Media omitted>
+8/10/19, 05:13 - Ced: ...
+8/10/19, 09:15 - Fad: <Media omitted>
+8/10/19, 09:27 - Ced: Okay. Thks
+8/10/19, 09:27 - Ced: Tu es à l'école ?
+8/10/19, 20:23 - Fad: nn
+8/18/19, 21:14 - Ced: Salut tchaley !
+8/18/19, 21:14 - Ced: La forme?
+8/18/19, 21:16 - Fad: wi et tw
+8/18/19, 21:17 - Ced: Ça va. On gère
+8/18/19, 21:17 - Ced: Vous avez pu achever l'exposé ?
+8/18/19, 21:18 - Fad: j'suis en train d'écrire le document
+8/18/19, 21:22 - Ced: Félicitations
+8/18/19, 21:22 - Fad: merci
+8/18/19, 21:22 - Fad: et vs
+8/18/19, 21:30 - Ced: On a rédigé le document
+8/18/19, 21:41 - Fad: ok
+8/19/19, 21:45 - Fad: <Media omitted>
+8/19/19, 21:45 - Ced: 😂😂😂 pardon
+8/19/19, 23:14 - Ced: Mais dis moi hein... c'est le banc qui la trompe ou quoi?
+8/19/19, 23:15 - Ced: J'ai l'impression que c'est inspirations se produisent sur ce banc
+8/19/19, 23:17 - Fad: 🤣🤣
+8/22/19, 15:58 - Ced: <Media omitted>
+8/22/19, 16:04 - Fad: x ki sa
+8/22/19, 16:07 - Ced: Chily
+8/22/19, 16:09 - Fad: ok
+8/22/19, 16:33 - Fad: <Media omitted>
+8/22/19, 16:36 - Ced: 2 ou 4. Même le 9
+8/22/19, 16:36 - Ced: Le 9 ne tue pas sans raison. Il en a juste après batman
+8/22/19, 16:37 - Ced: Le 2 ne te fait rien si tu ne dors pas. Il n'attaque en principe qu'en rêve
+8/22/19, 16:37 - Ced: 4*
+8/22/19, 16:38 - Ced: Le 2 ne peux rien tant que tu n'as pas peur.
+8/22/19, 16:38 - Fad: ok
+8/22/19, 16:39 - Ced: Et toi?
+8/22/19, 16:39 - Fad: 9
+8/22/19, 16:40 - Ced: 😂😂😂 normal
+8/22/19, 16:42 - Fad: le gars ki ma envoi lui mm dit kil prefere chuky
+8/22/19, 16:42 - Ced: Aucun d'eux n'est bien dans sa tête
+8/22/19, 16:43 - Ced: Même le Jocker. Façon dont il tue rapidement ses alliés
+8/22/19, 16:43 - Ced: <Media omitted>
+8/22/19, 16:43 - Fad: chuky c un cinglé
+8/22/19, 16:44 - Fad: nn
+8/22/19, 20:01 - Ced: Tu y seras?
+8/22/19, 20:06 - Fad: je sais pas encore
+8/22/19, 20:06 - Ced: Okay
+8/23/19, 19:05 - Ced: C'est à toi je parlais d'une appli à la tictoc fait par des africains ?
+8/23/19, 19:07 - Fad: wi je croi
+8/23/19, 19:09 - Ced: ...ok. l'appli s'appelle vskit enft. Je disais qu'elle était nigeriane parceque Sydney et ses potes en font beaucoup la promo.
+8/23/19, 19:15 - Fad: ok
+8/23/19, 19:15 - Fad: non j croi pas
+8/23/19, 19:16 - Ced: Okay
+8/23/19, 19:16 - Ced: Tu sais de quel Sydney je parle nn?
+8/23/19, 19:16 - Fad: wi wi
+8/23/19, 19:20 - Ced: Okay....bon je me demande bien à qui j'en parlais 😅
+8/23/19, 19:43 - Fad: <Media omitted>
+8/23/19, 19:54 - Ced: <Media omitted>
+8/23/19, 19:55 - Ced: <Media omitted>
+8/23/19, 19:55 - Ced: Bref
+8/23/19, 19:55 - Ced: Ça avance au taff?
+8/23/19, 20:30 - Fad: wi
+8/23/19, 20:30 - Fad: j viens de rentrer comme ça
+8/23/19, 20:51 - Ced: 👍🏾
+8/23/19, 20:52 - Fad: 👍
+8/26/19, 10:24 - Ced: Bonne journée de travail
+8/26/19, 10:25 - Fad: merci
+8/26/19, 10:25 - Fad: à tw ossi
+8/26/19, 10:26 - Ced: 🙏🏾
+8/26/19, 20:25 - Ced: <Media omitted>
+8/26/19, 21:27 - Fad: <Media omitted>
+9/4/19, 20:20 - Ced: Vraiment 😹
+9/4/19, 20:21 - Fad: 😎
+9/6/19, 04:26 - Ced: Yo
+9/6/19, 04:26 - Ced: Dis, avec php on peut automatiser des tâches?
+9/6/19, 04:27 - Ced: Sans intervention d'un utilisateur ?
+9/6/19, 04:28 - Ced: Des tâches du genre à telle heure de la journée, envoyer un msg à un utilisateur donné.
+9/6/19, 08:07 - Fad: <Media omitted>
+9/6/19, 10:37 - Ced: T'es sûr ?
+9/6/19, 10:39 - Ced: Je demande parceque à ce que je sache, il faut l'intervention d'un utilisateur...il faut qu'un utilisateur fasse si pour que ça se produise...ou bien en faisant si, que tel chose se produise
+9/6/19, 10:39 - Fad: https://openclassrooms.com/forum/sujet/automatiser-l-execution-d-un-script-php-toutes-les-semain-82382
+9/6/19, 10:41 - Ced: Thks.
+9/6/19, 10:41 - Ced: Apparemment il faut un serveur...
+9/6/19, 10:41 - Fad: https://www.commentcamarche.net/forum/affich-22576772-automatisation-des-taches-php
+9/6/19, 10:42 - Fad: jtp
+9/6/19, 10:42 - Fad: oui
+9/6/19, 10:42 - Ced: Enfait je me demande si c'est le genre de truc qu'on peut faire directement dans un site sans pour autant passer par les performances d'un serveur.
+9/6/19, 10:42 - Ced: <Media omitted>
+9/6/19, 10:46 - Fad: <Media omitted>
+9/6/19, 10:53 - Ced: Okay. Nice.
+9/6/19, 19:38 - Ced: <Media omitted>
+9/6/19, 19:38 - Fad: le prof ne viens pas
+9/6/19, 19:39 - Fad: <Media omitted>
+9/6/19, 20:17 - Ced: Okay
+9/8/19, 12:02 - Ced: C'est quoi le plan?
+9/8/19, 12:04 - Fad: klk api
+9/8/19, 12:07 - Ced: J'ai remarqué.
+9/8/19, 12:07 - Fad: ok
+9/8/19, 12:09 - Ced: Je me demandais si c'était juste pour le partage.
+9/8/19, 12:09 - Fad: wi wi je suis tombé dessus sur Facebook
+9/8/19, 12:10 - Fad: je voulais pas tt enregistré un à un
+9/8/19, 12:10 - Ced: D'accord
+9/8/19, 12:55 - Fad: <Media omitted>
+9/8/19, 12:57 - Ced: Belle, jeune et intelligente...
+9/8/19, 12:57 - Ced: J'ai envie de rire mais ça me touche enft...
+9/8/19, 12:58 - Fad: <Media omitted>
+9/8/19, 12:58 - Ced: Je ne sais pas si elle déconne ou si elle essai de se convaincre de quelque chose.
+9/8/19, 12:58 - Ced: <Media omitted>
+9/8/19, 12:59 - Fad: <Media omitted>
+9/8/19, 13:03 - Ced: <Media omitted>
+9/8/19, 13:03 - Ced: <Media omitted>
+9/8/19, 13:04 - Fad: sa t'etone ?
+9/8/19, 13:05 - Ced: Carrément. Ça m'étonne.
+9/8/19, 13:05 - Ced: En même temps, pas trop.
+9/8/19, 13:05 - Ced: C'est quand même une meuf
+9/8/19, 13:06 - Fad: <Media omitted>
+9/8/19, 13:08 - Ced: C'est un étudiant ?
+9/8/19, 13:09 - Fad: je sais pas trop
+9/8/19, 13:19 - Ced: Okay
+9/9/19, 14:18 - Fad: xlt
+9/9/19, 14:32 - Ced: C'est quoi le projet?
+9/9/19, 14:32 - Ced: Je suis chaud
+9/9/19, 14:32 - Fad: pour un emploi avec une période de test de 2 mois ?
+9/9/19, 14:35 - Ced: Payé à combien ?
+9/9/19, 14:37 - Ced: N'est-ce pas ?
+9/9/19, 14:38 - Fad: la période de test x à 40000
+mais bon u pourra en discuter avec lui
+9/9/19, 14:38 - Ced: On peut rester chez soi?
+9/9/19, 14:38 - Fad: nn
+9/9/19, 14:40 - Ced: 😄
+9/9/19, 14:40 - Ced: C'est où ?
+9/9/19, 14:43 - Fad: x a 200 mètres du lycée d'agoé
+9/9/19, 14:52 - Ced: Okay. L'endroit s'appelle comment?
+9/9/19, 14:56 - Fad: proconsulting
+9/9/19, 14:56 - Fad: la où je suis actuellement
+9/9/19, 14:56 - Fad: si u es intéressé u m'envoie ton cv
+9/9/19, 14:56 - Ced: <Media omitted>
+9/9/19, 14:58 - Fad: <Media omitted>
+9/9/19, 15:07 - Ced: Je vais quand même t'envoyer mon cv.
+9/9/19, 15:09 - Fad: ok
+9/9/19, 15:09 - Ced: Mais la distance, matin au soir et 1 mois pour 40k ne m'intéresse pas.
+9/9/19, 15:10 - Ced: Mais étant donné que je suis plus ou moins dispo, voilà
+9/9/19, 16:00 - Fad: ok
+9/9/19, 16:00 - Fad: envoi
+9/9/19, 16:03 - Ced: Un instant
+9/9/19, 16:07 - Ced: <Media omitted>
+9/11/19, 13:19 - Ced: <Media omitted>
+9/11/19, 13:48 - Fad: x la machine de ki
+9/11/19, 13:51 - Ced: Ma machine...
+9/11/19, 13:52 - Fad: et u t'etone ?
+9/11/19, 13:52 - Ced: Mais attends. Sérieux, je ne le rappelle pas avoir taffer sur un truc pareil.
+9/11/19, 13:52 - Ced: Loooool. Arrête 😹
+9/11/19, 13:53 - Fad: tu es sûr ?
+9/11/19, 13:54 - Ced: ......j sais plus...😒
+9/11/19, 13:54 - Ced: J'ai utilisé WordPress en première année
+9/11/19, 13:56 - Fad: mais tw mm u sais ke u est capable de faire sa nn
+9/11/19, 14:03 - Ced: Bon, il m'arrive de me surprendre.
+9/11/19, 14:05 - Ced: Lance un navigateur avec lequel t'as jamais visité de site porno et avec lequel tu as utilisé......bref laisse tomber.
+9/11/19, 14:05 - Ced: Ça va ?
+9/14/19, 13:41 - Ced: Salut Fad.
+9/14/19, 13:42 - Ced: Pour le SEO, tu utilises un outil ou tu le fais dans le code source ?
+9/14/19, 13:42 - Ced: Tu connaîtrais un outils gratuit pour?
+9/14/19, 16:13 - Fad: il ya celui de Google ossi
+jai oublié le nom
+il ya le gratuit et le payant
+9/14/19, 16:26 - Ced: En gros tu m'apprends rien...merci quand même.
+9/15/19, 06:29 - Fad: bjr
+9/15/19, 06:30 - Fad: entretien d'embauche lundi à 9h
+9/15/19, 08:45 - Ced: Yooooorh. Et c'est aujourd'hui tu le dis?
+9/15/19, 11:19 - Fad: <Media omitted>
+9/15/19, 12:11 - Ced: Ah bon?!
+9/15/19, 12:11 - Ced: Et Farouk?
+9/15/19, 12:12 - Fad: il dit il travaille sur un projet actuellement dc il pourra pas travailler avec nous
+9/15/19, 12:12 - Ced: <Media omitted>
+9/15/19, 12:13 - Ced: Sinon,,j'espère qu'on pourra trouver un consensus avec ton boss.
+9/15/19, 12:13 - Fad: <Media omitted>
+9/15/19, 12:14 - Ced: <Media omitted>
+9/15/19, 12:16 - Fad: <Media omitted>
+9/15/19, 12:16 - Ced: Okay
+9/15/19, 23:59 - Ced: <Media omitted>
+9/15/19, 23:59 - Ced: <Media omitted>
+9/16/19, 07:04 - Ced: Tu peux m'envoyer la localisation de l'endroit ?
+9/16/19, 07:55 - Fad: location: https://maps.google.com/?q=6.2236218,1.192612
+9/16/19, 07:56 - Fad: <Media omitted>
+9/16/19, 08:06 - Ced: <Media omitted>
+9/16/19, 08:11 - Fad: ok
+9/16/19, 10:46 - Fad: <Media omitted>
+9/16/19, 10:48 - Fad: <Media omitted>
+9/16/19, 15:26 - Ced: https://youtu.be/7lzlm6bhMxQ
+9/16/19, 17:30 - Fad: <Media omitted>
+9/17/19, 08:41 - Fad: xlt
+9/17/19, 08:41 - Fad: u viens pas ?
+9/17/19, 12:35 - Ced: Y a quoi?!?
+9/18/19, 21:47 - Ced: Il y a un tweet qui dit:
+ "Si je savait qu'on allait pas rester ensemble, je n'allait pas te sucer comme ça "
+9/18/19, 21:47 - Ced: 😹
+9/19/19, 09:22 - Fad: 🤣
+9/19/19, 23:49 - Ced: Regarde mon statut
+9/20/19, 07:58 - Fad: ol
+9/20/19, 07:58 - Fad: ok
+9/20/19, 08:00 - Fad: je m'y attendais
+9/20/19, 08:01 - Fad: c'est méchant
+9/20/19, 08:41 - Ced: Vraiment
+9/21/19, 22:15 - Ced: Yo
+9/21/19, 22:15 - Fad: wi
+9/21/19, 22:15 - Ced: <Media omitted>
+9/21/19, 22:17 - Ced: <Media omitted>
+9/21/19, 22:19 - Fad: <Media omitted>
+9/21/19, 22:20 - Fad: <Media omitted>
+9/21/19, 22:22 - Ced: <Media omitted>
+9/21/19, 22:23 - Fad: <Media omitted>
+9/21/19, 22:24 - Ced: Web. Framework : *```KTOR```*
+9/21/19, 22:24 - Fad: ok
+9/21/19, 22:24 - Ced: <Media omitted>
+9/21/19, 22:26 - Fad: ok du courage
+9/21/19, 22:26 - Ced: 😹
+9/21/19, 22:27 - Ced: Donc, tu peux pas m'aider ?
+9/21/19, 22:27 - Ced: Tu suis quoi même enft?
+9/21/19, 22:27 - Fad: qu'est-ce qu on a encore fait au bon dieu
+9/21/19, 22:28 - Fad: lundi u va u va mieux m'expliquer
+9/21/19, 22:31 - Ced: 😹
+9/21/19, 22:31 - Ced: Okay
+9/21/19, 22:31 - Fad: ok
+9/21/19, 22:32 - Ced: <Media omitted>
+9/21/19, 22:33 - Fad: <Media omitted>
+9/21/19, 22:48 - Ced: 👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾👏🏾
+9/21/19, 22:48 - Ced: <Media omitted>
+9/21/19, 22:48 - Ced: <Media omitted>
+9/23/19, 07:07 - Ced: Bonjour ! Ceci est un message de diffusion adressé à Fad et Achille.
+9/23/19, 07:08 - Ced: Nous sommes tous en stage à Proconsulting et nous leur fournissons des produit.
+9/23/19, 07:09 - Ced: Je trouve qu'il est nécessaire de demander au moins un contrat de stage afin que notre travail soit plus ou moins réglementé.
+9/23/19, 07:10 - Ced: Après, nous comptons tous sur Fad pour demandé un bon salaire à la fin de son stage 🌚
+9/23/19, 07:10 - Ced: Le notre en dépendra aussi.
+9/23/19, 07:10 - Ced: 🙏🏾
+9/23/19, 12:49 - Fad: Un homme marié est mort avant d'avoir pu avoir des relations sexuelles avec sa femme. L’épouse a décidé de ne pas se remarier ou d’avoir des relations sexuelles avec un autre homme. Elle a coupé le pénis de son défunt mari et l’a collé au mur. Chaque nuit, elle allait au mur et se satisfaisait.
+Un jour, le voisin, M. Eke, découvrit ce qui se passait. Il fit un trou dans le mur, enleva le pénis du défunt, posa son propre pénis et attendit la dame.
+Malheureusement, le même jour, la dame est venue avec un couteau et a dit: «chérie, nous déménageons dans une nouvelle maison aujourd'hui.»
+😅😅😅😅
+9/23/19, 14:14 - Fad: 🔆 *OFFRE¬* 🇹🇬
+
+La clinique BIASA sise à Lomé recherche pour emploi un Informaticien spécialiste en développement d’application.
+
+*PROFIL :*
+- Être âgé de 25 à 35 ans ;
+- Avoir un diplôme équivalent au BAC +2 en informatique, option développement d’application ;
+- Maîtriser le langage PHP/HTML5 ;
+- Justifier d’une expérience professionnelle de trois (3) ans au moins dans le domaine ;
+- Être honnête, discret, sérieux la tâche, dynamique et créatif ;
+- Être capable de travailler sous pression ;
+- Être disponible.
+
+*DOSSIER DE CANDIDATURE :*
+- Une lettre de motivation adressée au Directeur Général de la clinique ;
+- Un curriculum vitae détaillé ;
+- Une copie légalisée de l’attestation du diplôme ou du diplôme ;
+- Un casier judiciaire datant de moins de trois (3) mois;
+- Un justificatif de l’expérience professionnelle.
+
+*DÉPÔT :*
+Les dossiers doivent être envoyés sous plis fermé à l’adresse suivante :
+BP 2160 Lomé - Togo avec la mention recrutement au poste de développeur d’application.
+
+*DÉLAI :*
+27 SEPTEMBRE 2019.
+
+*NB :*
+Seuls les candidats sélectionnés sur dossier seront convoqués pour un entretien d’embauche.
+
+*CONTACTS :*
++228 22211137
++228 22211160
++228 96181796
+9/23/19, 21:36 - Ced: https://twitter.com/chrisachard/status/1175022111758442497?s=19
+9/25/19, 05:48 - Ced: Bonjour Fad
+9/25/19, 05:48 - Ced: Dis, tu as pinterest?
+9/25/19, 05:52 - Fad: nn
+9/25/19, 05:55 - Ced: Okay
+9/25/19, 15:15 - Fad: الحمد لله
+alhamd lilah
+9/25/19, 15:51 - Fad: <Media omitted>
+9/26/19, 15:57 - Fad: widad.vcf (file attached)
+9/28/19, 09:56 - Ced: Salut Fad!
+9/28/19, 09:57 - Ced: Tu comptes passer vers quelle heure ?
+9/28/19, 10:08 - Fad: 14h30
+9/28/19, 10:09 - Ced: Tu ne pourrais pas passer un peu plus tôt ? Je sors à 16h enft.
+9/28/19, 10:09 - Fad: j crw pa inn
+9/28/19, 10:09 - Fad: <Media omitted>
+9/28/19, 10:10 - Ced: <Media omitted>
+9/28/19, 10:11 - Fad: <Media omitted>
+9/28/19, 10:11 - Fad: pr le mcd
+9/28/19, 10:12 - Fad: <Media omitted>
+9/28/19, 10:13 - Ced: Okay.
+9/28/19, 10:13 - Ced: De mon côté, je vais commencer à travailler dessus autour de 14h.
+9/28/19, 10:13 - Ced: Donc si t'es connecté, on pourra le faire à distance
+9/28/19, 10:14 - Ced: Sinon je te ferai part de mes avancés
+9/28/19, 10:14 - Fad: connecté cmt ?
+jai 100 Mo
+9/28/19, 10:16 - Fad: <Media omitted>
+9/28/19, 10:16 - Ced: Ok. C'est bon.
+9/28/19, 10:16 - Fad: ok
+9/28/19, 10:18 - Ced: C'est clair. Si je dois travailler pour quelqu'un, c'est money, sinon je travaille pour mes rêves, projets et passions.
+9/28/19, 10:18 - Ced: Simple
+9/28/19, 10:18 - Ced: Ils finissent par rapporter
+9/28/19, 10:19 - Fad: 👍🏾
+9/28/19, 14:17 - Ced: You look like a sin 🤣
+9/28/19, 14:18 - Fad: 🤣🤣
+9/28/19, 14:44 - Ced: <Media omitted>
+9/28/19, 17:11 - Fad: <Media omitted>
+9/28/19, 17:33 - Fad: <Media omitted>
+9/28/19, 17:33 - Fad: <Media omitted>
+9/28/19, 17:33 - Fad: <Media omitted>
+9/28/19, 17:33 - Fad: <Media omitted>
+9/29/19, 00:29 - Ced: <Media omitted>
+9/29/19, 11:39 - Fad: ok
+9/29/19, 11:39 - Fad: bjr
+9/29/19, 11:41 - Ced: Bonjour Fad
+9/29/19, 11:41 - Fad: c'est comment
+9/29/19, 11:42 - Ced: <Media omitted>
+9/29/19, 11:47 - Fad: <Media omitted>
+9/29/19, 11:50 - Ced: <Media omitted>
+9/29/19, 11:50 - Fad: ok ok
+9/29/19, 19:09 - Fad: 👀
+9/29/19, 19:09 - Ced: <Media omitted>
+9/29/19, 19:10 - Fad: ok
+9/29/19, 19:26 - Ced: <Media omitted>
+9/29/19, 19:26 - Ced: <Media omitted>
+9/29/19, 19:27 - Ced: <Media omitted>
+9/29/19, 19:28 - Ced: <Media omitted>
+9/29/19, 19:29 - Ced: <Media omitted>
+9/29/19, 19:30 - Ced: <Media omitted>
+9/29/19, 19:31 - Ced: <Media omitted>
+9/29/19, 19:35 - Fad: <Media omitted>
+9/29/19, 19:41 - Ced: <Media omitted>
+9/29/19, 19:44 - Fad: <Media omitted>
+9/29/19, 19:44 - Ced: <Media omitted>
+9/29/19, 19:45 - Ced: <Media omitted>
+9/29/19, 19:46 - Ced: <Media omitted>
+9/29/19, 19:47 - Fad: <Media omitted>
+9/29/19, 19:48 - Fad: <Media omitted>
+9/29/19, 19:49 - Ced: Voilà
+9/29/19, 19:49 - Ced: Effectivement
+9/29/19, 19:51 - Fad: <Media omitted>
+9/29/19, 19:53 - Ced: Okay
+9/29/19, 19:59 - Ced: <Media omitted>
+9/29/19, 20:00 - Fad: ok
+9/29/19, 20:02 - Ced: <Media omitted>
+9/29/19, 20:04 - Fad: <Media omitted>
+9/29/19, 20:08 - Fad: <Media omitted>
+9/29/19, 20:11 - Ced: <Media omitted>
+9/29/19, 20:25 - Fad: <Media omitted>
+9/29/19, 20:26 - Fad: <Media omitted>
+9/29/19, 20:27 - Ced: Okay d'accord
+9/29/19, 20:32 - Ced: <Media omitted>
+9/29/19, 20:33 - Fad: ok
+9/29/19, 20:49 - Ced: <Media omitted>
+9/29/19, 20:50 - Fad: ok
+9/29/19, 21:38 - Ced: <Media omitted>
+9/30/19, 00:44 - Fad: ok
+9/30/19, 00:46 - Fad: <Media omitted>
+9/30/19, 00:49 - Ced: Okay
+9/30/19, 00:49 - Ced: Les interfaces réelles?
+9/30/19, 00:49 - Ced: De firebase même ?
+9/30/19, 00:52 - Fad: <Media omitted>
+9/30/19, 00:54 - Ced: <Media omitted>
+9/30/19, 00:56 - Fad: ok
+9/30/19, 01:19 - Fad: <Media omitted>
+9/30/19, 01:19 - Fad: <Media omitted>
+9/30/19, 06:24 - Ced: On va juste faire des text. No stress pour le moment
+10/3/19, 06:53 - Fad: Bonjour tout le monde ! Vous m'excuserez, aujourd'hui je serai un peu en retard.
+10/3/19, 06:53 - Fad: c'est tout ?
+10/3/19, 06:54 - Ced: Oui, pourquoi ?
+10/3/19, 06:59 - Fad: nn rien
+10/3/19, 07:09 - Ced: Ok
+10/3/19, 09:15 - Ced: <Media omitted>
+10/3/19, 09:15 - Ced: Je viens de le remarquer
+10/3/19, 09:17 - Ced: Un vrai idiot de ça race
+10/3/19, 09:18 - Fad: babadé
+10/5/19, 10:38 - Ced: <Media omitted>
+10/5/19, 10:39 - Fad: <Media omitted>
+10/5/19, 10:39 - Ced: <Media omitted>
+10/5/19, 10:40 - Fad: x grave
+10/5/19, 10:40 - Fad: <Media omitted>
+10/5/19, 10:57 - Ced: <Media omitted>
+10/5/19, 10:58 - Fad: <Media omitted>
+10/5/19, 11:10 - Ced: <Media omitted>
+10/5/19, 11:40 - Fad: tranquille
+10/5/19, 11:51 - Ced: 😹
+10/5/19, 12:10 - Fad: <Media omitted>
+10/5/19, 12:33 - Ced: <Media omitted>
+10/5/19, 13:00 - Fad: ok
+10/5/19, 15:21 - Ced: 😒
+10/5/19, 16:11 - Fad: xlt
+10/5/19, 16:46 - Ced: On fait quoi?
+10/5/19, 16:48 - Fad: dam
+10/5/19, 16:49 - Ced: Lol
+10/5/19, 16:49 - Ced: Tu as fini les diagrammes?
+10/5/19, 17:30 - Fad: <Media omitted>
+10/5/19, 17:30 - Fad: <Media omitted>
+10/5/19, 18:06 - Ced: <Media omitted>
+10/5/19, 18:30 - Fad: <Media omitted>
+10/5/19, 18:32 - Ced: <Media omitted>
+10/5/19, 18:33 - Fad: <Media omitted>
+10/5/19, 18:34 - Fad: <Media omitted>
+10/5/19, 18:36 - Ced: <Media omitted>
+10/5/19, 18:36 - Ced: <Media omitted>
+10/5/19, 18:38 - Fad: <Media omitted>
+10/5/19, 18:44 - Ced: <Media omitted>
+10/5/19, 18:57 - Fad: <Media omitted>
+10/5/19, 19:12 - Ced: <Media omitted>
+10/5/19, 19:13 - Fad: <Media omitted>
+10/5/19, 19:13 - Ced: <Media omitted>
+10/5/19, 19:14 - Ced: <Media omitted>
+10/6/19, 20:52 - Fad: tu peut me rappeler le nom de la technologie du côté base de données de notre application pour le projet tutoré ?
+10/6/19, 20:53 - Ced: Firebase. Realtime database
+10/6/19, 20:53 - Fad: u parlait de gcp nn
+10/6/19, 20:53 - Ced: <Media omitted>
+10/6/19, 20:55 - Fad: ok
+10/6/19, 20:56 - Ced: 👍🏾
+10/7/19, 17:16 - Fad: <Media omitted>
+10/7/19, 17:16 - Fad: <Media omitted>
+10/7/19, 17:16 - Fad: x le document d'Achille il dit de donné sa à dieu donné à l'école
+10/7/19, 17:17 - Ced: Okay
+10/7/19, 17:17 - Fad: 👍🏾
+10/8/19, 00:45 - Ced: <Media omitted>
+10/8/19, 00:45 - Ced: <Media omitted>
+10/9/19, 13:54 - Ced: https://youtu.be/EwxyD_dkGVA
+10/10/19, 15:44 - Ced: “Kotlin : data class” by Cédric Kossi https://link.medium.com/YlYIECEPC0
+10/10/19, 21:24 - Ced: Développeur android (H/F)payé à 45k€ le mois.
+10/10/19, 21:24 - Ced: Tu ne vois pas que les gens sont bien???
+10/10/19, 21:25 - Fad: a lomé ?
+10/10/19, 21:25 - Ced: <Media omitted>
+10/10/19, 21:26 - Fad: ok cool
+10/10/19, 21:26 - Ced: <Media omitted>
+10/10/19, 21:28 - Fad: ok j croyais que x pr chaque développeur
+10/10/19, 21:30 - Ced: <Media omitted>
+10/10/19, 21:30 - Fad: wi javai compris
+10/10/19, 21:32 - Ced: Okay
+10/12/19, 13:57 - Ced: ?
+10/12/19, 13:58 - Fad: équipe nationale de basket-ball togolaise
+10/12/19, 13:58 - Fad: pour un tournoi au Qatar
+10/12/19, 14:05 - Ced: Ah super. Force à eux.
+10/12/19, 14:12 - Fad: 👍🏾
+10/12/19, 18:48 - Ced: T'as kiffé hein?!
+10/12/19, 18:48 - Fad: 👍🏾
+10/12/19, 18:54 - Fad: <Media omitted>
+10/12/19, 19:01 - Ced: Et?
+10/12/19, 19:01 - Ced: Le lundi il restera sur place?
+10/12/19, 19:01 - Ced: Bon, c'est déjà ça. On verra ce que ça donnera le lundi.
+10/12/19, 19:03 - Fad: <Media omitted>
+10/12/19, 19:03 - Fad: oui
+10/12/19, 19:04 - Ced: Tu penses??? 😹
+10/12/19, 19:04 - Fad: bon on verra kn mm
+10/12/19, 19:04 - Ced: <Media omitted>
+10/12/19, 19:05 - Fad: 👍🏾
+10/13/19, 10:55 - Ced: T'as vu le statut d'Achille ?
+10/13/19, 11:04 - Fad: hummm
+10/13/19, 11:06 - Ced: L'amour ne suffit pas frère 😆
+10/13/19, 11:08 - Fad: hummm
+10/13/19, 18:53 - Fad: salut
+10/13/19, 18:53 - Fad: <Media omitted>
+10/13/19, 19:25 - Ced: <Media omitted>
+10/13/19, 19:26 - Fad: ok
+10/13/19, 19:27 - Fad: u peut me détailler le processus de création de compte (les informations à saisir )
+10/13/19, 19:28 - Ced: Email, password
+10/13/19, 19:29 - Ced: <Media omitted>
+10/13/19, 19:29 - Ced: <Media omitted>
+10/13/19, 19:32 - Fad: <Media omitted>
+10/13/19, 19:33 - Ced: Oui
+10/13/19, 19:34 - Ced: <Media omitted>
+10/13/19, 19:36 - Fad: <Media omitted>
+10/13/19, 19:37 - Ced: <Media omitted>
+10/13/19, 19:38 - Fad: <Media omitted>
+10/13/19, 19:38 - Fad: <Media omitted>
+10/13/19, 19:39 - Ced: <Media omitted>
+10/13/19, 19:57 - Fad: ok
+10/14/19, 21:10 - Fad: <Media omitted>
+10/14/19, 21:11 - Fad: <Media omitted>
+10/14/19, 21:30 - Ced: <Media omitted>
+10/14/19, 21:43 - Ced: <Media omitted>
+10/14/19, 23:02 - Fad: <Media omitted>
+10/14/19, 23:03 - Fad: <Media omitted>
+10/14/19, 23:04 - Fad: <Media omitted>
+10/14/19, 23:23 - Ced: D'accord.
+10/14/19, 23:24 - Ced: <Media omitted>
+10/14/19, 23:27 - Fad: <Media omitted>
+10/14/19, 23:28 - Fad: <Media omitted>
+10/15/19, 01:41 - Ced: D'accord. Bonne chance
+10/15/19, 05:57 - Fad: merci
+10/15/19, 08:15 - Fad: <Media omitted>
+10/16/19, 07:12 - Ced: <Media omitted>
+10/16/19, 07:13 - Ced: <Media omitted>
+10/16/19, 20:50 - Ced: <Media omitted>
+10/16/19, 20:50 - Ced: <Media omitted>
+10/16/19, 20:50 - Ced: <Media omitted>
+10/16/19, 20:50 - Ced: <Media omitted>
+10/16/19, 21:02 - Fad: j'avais déjà suivie sa
+10/16/19, 21:02 - Fad: sauf la deuxième
+10/16/19, 21:07 - Ced: Je m'en doutais 😄
+10/17/19, 20:12 - Ced: <Media omitted>
+10/17/19, 20:17 - Fad: ok cool
+10/18/19, 08:54 - Fad: <Media omitted>
+10/18/19, 08:55 - Fad: <Media omitted>
+10/18/19, 08:55 - Fad: <Media omitted>
+10/18/19, 08:55 - Fad: <Media omitted>
+10/18/19, 19:17 - Ced: <Media omitted>
+10/18/19, 19:26 - Fad: <Media omitted>
+10/18/19, 20:03 - Ced: Ok
+10/18/19, 20:10 - Ced: <Media omitted>
+10/18/19, 20:11 - Ced: Je teste un truc voir
+10/18/19, 20:12 - Fad: sa passe tjrs pas
+10/18/19, 20:12 - Fad: <Media omitted>
+10/18/19, 20:13 - Ced: Okay
+10/18/19, 20:18 - Ced: Je le lui ai envoyé
+10/18/19, 20:18 - Fad: ok
+10/18/19, 20:18 - Fad: sa sest installer ?
+10/18/19, 20:19 - Ced: J'ai suivi ta procédure
+10/18/19, 20:19 - Fad: ok
+10/18/19, 20:19 - Ced: <Media omitted>
+10/18/19, 20:19 - Ced: Pas besoin de le lui renvoyer
+10/18/19, 20:19 - Ced: Bonne soirée
+10/18/19, 20:20 - Fad: merci à tw ossi
+10/18/19, 20:21 - Fad: sinon chez moi sa refuse inn
+10/18/19, 20:26 - Ced: Je te l'ai envoyé sur télégram
+10/19/19, 00:15 - Ced: Au moins, transcris non?
+10/19/19, 13:01 - Fad: 😏
+10/19/19, 13:37 - Ced: Sérieux. J veux comprendre
+10/19/19, 13:44 - Fad: https://www.ajib.fr/amp/article/35974-ayat-al-kursi-sourate-2-verset-255-sa-revelation-et-ses-merites.html
+10/19/19, 13:46 - Fad: https://sirat-el-mostakim.skyrock.mobi/2291309723-les-paroles-est-traduction-en-francais-de-ayat-al-koursi.html
+10/19/19, 13:46 - Fad: traduction
+10/19/19, 13:46 - Fad: bienfait
+10/19/19, 13:50 - Fad: <Media omitted>
+10/19/19, 13:53 - Ced: <Media omitted>
+10/19/19, 13:53 - Ced: <Media omitted>
+10/19/19, 13:54 - Fad: <Media omitted>
+10/19/19, 13:54 - Fad: <Media omitted>
+10/19/19, 13:55 - Ced: Thks
+10/19/19, 13:56 - Ced: Okay. Thks.
+10/19/19, 13:56 - Fad: 👍🏾
+10/19/19, 20:22 - Fad: <Media omitted>
+10/19/19, 20:46 - Ced: <Media omitted>
+10/19/19, 20:51 - Fad: <Media omitted>
+10/19/19, 20:51 - Fad: <Media omitted>
+10/19/19, 20:57 - Ced: <Media omitted>
+10/19/19, 20:58 - Fad: ok
+10/19/19, 20:57 - Ced: <Media omitted>
+10/19/19, 20:58 - Fad: ok
+10/19/19, 20:59 - Ced: 👍🏾
+10/19/19, 20:59 - Fad: 👍🏾
+10/19/19, 22:14 - Ced: <Media omitted>
+10/19/19, 22:19 - Ced: <Media omitted>
+10/20/19, 08:54 - Fad: bjr
+10/20/19, 09:11 - Ced: Bonjour Fad!
+10/20/19, 09:11 - Fad: sa va ?
+10/20/19, 09:12 - Ced: Bien et toi?
+10/20/19, 09:12 - Fad: sa va
+10/20/19, 09:13 - Fad: <Media omitted>
+10/20/19, 09:15 - Ced: C'est ça le plan.
+10/20/19, 09:21 - Fad: ok
+10/20/19, 09:47 - Fad: <Media omitted>
+10/20/19, 10:20 - Ced: Okay
+10/20/19, 10:22 - Ced: <Media omitted>
+10/20/19, 10:23 - Fad: merci
+10/20/19, 10:23 - Ced: Jtp
+10/22/19, 20:11 - Ced: Yo
+10/23/19, 07:54 - Fad: oui
+10/23/19, 18:31 - Ced: <Media omitted>
+10/24/19, 20:36 - Ced: Pour les principales fonctionnalités du logiciel de gestion
+
+- ÉPARGNE ( Dépôts et Retraits)
+- CRÉDIT ( Differents types de crédit avec différents taux)
+- MICROASSURANCE SANTE
+- TONTINE
+10/24/19, 20:36 - Ced: - UN RELAIS GSM pour la notification des différents operations
+
+Une application mobile par lequel les agents tontine enverraient les informations depuis le terrain directement au serveur central...
+Peut-être une possibilité pour les clients de consulter leur solde...
+Et pour les pharmacies ou hôpitaux partenaires, possibilité de vérifier si un client a souscrit à la microassurance santé...
+10/25/19, 07:59 - Ced: Blême gastrique. Je serai un peu plus en retard. J'ai écrit au DG.
+10/25/19, 08:26 - Fad: ok
+10/25/19, 08:26 - Fad: x koi
+10/25/19, 08:27 - Ced: Un marché.
+10/25/19, 08:27 - Ced: On en reparlera
+10/25/19, 08:27 - Fad: ok
+10/25/19, 18:38 - Ced: 😒
+10/25/19, 18:38 - Fad: tu est où ?
+10/25/19, 18:38 - Ced: W.C
+10/25/19, 18:40 - Fad: ok
+10/25/19, 18:40 - Fad: du courage
+10/25/19, 18:40 - Fad: après tu passes dans le bureau du dg
+10/25/19, 18:41 - Fad: il dit l'application doit être prêt pour lundi mais je lui ai dit mercredi où jeudi vu que jai pas encore fini et aussi que tu devait faire des contrôles sur tes interfaces
+10/25/19, 19:03 - Ced: Okay
+10/28/19, 22:14 - Ced: Je rentre sous la douche jusqu'à ressortir et mon Android studio n'est toujours pas lancé
+10/29/19, 09:42 - Fad: http://ssii.roots-technologies.com/wpsite/
+10/29/19, 13:43 - Ced: <Media omitted>
+10/29/19, 13:44 - Ced: <Media omitted>
+10/30/19, 19:24 - Fad: <Media omitted>
+10/31/19, 22:14 - Ced: Je viens de rentrer
+11/1/19, 13:20 - Fad: ok
+11/2/19, 11:36 - Fad: <Media omitted>
+11/2/19, 11:36 - Fad: <Media omitted>
+11/2/19, 14:02 - Ced: C'est quoi le plan ?
+11/2/19, 14:37 - Fad: ta pas lu l'entête ?
+11/2/19, 14:37 - Ced: <Media omitted>
+11/2/19, 14:39 - Fad: c'est klkun ki ma envoyée sa
+11/2/19, 14:43 - Ced: Okay
+11/2/19, 21:19 - Ced: <Media omitted>
+11/3/19, 10:24 - Fad: c'est pas important
+11/3/19, 10:37 - Ced: N'est-ce pas ? !
+11/3/19, 10:41 - Fad: il ya certains école qu'on ne connais même pas sur cette liste
+11/3/19, 10:46 - Ced: C'est ça le pire
+11/3/19, 10:47 - Ced: Est-ce qu'il y a une université que tu connais et qui ne s'y trouve pas à part ESIBA ?
+11/3/19, 10:47 - Fad: oui
+11/3/19, 16:41 - Ced: <Media omitted>
+11/3/19, 16:41 - Ced: <Media omitted>
+11/3/19, 17:14 - Fad: déjà tchalé déjà
+11/3/19, 17:14 - Fad: <Media omitted>
+11/3/19, 17:15 - Fad: <Media omitted>
+11/3/19, 17:20 - Ced: <Media omitted>
+11/3/19, 17:20 - Ced: <Media omitted>
+11/3/19, 17:21 - Ced: Okay
+11/3/19, 23:23 - Ced: Tu aimes les films d'horreur ?
+11/3/19, 23:23 - Ced: Ta santé se calme?
+11/4/19, 07:58 - Fad: pas tous
+11/4/19, 07:58 - Fad: sa peut aller
+11/4/19, 08:02 - Ced: Okay. T'es au taff?
+11/4/19, 08:02 - Fad: nn
+11/4/19, 08:02 - Fad: l'après-midi
+11/4/19, 08:02 - Ced: Okay.
+11/4/19, 13:12 - Ced: Salut Fad!
+11/4/19, 13:12 - Ced: Dis, toutes les API sont en ligne n'est-ce pas ?
+11/4/19, 19:45 - Ced: J'ai pas compris
+11/4/19, 19:46 - Fad: cest une équipe de basket-ball
+11/4/19, 19:47 - Fad: <Media omitted>
+11/4/19, 19:48 - Ced: Okay
+11/4/19, 19:49 - Ced: Oooh. C'est grave
+11/5/19, 21:43 - Ced: <Media omitted>
+11/5/19, 21:48 - Ced: <Media omitted>
+11/6/19, 09:03 - Fad: 👀
+11/6/19, 16:51 - Fad: <Media omitted>
+11/6/19, 16:59 - Ced: https://youtu.be/eZEQFy6iaM4
+11/8/19, 21:55 - Fad: <Media omitted>
+11/9/19, 06:53 - Ced: Looool
+11/9/19, 07:25 - Fad: <Media omitted>
+11/9/19, 07:32 - Ced: 😹😹😹
+11/12/19, 10:05 - Ced: <Media omitted>
+11/12/19, 10:05 - Ced: <Media omitted>
+11/12/19, 11:55 - Ced: <Media omitted>
+11/12/19, 11:55 - Ced: <Media omitted>
+11/12/19, 17:53 - Ced: <Media omitted>
+11/13/19, 16:05 - Fad: SKY96749
+
+GBTUWZWZ
+11/13/19, 20:28 - Ced: <Media omitted>
+11/13/19, 20:33 - Fad: ok
+11/13/19, 20:37 - Ced: Ok
+11/13/19, 20:44 - Ced: Artemisia*
+11/13/19, 20:45 - Fad: 😏ok
+11/13/19, 20:47 - Ced: Ok
+11/14/19, 14:52 - Ced: Imbécile !
+11/16/19, 13:56 - Ced: La chaleur d'aujourd'hui est mortelle
+11/16/19, 13:56 - Fad: moi je sens rien
+11/16/19, 14:00 - Ced: Je m'en doute bien
+11/16/19, 17:33 - Ced: Dis, c'était quel adidas off-white?
+11/16/19, 19:39 - Fad: je sais plus inn
+11/18/19, 11:47 - Fad: <Media omitted>
+11/19/19, 08:01 - Fad: salut
+11/19/19, 08:02 - Ced: 😅 y a quoi?
+11/19/19, 08:02 - Fad: en venant n'oublie pas tes pièces
+11/19/19, 08:03 - Ced: Okay. J vais en profiter alors pour passer la matinée dessus.
+11/19/19, 08:03 - Fad: ok
+11/19/19, 08:03 - Fad: porte monnaie
+cable vga
+11/19/19, 08:18 - Fad: le film aussi
+11/19/19, 08:19 - Ced: Dis lui de m'envoyer le lien
+11/19/19, 08:19 - Ced: N'oublie pas de dire à Mr que je suis dans des courses stp
+11/19/19, 08:20 - Fad: pour légaliser tes pièces ?
+11/19/19, 08:21 - Ced: Oui...ou bien pas besoin...
+11/19/19, 08:21 - Fad: <Media omitted>
+11/19/19, 08:22 - Fad: <Media omitted>
+11/19/19, 08:22 - Ced: <Media omitted>
+11/19/19, 08:23 - Fad: ok
+11/19/19, 08:28 - Ced: <Media omitted>
+11/19/19, 08:28 - Fad: <Media omitted>
+11/19/19, 08:29 - Ced: <Media omitted>
+11/19/19, 08:29 - Fad: <Media omitted>
+11/19/19, 08:30 - Fad: <Media omitted>
+11/19/19, 08:31 - Fad: <Media omitted>
+11/19/19, 08:32 - Ced: 5000?
+11/19/19, 08:32 - Ced: 1 à 1000frcs?
+11/19/19, 08:32 - Fad: <Media omitted>
+11/19/19, 08:33 - Ced: Lol
+11/19/19, 08:34 - Ced: <Media omitted>
+11/19/19, 08:38 - Fad: <Media omitted>
+11/19/19, 08:38 - Fad: <Media omitted>
+11/19/19, 08:38 - Fad: <Media omitted>
+11/19/19, 08:39 - Fad: <Media omitted>
+11/19/19, 08:41 - Ced: D'accord
+11/19/19, 08:47 - Ced: Tu as les photos ?
+11/19/19, 09:13 - Fad: non
+11/19/19, 09:15 - Ced: <Media omitted>
+11/19/19, 09:17 - Fad: <Media omitted>
+11/19/19, 09:19 - Ced: <Media omitted>
+11/19/19, 09:21 - Fad: <Media omitted>
+11/19/19, 09:22 - Ced: Okay
+11/19/19, 09:23 - Ced: Concernant Bakisto, on pourra compter sur lui ou on se débrouille ?
+11/19/19, 09:23 - Fad: non on se débrouille
+11/19/19, 09:23 - Ced: Ok
+11/20/19, 06:27 - Fad: salut
+11/20/19, 06:39 - Ced: Bonjour
+11/20/19, 06:40 - Fad: <Media omitted>
+11/20/19, 06:41 - Fad: <Media omitted>
+11/20/19, 06:42 - Ced: Je me demande aussi
+11/20/19, 06:42 - Ced: Si les banques ouvrent vite
+11/20/19, 06:42 - Fad: <Media omitted>
+11/20/19, 06:43 - Ced: Bakisto m'a envoyé les images
+11/20/19, 06:44 - Ced: Il faudrait aussi que je passe faire tes photos
+11/20/19, 06:44 - Fad: <Media omitted>
+11/20/19, 06:44 - Ced: Oui
+11/20/19, 07:04 - Fad: <Media omitted>
+11/20/19, 07:07 - Ced: Okay
+11/20/19, 07:07 - Ced: Espérons qu'il vienne tôt
+11/20/19, 07:12 - Fad: oui
+11/20/19, 07:13 - Ced: <Media omitted>
+11/20/19, 07:14 - Ced: <Media omitted>
+11/20/19, 07:15 - Fad: <Media omitted>
+11/21/19, 08:17 - Ced: Le service n'a pas été annulé ? ??
+11/21/19, 08:18 - Fad: <Media omitted>
+11/21/19, 08:18 - Ced: Pffff...ok
+11/21/19, 18:01 - Ced: Je viens de rentrer
+11/21/19, 18:01 - Ced: Ça a été long
+11/21/19, 18:02 - Fad: tu as quand même pris sa nn ?
+11/21/19, 18:02 - Ced: Oui
+11/21/19, 18:03 - Fad: ok
+11/21/19, 18:03 - Ced: 👍🏾
+11/21/19, 18:03 - Ced: Tu seras aux cours ?
+11/21/19, 18:03 - Fad: le cour à été reporté
+11/21/19, 18:04 - Ced: Sur quel jour?
+11/21/19, 18:04 - Fad: la séance prochaine
+11/21/19, 18:04 - Ced: Ok
+11/21/19, 20:38 - Fad: salut
+11/21/19, 20:38 - Fad: on vas à la dam demain
+11/21/19, 20:39 - Fad: Mr dit de venir vite pour pouvoir tester l'application sur tablette
+11/21/19, 20:42 - Fad: <Media omitted>
+11/21/19, 20:46 - Ced: Salut !
+11/21/19, 20:46 - Ced: C'est qui svp?
+11/21/19, 21:55 - Fad: <Media omitted>
+11/21/19, 22:03 - Ced: Vous vous êtes probablement trompé de numéro
+11/21/19, 22:03 - Ced: Passez une agréable nuit
+11/21/19, 22:04 - Fad: ok on se  demain o boulot
+11/21/19, 22:06 - Ced: On ne se connaît pas Mr. Merci de ne pas insister
+11/21/19, 22:07 - Fad: ok avec ta tête la viens demain en tshirt et Jean et kan le dg va te demander tu dira que je tai rien dit
+11/21/19, 22:07 - Ced: C'est qui svp???
+11/21/19, 22:08 - Fad: demande à Achille x à ki le numéro
+11/21/19, 22:09 - Ced: Connais pas.
+11/21/19, 22:10 - Fad: <Media omitted>
+11/21/19, 22:11 - Ced: ....
+11/21/19, 22:11 - Ced: Si je comprends bien, c'était le but de tout ceci...
+11/21/19, 22:11 - Ced: Je vais vous bloquer.
+11/21/19, 22:11 - Ced: Bye!
+11/21/19, 22:11 - Fad: bye
+11/21/19, 22:12 - Fad: tu salut mimi
+11/21/19, 22:23 - Ced: On n'a qu'à se respecter hun?!
+11/21/19, 22:23 - Ced: Donc, c'est si répandu que ça ?
+11/21/19, 22:24 - Fad: sa ta ramené à la raison ?
+11/21/19, 22:25 - Ced: J'ai un collègue qui a ce genre de problème...
+11/21/19, 22:25 - Fad: ok
+11/21/19, 22:26 - Ced: Vous pensez que c'est fini pour lui??? Il a probablement plus de chance de mourir de branlette...mais bon...on sait jamais
+11/21/19, 22:27 - Fad: mimi est sur Facebook?
+11/21/19, 22:28 - Ced: Bref
+11/22/19, 19:53 - Ced: C'était ma soeur j'appelais
+11/22/19, 19:53 - Fad: oui je savais
+11/22/19, 19:54 - Ced: Si les cousines sont pour les cousins, pourquoi tes soeurs ne te gateraient pas ? 🌚
+11/22/19, 19:54 - Fad: ok
+11/26/19, 19:02 - Ced: <Media omitted>
+11/26/19, 22:45 - Ced: <Media omitted>
+11/26/19, 22:45 - Ced: <Media omitted>
+11/26/19, 22:45 - Ced: <Media omitted>
+11/26/19, 22:45 - Ced: <Media omitted>
+11/26/19, 22:46 - Ced: Je pense que ce sera nuit blanche aujourd'hui
+11/26/19, 22:46 - Ced: Je t'enverrai le reste petit à petit
+11/26/19, 22:46 - Fad: <Media omitted>
+11/26/19, 22:46 - Ced: Si t'as besoin d'infos je suis là
+11/26/19, 22:46 - Fad: tu peut m'envoyer une sans aucune entrée ?
+11/26/19, 22:47 - Fad: <Media omitted>
+11/26/19, 22:47 - Ced: Je n'en ai pas là.
+11/26/19, 22:48 - Ced: <Media omitted>
+11/26/19, 22:50 - Fad: <Media omitted>
+11/26/19, 22:50 - Fad: fait une capture non
+11/26/19, 22:50 - Ced: Oui
+11/26/19, 22:51 - Ced: Je ne pourrais pas en faire là maintenant.
+11/26/19, 22:51 - Fad: ok
+11/26/19, 22:51 - Ced: C'est si important. Je vais devoir changer beaucoup de choses pour ça.
+11/26/19, 22:51 - Fad: koi ?
+11/26/19, 22:52 - Ced: <Media omitted>
+11/26/19, 22:54 - Fad: <Media omitted>
+11/26/19, 22:56 - Ced: D'accord.
+11/26/19, 22:56 - Ced: <Media omitted>
+11/26/19, 23:01 - Fad: ok
+11/27/19, 05:09 - Ced: <Media omitted>
+11/27/19, 05:09 - Ced: <Media omitted>
+11/27/19, 05:09 - Ced: <Media omitted>
+11/27/19, 05:09 - Ced: <Media omitted>
+11/27/19, 05:09 - Ced: <Media omitted>
+11/27/19, 05:10 - Ced: La liste des contacts
+11/27/19, 05:11 - Ced: La liste des utilisateurs avec qui tu as chaté
+11/27/19, 05:11 - Ced: Discussion
+11/27/19, 05:11 - Ced: <Media omitted>
+11/27/19, 05:12 - Ced: <Media omitted>
+11/27/19, 06:06 - Fad: <Media omitted>
+11/27/19, 07:30 - Fad: <Media omitted>
+11/27/19, 07:55 - Fad: Missed voice call
+11/27/19, 08:03 - Ced: Hummm frère.
+11/27/19, 08:03 - Ced: Tu penses que je peux passer?
+11/27/19, 08:03 - Ced: Ou je vais sortir unéd excuse...
+11/27/19, 08:04 - Ced: Je viens de me reveiller...
+11/27/19, 08:06 - Fad: <Media omitted>
+11/27/19, 08:07 - Fad: <Media omitted>
+11/27/19, 09:07 - Ced: Tchaley, je vais demander une permission pour venir durant l'apm .
+11/27/19, 09:23 - Ced: De la bouillie pour combien ?
+11/27/19, 09:27 - Ced: You deleted this message
+11/29/19, 09:43 - Fad: salut
+11/29/19, 09:43 - Fad: Missed voice call
+11/30/19, 11:15 - Fad: <Media omitted>
+11/30/19, 11:32 - Ced: Wouaaah. T'en disais quoi? J ma rappelle pas.
+12/1/19, 17:55 - Ced: Salut Fad !
+12/1/19, 17:55 - Ced: Tu as Windows server?
+12/1/19, 18:28 - Fad: non
+12/3/19, 20:34 - Ced: Ok, d'abord.  Pouvez-vous m'envoyer quelques une de vos réalisations. Je veux un site simple. C'est pour une association.  Un site vitrine.
+12/3/19, 20:34 - Ced: De quelles informations tu as besoin?
+12/3/19, 20:36 - Fad: les détails sur le travail à faire
+12/3/19, 20:37 - Ced: Oui pour l'instant.  Je veux bien un onglet contact qui permettent aux gens de nous contacter. Et également un lien vers un site de croundfounding
+12/3/19, 20:37 - Fad: les textes à mettre, les différentes pages
+12/3/19, 20:37 - Ced: Je veux pouvoir mettre à jour le site moi-même plus tard avec les activités ressentes de l'association
+12/3/19, 20:38 - Fad: la sa sort du contexte de site vitrine
+12/3/19, 20:39 - Ced: Oui. J'avais pas lu.
+12/3/19, 20:40 - Fad: <Media omitted>
+12/3/19, 20:43 - Fad: <Media omitted>
+12/3/19, 20:57 - Ced: voici le site d'un club service auquel j'aimerai que le mien ressemble
+12/3/19, 20:57 - Ced: https://www.rotary.org/fr
+12/3/19, 20:57 - Ced: Voici l'arborescence que je souhaite
+12/3/19, 21:02 - Fad: <Media omitted>
+12/3/19, 21:04 - Fad: <Media omitted>
+12/3/19, 21:06 - Ced: <Media omitted>
+12/3/19, 21:07 - Fad: ok cool
+12/3/19, 21:07 - Fad: <Media omitted>
+12/3/19, 21:09 - Ced: Déjà, tu pourrais donner un prix et un delais?
+12/3/19, 21:11 - Fad: <Media omitted>
+12/3/19, 21:14 - Ced: La vidéo la...tu pouvais pas la mettre en pause?
+12/3/19, 21:19 - Ced: C'est un lien vers les liens des différents réseaux sociaux de l'association
+12/3/19, 21:19 - Fad: ok
+12/3/19, 21:19 - Fad: et espace membre
+12/3/19, 21:20 - Ced: J'attends
+12/3/19, 21:21 - Ced: J'ai déjà acheté un nom de domaine 1&1 et payé une plateforme wordpress
+12/3/19, 21:22 - Ced: Au début il sera non fonctionnel. Donc rien de très important
+12/3/19, 21:22 - Ced: Je veux juste avoir la possibilité de le modifier quand je le voudrai
+12/3/19, 21:24 - Fad: <Media omitted>
+12/3/19, 21:24 - Fad: <Media omitted>
+12/3/19, 21:29 - Ced: Je pense lui proposer 350 pour 4 semaines.
+12/3/19, 21:29 - Fad: ok
+12/3/19, 21:29 - Ced: Voir 5.
+12/3/19, 21:29 - Fad: ok
+12/3/19, 21:36 - Ced: Ah ce prix là, autant le faire faire ici. C'est très loin de ce que je pensais.
+12/3/19, 21:36 - Ced: Je vais comparer avec les autres contacts que j'ai. Je reviendrai vers toi.
+12/3/19, 21:39 - Fad: <Media omitted>
+12/3/19, 21:40 - Ced: Je comprends. Le prix reste duscutable. Un site dynamique avec un blog, le prix reste quand même raisonnable 😅
+12/3/19, 21:40 - Ced: D'accord j'attends votre retour
+12/3/19, 21:41 - Fad: ok
+12/3/19, 21:41 - Ced: On attend son retour.
+12/3/19, 21:41 - Fad: ok
+12/3/19, 21:42 - Ced: Les gens ont des projets mais pas laent.
+12/3/19, 21:42 - Ced: On va l'attendre.
+12/3/19, 21:42 - Fad: ok
+12/3/19, 21:49 - Ced: <Media omitted>
+12/3/19, 21:50 - Ced: <Media omitted>
+12/3/19, 21:51 - Fad: <Media omitted>
+12/3/19, 22:20 - Fad: <Media omitted>
+12/3/19, 22:44 - Ced: Ah ouais. Damn. Merci.
+12/6/19, 05:42 - Ced: Tu as vu tes notes de Modsi?
+12/6/19, 06:02 - Fad: <Media omitted>
+12/6/19, 06:02 - Fad: <Media omitted>
+12/6/19, 06:03 - Ced: <Media omitted>
+12/6/19, 06:03 - Ced: <Media omitted>
+12/6/19, 06:04 - Ced: <Media omitted>
+12/6/19, 06:09 - Fad: <Media omitted>
+12/6/19, 06:10 - Ced: C'est par mail
+12/6/19, 06:12 - Fad: ok
+12/6/19, 06:12 - Fad: <Media omitted>
+12/6/19, 06:57 - Ced: <Media omitted>
+12/6/19, 07:03 - Fad: ok
+12/6/19, 08:24 - Fad: https://www.facebook.com/TF1leJT/videos/483081292337610/?app=fbl
+12/6/19, 12:38 - Fad: au cas ou tu vas à la cafétéria tu me prends du lai caillé
+12/6/19, 12:46 - Ced: Okay
+12/6/19, 13:54 - Ced: <Media omitted>
+12/7/19, 21:34 - Ced: <Media omitted>
+12/8/19, 07:16 - Fad: non taxi brousse
+12/8/19, 07:20 - Ced: 👍🏾
+12/8/19, 16:24 - Ced: <Media omitted>
+12/8/19, 16:25 - Ced: Dis moi ce que tu en penses  stp.
+12/8/19, 16:28 - Fad: c'est bien mais fallait pas le faire
+12/8/19, 16:37 - Ced: 😹
+12/8/19, 16:37 - Fad: sérieux
+12/8/19, 16:37 - Ced: <Media omitted>
+12/8/19, 16:39 - Fad: <Media omitted>
+12/8/19, 16:39 - Ced: 😹 je savais.
+12/8/19, 17:03 - Ced: <Media omitted>
+12/8/19, 17:03 - Ced: <Media omitted>
+12/8/19, 17:05 - Fad: ok x pas grave
+12/8/19, 19:55 - Ced: Lol 😹😹😹
+12/8/19, 19:56 - Fad: 👍🏾
+12/8/19, 21:27 - Ced: https://www.instagram.com/p/B5r6VYBnKSl/?igshid=5fngcp4juc2p
+12/8/19, 21:27 - Ced: Lui même il sait où il va.
+12/8/19, 21:44 - Ced: <Media omitted>
+12/8/19, 21:48 - Fad: je voulais dire les pneus ?
+mais même sa c'est ...
+12/8/19, 21:52 - Ced: Je parlais de l'image en meilleure qualité
+12/8/19, 21:56 - Fad: ok
+12/10/19, 14:40 - Ced: <Media omitted>
+12/10/19, 14:42 - Fad: https://www.facebook.com/wixvo/videos/350755775833074/?app=fbl
+12/10/19, 21:50 - Fad: bosse bien cedric
+12/10/19, 21:50 - Fad: je viens de finir de chercher
+12/10/19, 21:50 - Fad: jai pas le cours
+12/10/19, 21:54 - Ced: Okay
+12/10/19, 21:54 - Ced: Tu fais comment?
+12/10/19, 21:55 - Ced: <Media omitted>
+12/10/19, 21:59 - Ced: <Media omitted>
+12/10/19, 22:01 - Fad: <Media omitted>
+12/10/19, 22:02 - Ced: Okay
+12/10/19, 22:04 - Ced: <Media omitted>
+12/10/19, 22:04 - Fad: <Media omitted>
+12/10/19, 22:05 - Fad: <Media omitted>
+12/10/19, 22:06 - Ced: Je veux pour la première année
+12/10/19, 22:07 - Fad: <Media omitted>
+12/10/19, 22:08 - Fad: <Media omitted>
+12/10/19, 22:09 - Ced: Ok
+12/10/19, 22:09 - Ced: J vais fouiller mes archives
+12/10/19, 22:09 - Fad: ok
+12/10/19, 22:10 - Ced: Trouvé
+12/10/19, 22:10 - Fad: ok
+12/10/19, 22:41 - Fad: <Media omitted>
+12/10/19, 22:42 - Fad: <Media omitted>
+12/10/19, 22:48 - Ced: Oui oui. Ça m'a échappé
+12/10/19, 22:48 - Fad: ok
+12/11/19, 08:10 - Ced: Vous êtes à ESIBA?
+12/11/19, 13:49 - Ced: <Media omitted>
+12/11/19, 18:08 - Fad: <Media omitted>
+12/11/19, 18:12 - Ced: 🤦🏾‍♂
+12/12/19, 16:02 - Ced: ☝🏾
+12/12/19, 16:02 - Fad: ?
+12/17/19, 10:28 - Ced: <Media omitted>
+12/17/19, 10:32 - Fad: Asynchrone
+12/17/19, 10:32 - Ced: 😒
+12/17/19, 10:32 - Fad: tu es où même ?
+12/17/19, 10:33 - Ced: Somewhere in the building
+12/17/19, 10:33 - Fad: ok
+12/17/19, 14:52 - Ced: <Media omitted>
+12/17/19, 14:52 - Ced: <Media omitted>
+12/17/19, 21:16 - Ced: Ma chaussette
+12/17/19, 21:16 - Ced: Reminder
+12/18/19, 08:45 - Fad: https://www.facebook.com/etcadit/videos/476126953278306/?app=fbl
+12/18/19, 12:14 - Ced: Bonjour,
+Il y a une autre personne qui me propose 200000f pour 4 semaines. Je pense que je vais me tourner vers lui. Je me donne d'ici le vendredi pour décider
+12/19/19, 23:58 - Fad: bon jai créé un projet en local jai déjà fait tout les menus et les pages du blog
+12/20/19, 00:04 - Ced: D'accord. Force sur toi 👍🏾
+12/20/19, 00:04 - Fad: merci même si c'est pas vrai
+12/20/19, 00:05 - Ced: 😹 en quoi ce serait faux?
+12/20/19, 00:06 - Fad: sa
+12/20/19, 00:06 - Ced: Lol
+12/20/19, 00:07 - Ced: Je te lance le film
+12/20/19, 00:07 - Fad: ok
+12/20/19, 00:12 - Ced: Mais ça lance pas depuis
+12/20/19, 00:12 - Fad: continue
+12/20/19, 00:15 - Ced: Lol
+12/20/19, 00:15 - Ced: <Media omitted>
+12/20/19, 00:16 - Fad: ok
+12/20/19, 00:19 - Ced: C'est bon.
+12/20/19, 00:20 - Fad: 👍🏾
+12/22/19, 07:57 - Ced: Salut Fad!
+12/22/19, 07:58 - Ced: Mr dit de passer au bureau un peu avant 14h
+12/22/19, 08:05 - Fad: ok
+12/22/19, 08:06 - Fad: <Media omitted>
+12/22/19, 08:14 - Ced: Il dit t'avoir fait signe en vain
+12/22/19, 08:16 - Fad: ok
+12/23/19, 18:02 - Ced: <Media omitted>
+12/23/19, 18:02 - Ced: <Media omitted>
+12/24/19, 06:48 - Ced: <Media omitted>
+12/24/19, 23:47 - Fad: n'oublie pas les jeux et les pilotes
+12/24/19, 23:49 - Ced: <Media omitted>
+12/24/19, 23:50 - Fad: ok
+12/25/19, 08:47 - Fad: n'oublie pas
+12/25/19, 09:32 - Ced: Pour pro, je pensais avoir lancé le téléchargement mais non.
+12/25/19, 09:33 - Ced: Pour le call of duty, le téléchargement a bloqué et est tout en rouge...
+12/25/19, 09:39 - Fad: ok
+12/25/19, 09:39 - Ced: Mon problème persiste
+12/25/19, 09:40 - Ced: Tu es au taff?
+12/25/19, 09:40 - Fad: je suis en route
+12/25/19, 09:40 - Ced: Okay
+12/25/19, 10:02 - Fad: je suis o boulot
+12/26/19, 06:36 - Ced: <Media omitted>
+12/26/19, 06:37 - Ced: Modern warfare 3
+12/26/19, 06:52 - Fad: <Media omitted>
+12/26/19, 07:21 - Ced: <Media omitted>
+12/26/19, 07:22 - Fad: ok ok tu me la dit javai oublié
+12/26/19, 13:28 - Fad: salut
+12/26/19, 18:32 - Ced: <Media omitted>
+12/26/19, 18:33 - Ced: <Media omitted>
+12/26/19, 18:36 - Fad: This message was deleted
+12/26/19, 20:21 - Ced: <Media omitted>
+12/26/19, 20:22 - Ced: 64 Qrcode
+12/26/19, 20:22 - Ced: Il restait combien de tickets sans QRCode?
+12/26/19, 20:29 - Fad: chuann
+12/26/19, 20:29 - Fad: je sais plus trop
+12/27/19, 12:18 - Fad: <Media omitted>
+12/27/19, 13:10 - Ced: <Media omitted>
+12/27/19, 13:18 - Fad: <Media omitted>
+12/27/19, 13:25 - Ced: <Media omitted>
+12/27/19, 14:13 - Fad: <Media omitted>
+12/27/19, 14:13 - Fad: <Media omitted>
+12/27/19, 15:54 - Fad: https://we.tl/t-aZcDx62lAy
+12/27/19, 18:06 - Fad: <Media omitted>
+12/27/19, 18:06 - Fad: <Media omitted>
+12/27/19, 18:06 - Fad: <Media omitted>
+12/27/19, 18:06 - Fad: <Media omitted>
+12/27/19, 18:54 - Ced: Yo
+12/27/19, 19:36 - Fad: <Media omitted>
+12/27/19, 19:36 - Ced: 😹😹😹😹
+12/27/19, 19:36 - Ced: <Media omitted>
+12/27/19, 19:37 - Fad: 😂😂
+12/27/19, 19:37 - Fad: bon je dort un peu ensuite je mange et je joue
+12/27/19, 19:38 - Ced: Tu as besoin de dormir ??😏
+12/27/19, 19:39 - Ced: <Media omitted>
+12/27/19, 19:39 - Fad: bon manière de parler je suis couché
+12/27/19, 19:40 - Fad: ok
+12/27/19, 19:40 - Fad: tu est sûr que 100000 c'est bon
+12/27/19, 19:47 - Ced: <Media omitted>
+12/27/19, 19:49 - Fad: ok
+12/27/19, 19:50 - Fad: toi télécharge seulement ?
+12/27/19, 19:53 - Ced: Lol
+12/27/19, 20:18 - Ced: <Media omitted>
+12/27/19, 20:20 - Fad: <Media omitted>
+12/27/19, 20:22 - Ced: <Media omitted>
+12/27/19, 20:23 - Fad: <Media omitted>
+12/27/19, 20:24 - Ced: <Media omitted>
+12/27/19, 20:25 - Ced: <Media omitted>
+12/27/19, 20:28 - Fad: <Media omitted>
+12/28/19, 09:37 - Ced: <Media omitted>
+12/28/19, 09:45 - Fad: ok
+12/28/19, 10:08 - Ced: <Media omitted>
+12/28/19, 10:10 - Fad: aaaa ok
+12/28/19, 11:54 - Ced: <Media omitted>
+12/28/19, 11:55 - Fad: <Media omitted>
+12/28/19, 11:56 - Ced: <Media omitted>
+12/28/19, 11:57 - Fad: ok
+12/28/19, 17:55 - Ced: Vous vous en sortez ?
+12/28/19, 17:56 - Ced: Batterie faible. Tel en charge.
+12/28/19, 17:56 - Ced: Au cas où tu m'appelles
+12/28/19, 18:06 - Fad: oui sa va
+12/28/19, 18:34 - Ced: Okay super
+12/28/19, 18:34 - Ced: <Media omitted>
+12/28/19, 18:38 - Fad: <Media omitted>
+12/28/19, 18:39 - Ced: Nice
+12/28/19, 18:40 - Fad: 👍🏾
+12/29/19, 16:54 - Fad: salut
+12/29/19, 16:54 - Fad: c'est comment on écrit le nom.de la boîte de Camille
+12/29/19, 17:01 - Ced: Creazione
+12/29/19, 17:01 - Ced: Salut gars !
+12/29/19, 17:01 - Fad: ok
+12/31/19, 23:03 - Ced: Battlefield
+12/31/19, 23:03 - Fad: pas encore Installer
+12/31/19, 23:03 - Fad: <Media omitted>
+12/31/19, 23:05 - Ced: 😹😹😹
+1/1/20, 19:37 - Fad: <Media omitted>
+1/1/20, 19:39 - Ced: 😹
+1/3/20, 12:13 - Fad: salu
+1/3/20, 12:15 - Ced: Hi
+1/3/20, 12:16 - Fad: c'est cmt
+1/3/20, 12:17 - Ced: Bien, et toi ?
+1/3/20, 12:17 - Fad: sa va ossi
+1/3/20, 12:17 - Fad: odk
+1/3/20, 12:19 - Ced: Pas grand chose gars.
+1/3/20, 12:19 - Ced: Cerveau
+1/3/20, 12:19 - Fad: <Media omitted>
+1/3/20, 12:21 - Ced: J'ai écris à Widdad hier. Sans réponse
+1/3/20, 12:21 - Ced: Trop fait de sortie ces temps-ci. En vrai je voudrais bien rester à la maison.
+1/3/20, 12:21 - Ced: Mais si le programme tient j'irai.
+1/3/20, 12:22 - Fad: <Media omitted>
+1/3/20, 12:22 - Fad: <Media omitted>
+1/3/20, 12:23 - Ced: C'est vendredi je pense.
+1/3/20, 12:23 - Ced: Okay.
+1/3/20, 12:23 - Fad: appelle la voir
+1/3/20, 12:23 - Ced: Quand tu seras là. On verra l'histoire du spaghetti
+1/3/20, 12:23 - Fad: jai faim
+1/3/20, 12:23 - Ced: En vrai j'ai pas envie de sortir. J vois pas pourquoi j vais l'appeler
+1/3/20, 12:24 - Ced: Si elle fait signe tardivement (et je l'espère) j pourrais trouver une excuse
+1/3/20, 12:57 - Ced: On y fera un tour tkt
+1/3/20, 12:57 - Ced: Ça ne va pas durer.
+1/3/20, 12:59 - Ced: Dis quand tu quittes la maison pour que je parte te le payer
+1/3/20, 13:26 - Fad: Missed voice call
+1/5/20, 14:13 - Ced: <Media omitted>
+1/5/20, 14:30 - Fad: <Media omitted>
+1/5/20, 14:31 - Ced: <Media omitted>
+1/5/20, 14:31 - Fad: fo bien voir
+1/5/20, 14:32 - Ced: <Media omitted>
+1/5/20, 14:33 - Fad: <Media omitted>
+1/5/20, 17:56 - Ced: Lol
+1/5/20, 17:57 - Fad: sérieux
+1/5/20, 18:03 - Ced: <Media omitted>
+1/5/20, 18:04 - Fad: <Media omitted>
+1/5/20, 18:09 - Ced: Okay
+1/5/20, 18:10 - Ced: <Media omitted>
+1/5/20, 18:17 - Fad: <Media omitted>
+1/5/20, 18:28 - Ced: Non non. J suis pas au courant
+1/5/20, 18:29 - Fad: <Media omitted>
+1/5/20, 18:29 - Ced: T'es à la maison?
+1/5/20, 18:29 - Fad: nn
+1/5/20, 18:30 - Ced: Tkt. Il n'y aura jamais de 3ème guerre
+1/5/20, 18:30 - Ced: La troisième guerre restera une guerre froide
+1/5/20, 18:30 - Ced: J'avais pas vu le statut précédent
+1/5/20, 18:31 - Fad: <Media omitted>
+1/5/20, 18:47 - Fad: <Media omitted>
+1/5/20, 18:48 - Ced: 😹😹😹
+1/5/20, 18:48 - Ced: <Media omitted>
+1/5/20, 18:49 - Fad: <Media omitted>
+1/5/20, 23:39 - Ced: 😹
+1/6/20, 21:34 - Fad: *Un bon rapport sexuel doit durer 13 mins. Les heures que vous faites sur les enfants des gens comme les présidents africains durent au pouvoir là, il faut arrêter çà en 2020*
+1/6/20, 21:41 - Ced: Lol. Faire l'amour est un moment à pleinement vivre. Des préliminaires jusqu'à la jouissance.
+
+13 min la, c'est que tu as baisé enfant d'autrui et t'es parti.
+1/6/20, 21:42 - Fad: paroles d'un expert
+1/6/20, 21:47 - Ced: Lol. C'est parceque tu ne penses qu'à faire du sal à enfant des gens
+1/6/20, 21:47 - Ced: <Media omitted>
+1/6/20, 21:48 - Fad: <Media omitted>
+1/6/20, 22:02 - Ced: <Media omitted>
+1/6/20, 22:04 - Fad: ok
+1/9/20, 11:18 - Ced: <Media omitted>
+1/9/20, 11:35 - Ced: <Media omitted>
+1/9/20, 11:38 - Ced: <Media omitted>
+1/9/20, 11:38 - Ced: <Media omitted>
+1/9/20, 11:38 - Ced: <Media omitted>
+1/12/20, 06:57 - Fad: https://www.facebook.com/russianmma/videos/2779597378933862/?app=fbl
+1/14/20, 02:12 - Ced: Booba : "paradis"
+1/14/20, 02:16 - Ced: C'était quoi le nom du projet?
+1/14/20, 08:00 - Fad: <Media omitted>
+1/14/20, 08:22 - Ced: Okay
+1/14/20, 13:51 - Fad: https://www.facebook.com/214252288606133/posts/3032622240102443/?app=fbl
+1/19/20, 15:22 - Ced: You deleted this message
+1/19/20, 15:58 - Fad: oo why, pourquoi
+1/19/20, 16:01 - Ced: 😹
+1/19/20, 16:01 - Ced: #life
+1/19/20, 16:02 - Fad: pourquoi cette photo
+1/19/20, 16:03 - Ced: Je fouillais mon cloud 😒
+1/19/20, 16:03 - Fad: hmmm
+1/19/20, 16:03 - Ced: Ça te fait mouiller ou quoi?
+1/19/20, 16:03 - Fad: c'est dégueu
+1/19/20, 16:04 - Ced: 😹😹😹😹
+1/19/20, 16:04 - Ced: Un homme torse nu qui te dégoûte, tu sais comment on appel ça ?
+1/19/20, 16:05 - Fad: veux pas savoir
+1/19/20, 16:06 - Ced: C'est que tu sais 😹😹😹😹😹😹
+1/19/20, 16:06 - Ced: Tout est plus clair 😹😹😹
+1/19/20, 16:06 - Fad: ok
+1/19/20, 16:07 - Fad: <Media omitted>
+1/19/20, 17:00 - Fad: <Media omitted>
+1/19/20, 17:05 - Ced: Même quand tu redémarres?
+1/19/20, 17:05 - Fad: wi
+1/19/20, 17:08 - Ced: <Media omitted>
+1/19/20, 17:09 - Fad: <Media omitted>
+1/19/20, 17:09 - Ced: <Media omitted>
+1/19/20, 17:09 - Ced: <Media omitted>
+1/19/20, 17:11 - Fad: <Media omitted>
+1/19/20, 17:12 - Ced: Ok
+1/19/20, 17:13 - Ced: Non, je ne pense pas.
+1/19/20, 17:13 - Ced: Sinon, desinstalle voir
+1/19/20, 18:08 - Fad: <Media omitted>
+1/19/20, 18:09 - Ced: Curieusement, je l'aide tjrs à se rhabiller.
+1/19/20, 18:09 - Ced: Ce genre de geste, elle ne l'oubliera jamais.
+1/19/20, 18:09 - Fad: ok
+1/19/20, 18:10 - Ced: Mais ça, ça ne vous concerne pas. Bande de violeurs de rdv.
+1/19/20, 18:10 - Ced: Donc t'as laissé la fille laaa comme ça ?!
+1/19/20, 18:10 - Fad: kel fille
+1/19/20, 18:11 - Ced: Celle qui était sensé venir le 02 et hier.
+1/19/20, 18:11 - Ced: T'as vu le statu de Tanguy ?
+1/19/20, 18:11 - Fad: elle n'est plus venu
+1/19/20, 18:11 - Fad: non
+1/19/20, 18:12 - Ced: Elle même ?
+1/19/20, 18:12 - Fad: <Media omitted>
+1/19/20, 18:12 - Ced: Okay.
+1/21/20, 15:37 - Fad: https://www.youtube.com/watch?v=vn9cdz4db7g
+1/28/20, 08:52 - Fad: <Media omitted>
+1/31/20, 16:10 - Ced: Adresse ip
+1/31/20, 16:10 - Fad: 1.7
+1/31/20, 16:11 - Ced: 👍🏾
+1/31/20, 21:26 - Ced: J'ai ta clé
+1/31/20, 21:45 - Fad: ok
+1/31/20, 21:54 - Fad: <Media omitted>
+1/31/20, 21:57 - Ced: <Media omitted>
+1/31/20, 21:58 - Fad: ok
+2/2/20, 17:04 - Ced: <Media omitted>
+2/2/20, 17:06 - Fad: <Media omitted>
+2/2/20, 17:07 - Ced: Okay pas de soucis alors.
+2/2/20, 17:07 - Fad: 👍🏾
+2/2/20, 17:07 - Fad: <Media omitted>
+2/2/20, 17:08 - Ced: Lool pourquoi ?
+2/2/20, 17:09 - Fad: <Media omitted>
+2/2/20, 20:27 - Fad: https://www.facebook.com/2069119909998780/posts/2549399795304120/?app=fbl
+2/2/20, 20:34 - Ced: Okay. Interesting
+2/2/20, 20:34 - Ced: Ils ont un prix?
+2/2/20, 20:40 - Fad: non c'est pas encore construit je crois
+2/2/20, 20:42 - Ced: Ok. C'est donc un projet
+2/2/20, 20:42 - Fad: oui
+2/2/20, 20:42 - Ced: <Media omitted>
+2/2/20, 20:43 - Fad: oui oui
+2/3/20, 22:42 - Ced: Yo
+2/3/20, 22:43 - Ced: Tu as payé le médoc ?
+2/3/20, 22:43 - Fad: oui oui
+2/3/20, 22:43 - Ced: Okay
+2/3/20, 22:43 - Fad: <Media omitted>
+2/3/20, 22:44 - Ced: Tu as lancé quoi ça ?
+2/3/20, 22:45 - Fad: sql server
+2/3/20, 22:45 - Ced: <Media omitted>
+2/3/20, 22:46 - Fad: ayooo
+2/3/20, 22:46 - Ced: <Media omitted>
+2/3/20, 22:49 - Fad: <Media omitted>
+2/3/20, 22:49 - Fad: <Media omitted>
+2/3/20, 22:50 - Fad: <Media omitted>
+2/3/20, 22:54 - Ced: <Media omitted>
+2/3/20, 22:55 - Ced: <Media omitted>
+2/3/20, 22:58 - Fad: <Media omitted>
+2/3/20, 23:00 - Fad: <Media omitted>
+2/3/20, 23:02 - Ced: C'est prudent. C'est clair.
+2/3/20, 23:02 - Ced: <Media omitted>
+2/3/20, 23:06 - Fad: <Media omitted>
+2/3/20, 23:05 - Ced: <Media omitted>
+2/3/20, 23:07 - Ced: Force à toi
+2/3/20, 23:09 - Fad: <Media omitted>
+2/3/20, 23:09 - Fad: <Media omitted>
+2/3/20, 23:10 - Fad: <Media omitted>
+2/3/20, 23:11 - Ced: Loooool
+2/3/20, 23:12 - Ced: 😹😹😹
+2/3/20, 23:12 - Ced: <Media omitted>
+2/3/20, 23:16 - Fad: <Media omitted>
+2/3/20, 23:22 - Ced: <Media omitted>
+2/3/20, 23:24 - Fad: 👍🏾
+2/4/20, 09:30 - Fad: <Media omitted>
+2/5/20, 10:29 - Fad: <Media omitted>
+2/5/20, 10:50 - Ced: Ça marche. Les mouvements
+2/5/20, 10:51 - Ced: 😅
+2/5/20, 10:51 - Fad: ok tu as augmenter le délai de la réponse ?
+2/5/20, 10:52 - Ced: Oui. Le delais de lecture de la réponse
+2/5/20, 10:58 - Fad: ok
+2/6/20, 08:50 - Fad: salut
+2/6/20, 09:07 - Ced: Salut Fad!
+2/6/20, 09:08 - Ced: J'ai écris à Mr ce matin. Je vais me faire consulter pour mon malaise
+2/6/20, 09:08 - Fad: sa va?
+2/6/20, 09:08 - Fad: ok
+2/6/20, 10:34 - Ced: Je lui ai expliqué le problème(mes histoires de vertige et ce cas ci).
+
+Elle a fait une goutte épaisse et m'a conseillé de faire un bilan de santé.
+2/6/20, 10:34 - Ced: Je pense que ça va s'arrêter là
+2/6/20, 10:57 - Fad: <Media omitted>
+2/6/20, 10:59 - Ced: Oui
+2/6/20, 11:00 - Fad: ok
+2/6/20, 11:04 - Ced: <Media omitted>
+2/6/20, 11:07 - Fad: <Media omitted>
+2/6/20, 12:01 - Ced: <Media omitted>
+2/6/20, 12:01 - Ced: <Media omitted>
+2/6/20, 12:03 - Fad: ok du courage
+2/6/20, 12:06 - Ced: Merci
+2/6/20, 12:07 - Fad: 👍
+2/6/20, 12:09 - Ced: <Media omitted>
+2/6/20, 12:10 - Ced: Je serai là vers 14h Inch'Allah
+2/6/20, 12:16 - Fad: ok
+2/6/20, 15:03 - Ced: J'arrive
+2/6/20, 15:12 - Fad: ok
+2/6/20, 18:38 - Ced: Yo
+2/6/20, 18:38 - Fad: oui
+2/6/20, 18:38 - Ced: Tu me parlais d'un produit efficace contre les mots de tête
+2/6/20, 18:38 - Ced: À part paraphise
+2/6/20, 18:38 - Fad: panadol
+2/6/20, 18:39 - Ced: Thks
+2/6/20, 18:39 - Ced: Tu connais le prix.
+2/6/20, 18:40 - Ced: Ce malaise me plume 😹😅
+2/6/20, 18:41 - Fad: non
+2/6/20, 18:41 - Fad: mais je crois pas que ce soit trop
+2/6/20, 19:18 - Ced: Ok
+2/6/20, 20:06 - Ced: C'est uniquement en comprimé ?
+2/6/20, 20:08 - Fad: non il ya l'effervescent aussi
+2/6/20, 21:05 - Ced: <Media omitted>
+2/6/20, 21:07 - Fad: oui c'est sa
+2/6/20, 21:11 - Ced: J'en ai pris un
+2/6/20, 21:12 - Fad: ok
+2/7/20, 10:06 - Ced: <Media omitted>
+2/8/20, 22:25 - Ced: Yo
+2/9/20, 08:47 - Fad: bjt
+2/9/20, 08:47 - Fad: bjr
+2/9/20, 09:04 - Ced: Bonjour.
+2/9/20, 09:05 - Ced: C'était pour savoir si tu avais déjà suivi *Last blood*
+2/9/20, 09:05 - Fad: oui
+2/9/20, 09:05 - Ced: Ok
+2/9/20, 23:56 - Ced: Salut Fad!
+2/9/20, 23:56 - Ced: Hope you doing well
+2/9/20, 23:57 - Ced: Stp, demain, arrivé au taff, prends le temps d'ouvrir les fenêtres et portes histoire de laisser l'air s'échapper avant de mettre la climatisation
+2/9/20, 23:57 - Ced: 🙏🏾
+2/10/20, 06:01 - Fad: ok
+2/11/20, 21:12 - Ced: <Media omitted>
+2/13/20, 20:37 - Ced: https://youtu.be/1dTEXh4lxfA
+2/16/20, 19:59 - Ced: <Media omitted>
+2/16/20, 19:59 - Fad: hmm
+2/16/20, 20:02 - Ced: 😂
+2/16/20, 20:02 - Ced: Il n'est pas sérieux lui.
+2/16/20, 20:03 - Fad: il ne sais pas ce qu'il raconte
+2/16/20, 20:03 - Ced: Ou bien?! 😹
+2/16/20, 20:04 - Fad: humm
+2/17/20, 06:59 - Ced: <Media omitted>
+2/18/20, 18:04 - Fad: <Media omitted>
+2/18/20, 22:08 - Fad: <Media omitted>
+2/18/20, 22:12 - Ced: La suite!
+2/18/20, 22:13 - Fad: kel suite
+2/18/20, 22:20 - Ced: De la discussion
+2/18/20, 22:20 - Fad: demain
+2/18/20, 22:21 - Ced: Pense à réfléchir sur le projet aussi. Ce dont on parlait ce matin.
+2/18/20, 22:21 - Fad: ok ok
+2/20/20, 12:39 - Fad: Carmen Meba.vcf (file attached)
+2/20/20, 17:56 - Ced: Bêtise humaine. Je rentre me reposer.
+2/20/20, 17:56 - Ced: En même temps, pourquoi ne pas se faire plaisir? J'achète un bon petit stom.
+2/20/20, 17:56 - Fad: Il y a quoi
+2/20/20, 17:57 - Fad: storm
+2/20/20, 17:57 - Ced: Je m'en dort et 30min après j'ai les yeux scotchés comme si on m'avait arraché le sommeil.
+2/20/20, 17:57 - Ced: Résultat, je cherche depuis le sommeil en vain
+2/20/20, 17:58 - Fad: tu est deja a la maison
+2/20/20, 17:58 - Ced: Oui oui. Depuis
+2/20/20, 17:58 - Ced: Mr a demandé d'après moi?
+2/20/20, 17:58 - Fad: et l'examen
+2/20/20, 17:59 - Fad: non
+2/20/20, 17:59 - Ced: Easy
+2/20/20, 17:59 - Ced: <Media omitted>
+2/20/20, 18:00 - Ced: Ça avance au taff?
+2/20/20, 18:00 - Fad: oui
+2/21/20, 10:48 - Fad: https://www.facebook.com/Dhinchakpooja/videos/2562212403990223/?app=fbl
+2/21/20, 20:43 - Fad: <Media omitted>
+2/21/20, 20:50 - Ced: En ce qui me concerne, je n'attends que Mr pour la suite. Il avait promis m'envoyer les autres api. Mon avancé reste en suspend.
+2/21/20, 20:52 - Fad: ok
+2/21/20, 20:52 - Ced: <Media omitted>
+2/22/20, 00:51 - Ced: Tu lui as dit quoi finalement ?
+2/22/20, 08:23 - Fad: <Media omitted>
+2/22/20, 08:27 - Ced: Okay.
+2/22/20, 08:28 - Ced: Qu'est-ce qu'il a répondu ?
+2/22/20, 08:41 - Fad: il na pas vu le message
+2/22/20, 08:50 - Ced: 😄
+2/22/20, 10:30 - Ced: N'oublie pas la proposition d'applications
+2/22/20, 10:30 - Fad: j'ai oublié inn
+2/22/20, 10:30 - Fad: ok
+2/22/20, 19:13 - Fad: <Media omitted>
+2/22/20, 19:13 - Fad: j'ai écris klk chose
+2/22/20, 20:57 - Ced: <Media omitted>
+2/22/20, 20:58 - Fad: ok ok
+2/26/20, 08:27 - Fad: https://m.facebook.com/story.php?story_fbid=865956693840200&id=1793837474205452
+2/26/20, 23:15 - Ced: <Media omitted>
+2/26/20, 23:17 - Ced: <Media omitted>
+2/26/20, 23:19 - Ced: <Media omitted>
+2/26/20, 23:24 - Fad: <Media omitted>
+2/26/20, 23:26 - Ced: <Media omitted>
+2/26/20, 23:27 - Fad: <Media omitted>
+2/26/20, 23:28 - Ced: Ah ! Si tu le dis. Et pourquoi tu précises la serviette ? ?
+2/26/20, 23:28 - Ced: Tu connais kafka?
+2/26/20, 23:30 - Fad: nn
+2/26/20, 23:30 - Ced: Ok. Tkt
+2/26/20, 23:30 - Fad: This message was deleted
+2/26/20, 23:30 - Fad: ok
+2/27/20, 20:34 - Fad: https://www.facebook.com/groups/129488643764841/permalink/2694175810629432/?app=fbl
+2/27/20, 22:13 - Ced: Héhééé tchaley !
+2/27/20, 22:13 - Ced: C'est posé. C'est frais.
+2/27/20, 22:16 - Ced: <Media omitted>
+2/29/20, 21:36 - Ced: https://youtu.be/yD_p0oavTYU
+2/29/20, 21:36 - Ced: C'est de lui je parlais
+2/29/20, 21:36 - Ced: <Media omitted>
+2/29/20, 21:36 - Fad: <Media omitted>
+2/29/20, 21:37 - Fad: <Media omitted>
+2/29/20, 21:37 - Ced: <Media omitted>
+2/29/20, 21:38 - Ced: <Media omitted>
+2/29/20, 21:38 - Fad: <Media omitted>
+2/29/20, 22:30 - Ced: Okay
+3/1/20, 12:29 - Fad: <Media omitted>
+3/1/20, 13:33 - Ced: 🤦🏾‍♂️
+3/1/20, 15:20 - Ced: life
+
+https://youtu.be/pKO9UjSeLew
+3/2/20, 12:11 - Fad: <Media omitted>
+3/5/20, 22:20 - Ced: <Media omitted>
+3/6/20, 05:12 - Fad: <Media omitted>
+3/6/20, 05:58 - Ced: D'accord.
+3/6/20, 05:58 - Ced: Vous n'êtes pas ensemble *
+3/6/20, 05:58 - Ced: ?
+3/6/20, 05:59 - Fad: non non
+3/6/20, 12:52 - Fad: salut
+3/6/20, 12:52 - Fad: l'application de contrôle tu â évoluer dessus ?
+3/6/20, 15:12 - Ced: Vous voulez faire une demo?
+3/6/20, 15:12 - Ced: Vous pourriez gérer ?
+3/6/20, 15:15 - Fad: oui demain normalement
+3/6/20, 15:17 - Ced: <Media omitted>
+3/6/20, 15:17 - Ced: <Media omitted>
+3/6/20, 15:22 - Fad: <Media omitted>
+3/6/20, 15:25 - Ced: <Media omitted>
+3/6/20, 15:29 - Fad: ok
+3/6/20, 15:29 - Ced: <Media omitted>
+3/6/20, 15:32 - Fad: monsieur dit de continuer à travailler dessus pour le moment
+3/6/20, 15:32 - Fad: et si tu ne comprends pas quelque chose faut lui demander
+3/6/20, 15:33 - Ced: <Media omitted>
+3/6/20, 15:40 - Fad: Mr dit qu'il va te répondre après
+3/6/20, 15:40 - Ced: Okay
+3/6/20, 15:40 - Fad: ok
+3/6/20, 17:05 - Fad: bon il dit d'envoyer l'application comme sa
+3/6/20, 17:11 - Ced: Okay
+3/6/20, 17:17 - Ced: Je te l'ai envoyé sur télégram
+3/6/20, 17:17 - Fad: oui jai vu sa
+3/6/20, 17:18 - Ced: Dis moi quand tu l'installes
+3/6/20, 17:25 - Ced: C'est bon?
+3/6/20, 17:27 - Ced: Pour avoir accès à l'interface de modification des adresses ip:
+nom agent : ratt
+mot de pass: 442211
+3/6/20, 17:55 - Fad: ok
+3/6/20, 21:21 - Ced: Salut Fad !
+3/6/20, 21:21 - Ced: Comment tu vas ?
+3/6/20, 21:23 - Fad: bien et toi
+3/6/20, 21:23 - Ced: Ça va. Il pleut chez vous aussi?
+3/6/20, 21:24 - Fad: non c'est le premier jour il a pmu
+3/6/20, 21:24 - Ced: Dis, vous pensez avoir besoin de nous demain?
+3/6/20, 21:24 - Ced: Okay
+3/6/20, 21:26 - Fad: <Media omitted>
+3/6/20, 21:26 - Fad: <Media omitted>
+3/6/20, 21:30 - Ced: 😅
+3/6/20, 21:30 - Ced: <Media omitted>
+3/6/20, 21:31 - Ced: <Media omitted>
+3/6/20, 21:32 - Fad: meme une methode le gars na pas ecrit et ce qui me fait mal est qu'il parle de prolonger le sejour
+3/6/20, 21:33 - Ced: <Media omitted>
+3/6/20, 21:34 - Fad: et il est content
+3/6/20, 21:35 - Ced: 😅
+3/8/20, 00:20 - Ced: Yo Fad!
+3/8/20, 00:20 - Ced: Ça a été ?
+3/8/20, 00:21 - Fad: oui oui
+3/8/20, 00:23 - Ced: Okay
+3/9/20, 16:23 - Ced: Salut Fad!
+3/9/20, 16:23 - Ced: Ça avance ?
+3/9/20, 17:30 - Fad: oui oui
+3/9/20, 17:30 - Fad: salut xcmt
+3/9/20, 17:50 - Ced: Ça va.
+3/9/20, 17:50 - Ced: Vous avez pu déployer les modifs?
+3/9/20, 17:53 - Fad: c'est sa on est en train de faire
+3/9/20, 17:53 - Fad: finalement on rentre le vendredi
+3/9/20, 18:08 - Ced: Ah d'accord
+3/9/20, 18:08 - Ced: Et pour les appli mobiles.
+3/9/20, 18:08 - Ced: Chaud!
+3/10/20, 08:33 - Fad: <Media omitted>
+3/10/20, 08:37 - Ced: Okay.
+3/10/20, 08:38 - Ced: S'il a des zone d'ombre, il peut me contacter.
+3/10/20, 08:38 - Ced: Sinon j'ai fini.
+3/10/20, 08:38 - Ced: Juste qu'il faut faire des contrôles dur tout.
+3/10/20, 08:38 - Fad: bjr
+3/10/20, 08:38 - Fad: il à fini aussi
+3/10/20, 08:39 - Fad: normalement on doit finir le déploiement aujourd'hui
+3/10/20, 08:39 - Ced: Sérieux ? !
+3/10/20, 08:40 - Ced: Malgré qu'il ait commencé aujourd'hui ? !
+3/10/20, 08:40 - Fad: oui
+3/10/20, 08:40 - Ced: J'aimerais bien voir ce qu'il a fait
+3/10/20, 08:40 - Fad: il à commencer hier
+3/10/20, 08:40 - Fad: peut être au retour
+3/10/20, 08:40 - Ced: C'est très bien en tout cas.
+3/10/20, 08:41 - Ced: <Media omitted>
+3/12/20, 14:24 - Fad: sinon sa peut aller?
+3/12/20, 14:37 - Ced: À l'aise frère. Ça va.
+3/12/20, 14:37 - Ced: Je compte aller à la mosquée demain
+3/12/20, 14:38 - Fad: e-développeur
+3/12/20, 14:38 - Fad: pour ?
+3/12/20, 14:38 - Ced: ?
+3/12/20, 14:38 - Ced: Tu sauras.
+3/12/20, 14:39 - Fad: e-commerce développeur
+3/12/20, 14:39 - Fad: ok
+3/12/20, 14:39 - Ced: Vous rentrez dans la soirée ou matinée ?
+3/12/20, 14:39 - Fad: sauraiyon nous
+3/12/20, 14:39 - Fad: entre 11h 12h
+3/12/20, 14:39 - Ced: Je lui ai envoyé le document
+3/12/20, 14:40 - Ced: Je lui ferai signe voir.
+3/12/20, 14:41 - Ced: Tu fais exprès ?
+3/12/20, 14:42 - Fad: ok
+3/13/20, 19:40 - Fad: tu disais mr fait quoi ?
+3/13/20, 19:41 - Ced: Il met les gens à la porte.
+3/13/20, 19:42 - Fad: qui et qui
+3/13/20, 19:42 - Ced: Alex
+3/13/20, 19:42 - Fad: abon ?
+il à fait kw
+3/13/20, 19:43 - Ced: Je ne sais pas tchaley
+3/13/20, 19:43 - Fad: hmm ok
+3/13/20, 22:34 - Ced: Yo
+3/13/20, 22:34 - Fad: oui
+3/13/20, 22:34 - Ced: tu dors?
+3/13/20, 22:34 - Fad: non
+3/13/20, 22:35 - Ced: <Media omitted>
+3/13/20, 22:35 - Fad: oui
+3/13/20, 22:35 - Ced: Ok.
+3/13/20, 22:36 - Ced: Donc la prière du vendredi, c'est 2 rakat?
+3/13/20, 22:36 - Fad: mais le 9 c'est pour la fin d'une prière
+3/13/20, 22:36 - Fad: oui
+3/13/20, 22:36 - Ced: Okay
+3/13/20, 22:36 - Fad: tu y est allé ? 😎
+3/13/20, 22:36 - Ced: Oui oui. 😅
+3/13/20, 22:37 - Ced: J'ai fait la prière avant la cérémonie de reconversion
+3/13/20, 22:37 - Ced: C'était intéressant
+3/13/20, 22:38 - Fad: sérieux?
+3/13/20, 22:38 - Ced: J'étais avec Farouk
+3/13/20, 22:38 - Fad: tu as pris quel nom ?
+3/13/20, 22:38 - Ced: C'est pour ça je voulais savoir quand vous rentreriez
+3/13/20, 22:38 - Ced: Al-Hakīm
+3/13/20, 22:39 - Ced: Le nom m'inspire
+3/13/20, 22:39 - Ced: 🙂
+3/13/20, 22:39 - Fad: ok
+3/13/20, 22:39 - Fad: félicitations et bienvenue
+3/13/20, 22:39 - Ced: <Media omitted>
+3/13/20, 22:40 - Ced: N'est-ce pas ? ! 😄
+3/13/20, 22:41 - Fad: <Media omitted>
+3/13/20, 22:41 - Fad: <Media omitted>
+3/13/20, 22:41 - Ced: <Media omitted>
+3/13/20, 22:42 - Ced: Takbir
+3/13/20, 22:51 - Fad: <Media omitted>
+3/13/20, 22:51 - Fad: <Media omitted>
+3/13/20, 22:51 - Ced: Okay.
+3/13/20, 22:51 - Ced: Prends soin de toi
+3/13/20, 22:51 - Ced: <Media omitted>
+3/13/20, 22:53 - Fad: <Media omitted>
+3/13/20, 22:54 - Ced: <Media omitted>
+3/13/20, 22:55 - Fad: <Media omitted>
+3/13/20, 22:56 - Fad: <Media omitted>
+3/13/20, 22:57 - Ced: <Media omitted>
+3/13/20, 22:57 - Fad: <Media omitted>
+3/13/20, 23:00 - Ced: ✌🏾
+3/15/20, 07:32 - Fad: salut
+3/15/20, 07:33 - Fad: <Media omitted>
+3/15/20, 08:54 - Ced: Oui. Les gens sont créatifs
+3/15/20, 09:31 - Fad: hmmm
+3/15/20, 09:32 - Ced: Mais la plupart sinspire de la vie réelle. C'est plus facile.
+3/15/20, 09:33 - Fad: le film la est fort
+3/15/20, 09:33 - Ced: Tu pourrais très te baser sur ton vécu, avec quelques exagérations et sortir un truc de ouf. Crois-moi.
+3/15/20, 09:33 - Fad: <Media omitted>
+3/15/20, 09:34 - Ced: C'est vrai. Simple et intéressant.
+3/15/20, 09:35 - Ced: La fille qui a été de passage chez vous, tu pourrais très bien en faire un film d'horreur avec un gros suspense à la fin et le proposer.
+3/15/20, 09:36 - Ced: Un film dramatique. Une succube.
+3/15/20, 09:36 - Fad: ouais ouais
+3/15/20, 09:37 - Ced: Une fille qui a été accueilli dans plusieurs foyers apportant malchance et désespoir. Un jeune homme (Fad) individu éclairé et fortement inspiré. Tu as été le seul a comprendre quel genre de personne c'était.
+3/15/20, 09:39 - Ced: À chaque contact avec elle tu pouvais apercevoir des brins de vecus. Ces brins de vécus sont enfait ce que l'esprit en elle entrevoi vous faire.
+3/15/20, 09:40 - Ced: Le problème c'est que les brins de souvenir que tu pouvais apercevoir était à l'envers. C'est-à-dire que tu vivais les scènes de la fin vers le début.
+3/15/20, 09:40 - Fad: <Media omitted>
+3/15/20, 09:40 - Ced: Donc arrivé à un moment, tu as tout capté
+3/15/20, 09:40 - Ced: <Media omitted>
+3/15/20, 09:44 - Ced: <Media omitted>
+3/18/20, 20:38 - Ced: Je n'ai plus retrouvé le sachet de médocs une fois rentré 😅🤦🏾‍♂️
+3/18/20, 20:45 - Fad: bravo
+3/18/20, 21:19 - Ced: أنا أمارس الجنس معك.
+3/18/20, 21:20 - Fad: du courage
+3/18/20, 21:25 - Ced: <Media omitted>
+3/18/20, 21:27 - Fad: <Media omitted>
+3/18/20, 21:27 - Ced: La poche avant.
+3/18/20, 21:27 - Ced: <Media omitted>
+3/18/20, 21:29 - Fad: <Media omitted>
+3/18/20, 21:34 - Ced: Je pense aussi. Bon, ça a du s'ouvrir en route. C'est l'explication que je trouve à ça. Bon pas grave.
+3/18/20, 21:34 - Fad: ok
+3/18/20, 21:36 - Ced: Je cogitais à l'instant et je me dis, enfait avoir un but déterminé n'est pas un problème. Chaque individu devrait avoir un but dans la vie. Mais l'erreur que l'on commet et qui entraîne vers des frustrations est le fait de trop définir les paramètres de ce but.
+3/18/20, 22:25 - Fad: 🧐
+3/18/20, 22:34 - Ced: Par *trop définir les paramètres de ce but*, je veux dire: être trop exigeant.
+3/18/20, 22:34 - Ced: Vouloir forcément que l'opportunité se présente comme on le voudrait
+3/18/20, 22:36 - Fad: oui j'avais compris
+3/18/20, 22:36 - Ced: Toi et tes emojis
+3/18/20, 22:37 - Fad: qu'est-ce que mr à écrit dans le livre
+3/18/20, 22:39 - Ced: 😅
+3/18/20, 22:40 - Ced: <Media omitted>
+3/18/20, 22:42 - Fad: sa veux dire quoi ?
+3/18/20, 22:43 - Ced: Que veux-tu que je te dise?
+3/18/20, 22:43 - Ced: 😄
+3/18/20, 22:43 - Ced: C'est ce que moi aussi j'ai vu
+3/19/20, 06:34 - Fad: ok
+3/19/20, 06:34 - Fad: <Media omitted>
+3/19/20, 06:43 - Fad: https://bit.ly/3d7oVfH
+3/19/20, 07:02 - Ced: Pipi de cafard?
+3/19/20, 07:05 - Ced: Merci beaucoup.
+3/19/20, 07:05 - Ced: C'est apparemment payant mais je vérifirai moeux une fois au taff
+3/19/20, 07:06 - Fad: c'est ce kil avait avant
+3/19/20, 07:06 - Fad: abon ?
+3/19/20, 07:06 - Ced: Comment ça ?
+3/19/20, 22:20 - Ced: 😹😹😹
+3/19/20, 22:21 - Ced: #legends
+3/19/20, 22:21 - Ced: 😹😹😹
+3/19/20, 22:24 - Fad: ya
+3/19/20, 22:36 - Ced: Tu as vu le statut de Bilal?
+3/19/20, 22:37 - Fad: oui oui
+3/19/20, 22:40 - Ced: C'est une légende le gars. Mais un bel exemple aussi
+3/19/20, 22:40 - Fad: ?tu veux porter un masque aussi ?
+3/19/20, 22:42 - Ced: Oui mais c'est les dépenses journaliers je vois. À moins de tomber sur un masque réutilisable
+3/19/20, 22:42 - Fad: ok
+3/19/20, 22:46 - Ced: Tu saurais où s'en procurer ?
+3/19/20, 22:46 - Fad: non
+3/21/20, 01:09 - Ced: Yo?
+3/21/20, 02:06 - Ced: Je suivais enft une vidéo très intéressante concernant le Covid 19
+3/21/20, 02:06 - Ced: Tkt
+3/21/20, 05:06 - Fad: ok
+3/23/20, 18:37 - Ced: <Media omitted>
+3/23/20, 18:54 - Fad: <Media omitted>
+3/23/20, 18:58 - Ced: Oubien ? !
+3/23/20, 18:58 - Ced: Prochainement.
+3/23/20, 19:00 - Fad: 👍
+3/24/20, 09:55 - Ced: Salut Fad!
+3/24/20, 09:55 - Ced: En forme?
+3/24/20, 09:55 - Fad: oui et toi
+3/24/20, 09:55 - Ced: Pas mal.
+3/24/20, 09:55 - Ced: Dis, tu travailles avec Mr ?
+3/24/20, 09:56 - Fad: non
+3/24/20, 09:56 - Ced: D'accord. C'était pour savoir.
+3/24/20, 09:56 - Ced: Tu as pu te procurer de la chloroquine ?
+3/24/20, 09:56 - Fad: ok
+3/24/20, 09:57 - Fad: non
+3/24/20, 09:57 - Ced: Okay
+3/24/20, 09:57 - Fad: 👍
+3/24/20, 19:12 - Ced: <Media omitted>
+3/24/20, 19:15 - Fad: oui c'est bon c'est sa
+3/24/20, 19:15 - Fad: <Media omitted>
+3/24/20, 19:22 - Ced: <Media omitted>
+3/24/20, 19:24 - Fad: ok
+3/24/20, 19:24 - Fad: si non cest sa
+3/24/20, 19:31 - Ced: Nice
+3/25/20, 19:36 - Ced: First one
+3/25/20, 19:37 - Fad: <Media omitted>
+3/25/20, 19:38 - Ced: <Media omitted>
+3/25/20, 19:38 - Ced: <Media omitted>
+3/25/20, 19:40 - Fad: <Media omitted>
+3/25/20, 19:41 - Ced: Ah nice.
+3/25/20, 19:41 - Ced: J'ai fini l'appli avec Mr aujourd'hui
+3/25/20, 19:42 - Fad: <Media omitted>
+3/25/20, 19:43 - Fad: <Media omitted>
+3/25/20, 19:43 - Ced: <Media omitted>
+3/25/20, 19:43 - Ced: J'imagine 😹😹😹😹
+3/25/20, 19:44 - Ced: Mais tu ne vas pas passer toute la semaine à ne pas coder.
+3/25/20, 19:44 - Ced: Tu pourrais très bien en profiter pour bosser python
+3/25/20, 19:44 - Fad: <Media omitted>
+3/25/20, 19:45 - Fad: <Media omitted>
+3/25/20, 19:45 - Ced: Oubien ? !
+3/25/20, 19:45 - Ced: <Media omitted>
+3/25/20, 19:46 - Fad: <Media omitted>
+3/25/20, 19:46 - Ced: Y a beaucoup de vent
+3/25/20, 19:47 - Ced: Okay
+3/25/20, 19:47 - Fad: oui je suis en train de marcher
+3/25/20, 19:48 - Fad: <Media omitted>
+3/25/20, 19:48 - Ced: <Media omitted>
+3/25/20, 19:49 - Ced: <Media omitted>
+3/25/20, 19:50 - Fad: ann ok
+3/25/20, 20:17 - Ced: <Media omitted>
+3/25/20, 20:39 - Fad: oui c'est pour finam
+3/25/20, 20:40 - Ced: Okay
+3/25/20, 21:04 - Ced: 😹
+3/25/20, 21:06 - Fad: 😎
+3/26/20, 19:11 - Fad: <Media omitted>
+3/26/20, 19:17 - Ced: Le mec là est terrible 😹
+3/26/20, 19:19 - Fad: humm
+3/27/20, 09:49 - Ced: <Media omitted>
+3/27/20, 09:53 - Fad: <Media omitted>
+3/27/20, 10:02 - Ced: <Media omitted>
+3/27/20, 10:03 - Ced: 👍🏾
+3/27/20, 10:06 - Fad: <Media omitted>
+3/27/20, 10:10 - Ced: Okay.
+3/28/20, 08:25 - Ced: Bonjour Fad!
+3/28/20, 08:25 - Ced: Comment tu vas ?
+3/28/20, 09:49 - Fad: bien et toi
+3/28/20, 09:57 - Ced: À l'aise.
+3/28/20, 09:58 - Ced: Je voulais te demander une info. Mais c'est bon.
+3/28/20, 09:58 - Fad: ok
+3/29/20, 10:02 - Ced: Salut Fad!
+3/29/20, 10:03 - Ced: Au cas où il y a taff demain, tu pourrais apporter la tunique façon
+3/29/20, 11:20 - Fad: j'ai oublié de lavé sa inn
+3/29/20, 11:30 - Ced: Il n'est que 11h 🌚
+3/29/20, 11:30 - Fad: j'ai fait la lessive hier
+3/29/20, 11:31 - Ced: <Media omitted>
+3/29/20, 11:32 - Fad: je fais la lessive que les samedi
+3/29/20, 11:33 - Ced: Bon okay
+3/29/20, 11:34 - Fad: tkt lundi prochain
+3/31/20, 12:28 - Ced: Tout ça, c'est l'entourage
+3/31/20, 12:37 - Fad: wep
+4/1/20, 19:35 - Ced: On espère.
+4/1/20, 19:48 - Fad: fort
+4/1/20, 21:06 - Ced: Fad?
+4/1/20, 21:07 - Fad: oui
+4/1/20, 21:07 - Ced: Dis, c'est quoi la technique spéciale pour ne pas payer ses employés à la fin du mois?
+4/1/20, 21:08 - Fad: les libérer pour un nombre de semaine nécessaire jusqu'à la fin du mois
+4/1/20, 21:08 - Ced: Bingo!!!
+4/1/20, 21:09 - Fad: mais bon sa me derange pas innn
+je veux rester en bonne santé
+4/1/20, 21:09 - Ced: Oubien ? !😄
+4/1/20, 21:10 - Fad: <Media omitted>
+4/1/20, 21:26 - Ced: Le média est endommagé je pense. Illisible
+4/1/20, 21:28 - Fad: je crois que c'est un problème de togocel
+j'arrive pas non plus à télécharger des fichiers
+4/1/20, 21:46 - Ced: Okay
+4/1/20, 21:47 - Ced: Effectivement.
+4/3/20, 11:56 - Ced: You deleted this message
+4/3/20, 11:56 - Ced: https://openteams.com/
+4/5/20, 21:51 - Fad: Compte tenue de la situation de Covid-19 qui prend l'ampleur, la Pro-Consulting porte à la connaissance de ces personnels que le confinement continue cette semaine aussi et vous prie de bien vouloir envoyer vos numéros de comptes T-Money ou Flooz pour que les virements de salaires peuvent être effectués merci
+4/5/20, 21:55 - Ced: La boss me l'a envoyé aussi
+4/5/20, 21:55 - Ced: Ou toi aussi tu veux me faire T-money?
+4/5/20, 21:56 - Fad: je savais pas
+4/5/20, 21:57 - Ced: <Media omitted>
+4/5/20, 21:58 - Fad: je dors
+comme tout le monde
+4/5/20, 22:09 - Ced: Lol c'est ce que tu vas me dire
+4/5/20, 22:10 - Fad: sérieux
+4/5/20, 22:10 - Ced: Okay. Je me disais que tu serais entrain de prendre du niveau en python
+4/5/20, 22:11 - Fad: j'ai juste appris 2 méthode
+4/5/20, 22:13 - Ced: 😹
+4/5/20, 22:13 - Ced: Okay
+4/5/20, 22:14 - Fad: j'ai envie de travailler mais mon corps refuse
+4/5/20, 22:14 - Ced: <Media omitted>
+4/5/20, 22:16 - Fad: ok
+4/5/20, 22:20 - Ced: <Media omitted>
+4/5/20, 22:32 - Fad: c'est bien
+4/5/20, 23:01 - Ced: N'est-ce pas ? !
+4/5/20, 23:01 - Fad: oui oui
+4/5/20, 23:01 - Ced: C'est un jeune
+4/5/20, 23:01 - Fad: ok
+4/6/20, 14:17 - Ced: <Media omitted>
+4/6/20, 14:20 - Fad: <Media omitted>
+4/6/20, 14:39 - Fad: <Media omitted>
+4/6/20, 14:54 - Ced: <Media omitted>
+4/6/20, 15:09 - Fad: <Media omitted>
+4/6/20, 15:12 - Ced: Okay
+4/6/20, 15:14 - Fad: tu y est allé ?
+4/6/20, 15:14 - Ced: Pas encore
+4/6/20, 15:15 - Fad: <Media omitted>
+4/6/20, 15:15 - Ced: <Media omitted>
+4/6/20, 15:16 - Fad: <Media omitted>
+4/6/20, 15:17 - Ced: <Media omitted>
+4/6/20, 15:18 - Fad: <Media omitted>
+4/6/20, 15:21 - Ced: Okay
+4/6/20, 15:21 - Ced: <Media omitted>
+4/6/20, 15:21 - Ced: <Media omitted>
+4/6/20, 15:22 - Fad: ok
+4/6/20, 15:22 - Fad: <Media omitted>
+4/6/20, 15:23 - Ced: Ok
+4/6/20, 16:57 - Ced: Je viens de rentrer
+4/6/20, 17:05 - Fad: ok
+4/8/20, 10:36 - Ced: Voilà pourquoi les codes USSD passent difficilement
+4/8/20, 10:36 - Fad: oui oui
+4/8/20, 12:03 - Fad: <Media omitted>
+4/8/20, 12:11 - Ced: L😹L
+4/8/20, 12:11 - Ced: Tout ça pour ça ?
+4/8/20, 12:11 - Fad: je te l'avais dit
+4/8/20, 12:12 - Ced: Je m'en doutais aussi . Mais j'espère plus de leur part
+4/8/20, 12:14 - Fad: ok
+4/9/20, 20:19 - Ced: Yo
+4/9/20, 20:19 - Ced: Comment tu vas?
+4/9/20, 20:20 - Ced: À combien tu estimerais une plate-forme, un site de streaming de musique
+4/9/20, 20:20 - Ced: Avec paiements T-money. ..genre acheter des sons?
+4/9/20, 20:22 - Fad: on peut lire les chansons ?
+4/9/20, 20:24 - Ced: Oui
+4/9/20, 20:24 - Ced: On les lira sur le site je pense.
+4/9/20, 20:25 - Fad: ok
+4/9/20, 20:25 - Fad: 500 en montant
+4/9/20, 20:25 - Fad: qui demande sa
+4/9/20, 20:27 - Ced: un pote
+4/9/20, 20:27 - Ced: Même avec un peu de coeur ?
+4/9/20, 20:27 - Ced: 😅
+4/9/20, 20:28 - Fad: ok tu est sûr que cest pas un service il veut ?
+4/9/20, 20:28 - Ced: Franchement, si je ne te fais pas de suite, c'est parcequ'il n'y a pas de l'argent
+4/9/20, 20:29 - Ced: L'idée est belle mais franchement, je ne veux plus m'embêter pour rien.
+4/9/20, 20:29 - Ced: C'est un pote et je l'aime bien mais bon.
+4/9/20, 20:30 - Fad: <Media omitted>
+4/9/20, 20:59 - Ced: Finalement, il préfère un truc mobile...
+4/9/20, 20:59 - Ced: Moi, franchement, les gens m'ennuient.
+4/9/20, 20:59 - Fad: ok
+4/9/20, 21:00 - Fad: <Media omitted>
+4/9/20, 21:00 - Ced: <Media omitted>
+4/9/20, 21:02 - Ced: Tu veux me rendre sourd n'est-ce pas?!?!?!??!
+4/9/20, 21:26 - Fad: ok
+4/9/20, 21:26 - Fad: c'était un appel
+4/9/20, 21:27 - Ced: J'ai remarqué
+4/9/20, 21:28 - Ced: Faudra vraiment que j'apprenne à gérer les clients. C'est important.
+4/9/20, 21:28 - Ced: <Media omitted>
+4/9/20, 21:30 - Fad: <Media omitted>
+4/9/20, 21:37 - Ced: <Media omitted>
+4/9/20, 21:39 - Fad: <Media omitted>
+4/9/20, 21:40 - Ced: Okay.
+4/9/20, 21:41 - Ced: Qu'est-ce qu'il y a de particulier dans celle-ci ?
+4/9/20, 21:41 - Fad: de ton côté rien
+4/9/20, 21:42 - Ced: <Media omitted>
+4/9/20, 21:42 - Fad: <Media omitted>
+4/9/20, 21:43 - Ced: Okay
+4/10/20, 11:54 - Ced: Tchaley, je ne peux plus travailler sur l'autre machine
+4/10/20, 12:38 - Fad: pourquoi
+4/10/20, 12:43 - Ced: Tout est flou dessus....😅
+4/10/20, 13:34 - Fad: l'écran ou ma carte graphique
+4/10/20, 13:34 - Ced: L'écran.
+4/10/20, 13:34 - Ced: La définition
+4/10/20, 13:34 - Ced: Elle est faible
+4/10/20, 13:37 - Fad: ok
+4/10/20, 19:40 - Ced: <Media omitted>
+4/10/20, 19:41 - Fad: j'ai vu
+4/14/20, 13:42 - Ced: Yo
+4/14/20, 13:42 - Ced: La musique est interdite dans l'islam
+4/14/20, 13:42 - Ced: ?
+4/14/20, 13:42 - Ced: Genre, carrément carrément ?
+4/14/20, 14:10 - Fad: oui , pas tout genre de musique
+4/14/20, 14:13 - Ced: <Media omitted>
+4/14/20, 14:29 - Fad: <Media omitted>
+4/14/20, 14:39 - Ced: 70 vierges maaa?!?!?😹😹
+4/14/20, 14:39 - Fad: hummm
+4/14/20, 14:39 - Ced: <Media omitted>
+4/14/20, 14:40 - Ced: <Media omitted>
+4/14/20, 14:42 - Fad: ok
+4/14/20, 14:44 - Ced: Bientôt ramadan. Ce sera bizarre de mon côté
+4/14/20, 14:44 - Ced: La tenue de prière....
+4/14/20, 14:44 - Fad: ok
+4/14/20, 14:46 - Ced: Fad, c'est important de faire des phrases aussi hun...
+4/14/20, 14:46 - Ced: Ok
+4/14/20, 14:47 - Fad: tu veux que je dise quoi, la tenue je l'ai lavé depuis. le jr on se vois je te donne sa
+4/14/20, 14:48 - Ced: Tu savais écrire comme ça depuis?? 😹😹😹
+4/14/20, 14:48 - Ced: Ah bon? Tu l'as lavé ?
+4/14/20, 14:48 - Fad: oui
+4/14/20, 14:48 - Ced: Ah j savais pas.
+4/14/20, 14:48 - Fad: ok
+4/14/20, 14:49 - Ced: En même temps, tu peux passer. On va se faire des advent of code.
+Ne me dis pas que tu ne sors pas. Dis oui ou non, je n'ai pas envie de advenOfCode
+4/14/20, 14:49 - Ced: Thks
+4/14/20, 14:50 - Ced: <Media omitted>
+4/14/20, 14:50 - Fad: je sors plus
+4/14/20, 14:51 - Ced: Courage
+4/14/20, 14:52 - Fad: <Media omitted>
+4/14/20, 14:54 - Ced: <Media omitted>
+4/14/20, 14:57 - Fad: ok x bien
+4/14/20, 14:59 - Ced: Je prie avec pour l'instant
+4/14/20, 15:00 - Fad: ok
+4/14/20, 15:03 - Ced: T'as postulé ?
+4/14/20, 15:03 - Fad: non ,
+jai même oublié
+4/14/20, 15:04 - Fad: <Media omitted>
+4/14/20, 15:05 - Ced: Okay
+4/14/20, 15:09 - Ced: Tu as pu gérer le stackoverflowExeption?
+4/14/20, 15:10 - Fad: <Media omitted>
+4/14/20, 15:12 - Ced: J vois. Donc tu as fini?
+4/14/20, 15:12 - Fad: oui oui l'api aussi
+4/14/20, 15:13 - Ced: Nice
+4/14/20, 17:47 - Ced: <Media omitted>
+4/14/20, 18:13 - Fad: oui
+4/14/20, 18:22 - Ced: Okay
+4/17/20, 22:31 - Ced: 😹
+4/17/20, 22:33 - Fad: 😂
+4/18/20, 22:29 - Ced: C'est tes frères et soeurs ça non?!😹
+4/18/20, 22:29 - Fad: ce sont des kotokoli du bénin
+4/18/20, 22:29 - Ced: Lol
+4/18/20, 22:29 - Fad: sérieux
+4/18/20, 22:30 - Ced: Okay.
+4/20/20, 01:06 - Ced: C'est faux, toi aussi
+4/20/20, 01:07 - Ced: 😹😹😹 une vraie légende
+4/21/20, 19:36 - Ced: Alors.....ITS, ça avance? C'est plutôt le moment de s'y mettre. Tu trouves pas?
+4/21/20, 19:36 - Ced: Pas toi aussi....
+4/21/20, 19:37 - Ced: Il y a des meufs avec d'excellents niveaux
+4/21/20, 19:37 - Fad: 🤷🏾‍♂️
+4/21/20, 19:40 - Ced: Ce n'était pas le seul msg
+4/21/20, 19:41 - Fad: c'est à elle jai trouvé une réponse 😎
+4/21/20, 19:42 - Ced: J'avais comme l'impression que c'était plus adressé aux developpeuses.
+4/21/20, 19:42 - Ced: Super
+4/21/20, 19:42 - Fad: non non
+c'était juste pour le nom féminin
+4/23/20, 19:48 - Fad: salut
+4/23/20, 19:50 - Ced: 😒 Salut...
+4/23/20, 19:50 - Ced: J'ai comme l'impression que tu veux m'annoncer une mauvaise nouvelle
+4/23/20, 19:50 - Fad: comment tu gère
+4/23/20, 19:51 - Fad: comme ?
+j'espère que tu sais au fond de toi que tu n'auras pas de salaire ce mois
+4/23/20, 19:51 - Ced: Hummmm...c'est confirmé ?
+4/23/20, 19:51 - Ced: Lol bien sûr.
+4/23/20, 19:51 - Ced: Le mois?
+4/23/20, 19:51 - Ced: <Media omitted>
+4/23/20, 19:52 - Ced: Ramadan
+4/23/20, 19:53 - Fad: lol
+4/23/20, 19:53 - Fad: oui oui
+4/23/20, 19:53 - Ced: Okay
+4/23/20, 19:54 - Fad: 👍
+4/23/20, 20:14 - Ced: Toi tu gères comment ?
+4/23/20, 20:17 - Fad: sa va comme d'habitude on vien de finir le tarawi
+4/23/20, 20:20 - Ced: Dis, c'est quoi le tarawi?
+4/23/20, 20:22 - Fad: <Media omitted>
+4/23/20, 20:23 - Ced: Okay.
+4/23/20, 20:23 - Ced: <Media omitted>
+4/23/20, 20:24 - Fad: <Media omitted>
+4/23/20, 20:24 - Ced: Okay
+4/23/20, 20:25 - Ced: Je fais comment???
+4/23/20, 20:25 - Ced: Je google voir...
+4/23/20, 20:25 - Ced: Tu peux me l'a d'écrire ?
+4/23/20, 20:25 - Ced: Elle se fait à n'importe quelle heure ?
+4/23/20, 20:26 - Fad: j'arrive
+4/23/20, 20:26 - Fad: ok
+4/23/20, 20:34 - Ced: <Media omitted>
+4/23/20, 20:46 - Fad: oui 2 rakat * 5
+4/23/20, 20:47 - Ced: 10 rakat?
+4/23/20, 20:51 - Fad: <Media omitted>
+4/23/20, 20:54 - Ced: Okay
+4/23/20, 21:03 - Ced: Hummm
+4/23/20, 21:03 - Ced: <Media omitted>
+4/23/20, 21:04 - Ced: <Media omitted>
+4/23/20, 21:05 - Fad: ouï cest sa
+4/24/20, 05:40 - Ced: Yo Fad!
+4/24/20, 05:41 - Ced: Alors, t'en penses quoi?
+4/24/20, 05:47 - Fad: salut
+4/24/20, 05:48 - Fad: on doit aller au boulot
+4/24/20, 05:51 - Ced: Oui
+4/24/20, 05:51 - Ced: Moi par contre, je vais réaliser l'interface depuis la maison.
+4/24/20, 05:52 - Ced: J'aurais juste besoin de savoir quoo afficher.
+4/24/20, 05:52 - Ced: Je passerai au taff dans l'apm pour tester.
+4/24/20, 05:53 - Fad: <Media omitted>
+4/24/20, 05:53 - Ced: Oui
+4/24/20, 06:10 - Ced: Tu penses finir quand?
+4/24/20, 06:12 - Fad: je sais pas inn
+4/24/20, 06:12 - Fad: <Media omitted>
+4/24/20, 06:35 - Ced: Okay
+4/24/20, 08:19 - Fad: je vais o boulot comme ça
+4/24/20, 08:26 - Ced: Okay
+4/24/20, 08:27 - Ced: <Media omitted>
+4/24/20, 08:43 - Ced: Il y aura une interface de connexion n'est-ce pas?!
+4/24/20, 08:43 - Fad: comme quoi
+4/24/20, 08:44 - Ced: Les Api
+4/24/20, 08:45 - Fad: <Media omitted>
+4/24/20, 08:59 - Ced: <Media omitted>
+4/24/20, 08:59 - Ced: <Media omitted>
+4/24/20, 09:06 - Fad: oui
+4/24/20, 10:09 - Ced: J'arrive bientôt
+4/24/20, 10:10 - Fad: ok
+4/24/20, 15:21 - Fad: https://www.youtube.com/watch?v=0Rm_DoLDv1Q
+4/24/20, 15:35 - Fad: https://www.youtube.com/watch?v=frYNXydeJMQ
+4/24/20, 18:59 - Ced: 19h laaaaaaa hummmmm. Le ramadan, c'est un programme complet.
+4/24/20, 19:12 - Fad: comment
+4/24/20, 19:13 - Ced: Jeûne, gonflement des triceps....
+4/24/20, 19:13 - Ced: Finission du coran
+4/24/20, 19:13 - Fad: triceps ?
+4/24/20, 19:13 - Ced: La prière de 19h
+4/24/20, 19:14 - Ced: Franchement c'est quelque chose
+4/24/20, 19:14 - Fad: c'est pas obligatoire
+4/24/20, 19:14 - Ced: Ah bon?!
+4/24/20, 19:14 - Ced: 😒
+4/24/20, 19:16 - Fad: oui,
+si tu sais lire tu lis
+4/24/20, 19:17 - Fad: <Media omitted>
+4/24/20, 19:18 - Ced: <Media omitted>
+4/24/20, 19:20 - Fad: <Media omitted>
+4/24/20, 19:22 - Ced: <Media omitted>
+4/24/20, 19:22 - Fad: <Media omitted>
+4/24/20, 19:23 - Fad: <Media omitted>
+4/24/20, 19:24 - Ced: <Media omitted>
+4/24/20, 19:26 - Fad: <Media omitted>
+4/24/20, 19:26 - Ced: Okay
+4/24/20, 19:27 - Ced: You deleted this message
+4/24/20, 20:36 - Ced: <Media omitted>
+4/24/20, 20:36 - Ced: Tu comptais me le dire quand???
+4/24/20, 20:36 - Ced: C'est un marathon ?
+4/24/20, 20:38 - Ced: <Media omitted>
+4/24/20, 20:38 - Fad: <Media omitted>
+4/24/20, 20:40 - Fad: <Media omitted>
+4/24/20, 20:40 - Ced: <Media omitted>
+4/24/20, 20:41 - Ced: Okay. T'as raison. On va faire ça.
+4/24/20, 20:42 - Fad: <Media omitted>
+4/24/20, 20:42 - Fad: 👍
+4/24/20, 20:41 - Ced: <Media omitted>
+4/25/20, 04:07 - Ced: Il est 4h mais j'entends l'appel....c'est normal?
+4/25/20, 07:40 - Fad: 🧐
+4/25/20, 08:10 - Ced: <Media omitted>
+4/25/20, 08:29 - Fad: <Media omitted>
+4/25/20, 08:35 - Ced: Quand tu parles de sourate courtes. Tu veux parler de Al-Iklas par exemple n'est-ce pas ?
+4/25/20, 08:36 - Ced: Okay. J'espère que celui de 4h, c'était pour qu'on mange
+4/25/20, 08:36 - Fad: oui
+4/25/20, 08:39 - Fad: oui
+4/25/20, 08:40 - Fad: al asr
+4/25/20, 08:40 - Fad: al falak
+4/25/20, 08:40 - Fad: an nasr
+4/25/20, 08:43 - Ced: Merci
+4/25/20, 09:42 - Fad: 🤤
+4/25/20, 10:06 - Ced: 🧘🏾‍♂️
+4/25/20, 10:17 - Fad: 😌
+4/25/20, 17:50 - Fad: je viens d'avoir une idée d'application
+4/25/20, 18:00 - Ced: Super tchaley.
+4/25/20, 18:01 - Ced: C'est quoi? Ou c'est top secret ?🌚
+4/25/20, 18:05 - Fad: <Media omitted>
+4/25/20, 18:10 - Ced: <Media omitted>
+4/25/20, 18:15 - Fad: je viens d'avoir l'idée au wc
+4/25/20, 18:16 - Fad: <Media omitted>
+4/25/20, 18:46 - Ced: C'est là que naissent les meilleures inspirations. En expulsant les déchets
+4/25/20, 18:47 - Ced: <Media omitted>
+4/25/20, 18:51 - Fad: ok cool
+4/25/20, 18:51 - Fad: <Media omitted>
+4/25/20, 19:02 - Ced: <Media omitted>
+4/25/20, 19:05 - Fad: <Media omitted>
+4/25/20, 19:06 - Ced: <Media omitted>
+4/25/20, 19:15 - Fad: <Media omitted>
+4/25/20, 19:24 - Ced: Okay. Je vois.
+4/25/20, 20:25 - Ced: Yo
+4/25/20, 20:25 - Ced: <Media omitted>
+4/25/20, 20:25 - Ced: <Media omitted>
+4/25/20, 20:26 - Fad: <Media omitted>
+4/25/20, 20:26 - Ced: <Media omitted>
+4/25/20, 20:27 - Fad: ok
+4/25/20, 20:27 - Ced: <Media omitted>
+4/25/20, 20:30 - Fad: <Media omitted>
+4/25/20, 20:30 - Ced: <Media omitted>
+4/25/20, 20:35 - Ced: <Media omitted>
+4/25/20, 20:36 - Fad: ok bonne chance alors
+4/25/20, 20:36 - Fad: oui sa va
+4/26/20, 05:53 - Ced: Les gars sont ouf 😹😹😹
+4/26/20, 06:19 - Fad: 👍
+4/27/20, 09:02 - Ced: <Media omitted>
+4/27/20, 09:09 - Fad: <Media omitted>
+4/27/20, 09:11 - Ced: <Media omitted>
+4/27/20, 09:15 - Fad: <Media omitted>
+4/27/20, 09:15 - Ced: Non non. Ce n'est pas lui
+4/27/20, 09:18 - Fad: ok
+4/27/20, 09:18 - Ced: <Media omitted>
+4/27/20, 09:19 - Fad: <Media omitted>
+4/27/20, 09:23 - Ced: <Media omitted>
+4/27/20, 09:24 - Fad: <Media omitted>
+4/27/20, 09:31 - Ced: Okay. Faut gérer doucement en attendant
+4/27/20, 09:31 - Fad: oui tranquille
+4/27/20, 10:49 - Ced: Yeaaaaah
+4/27/20, 10:49 - Ced: Le noir...il n'a pas de lèvres rouges. T'as vu?
+4/27/20, 10:50 - Fad: <Media omitted>
+4/27/20, 10:50 - Fad: personne na de lèvre dans le dessin animé
+4/27/20, 10:58 - Ced: 😹😹😹 touché
+4/27/20, 10:58 - Ced: <Media omitted>
+4/27/20, 10:58 - Fad: c'est pas faux aussi
+4/27/20, 13:45 - Ced: Je t'ai dit frère. Faut juste taper.
+4/27/20, 13:45 - Fad: hum
+4/27/20, 13:45 - Fad: la tâche sur l'écran s'élargit
+4/27/20, 13:46 - Ced: Hummm tu peux screener ?
+4/27/20, 13:47 - Fad: <Media omitted>
+4/27/20, 13:48 - Fad: mon frère si tu veux afficher faut afficher cest quoi ces mic mac
+4/27/20, 13:57 - Ced: Okay
+4/27/20, 13:57 - Ced: Mic mac 😹😹😹
+4/27/20, 13:58 - Ced: <Media omitted>
+4/27/20, 13:59 - Fad: ok
+4/27/20, 13:59 - Ced: Dernièrement c'était lannif de Diane
+4/27/20, 13:59 - Fad: aa d'accord
+4/27/20, 20:11 - Ced: 😹😹😹😹
+4/27/20, 22:22 - Ced: <Media omitted>
+4/27/20, 22:32 - Ced: Donc le coran ne valide aucune autre religion si ce n'est l'islam ? 😄
+4/28/20, 05:50 - Fad: biensure
+4/28/20, 07:36 - Ced: Okay
+4/28/20, 13:13 - Fad: salut
+4/28/20, 13:14 - Fad: <Media omitted>
+4/28/20, 13:16 - Ced: Salut Fad!
+
+Effectivement. Les écrans de samsung font souvent le prix du phone 2ème main.
+
+Okay
+4/28/20, 13:16 - Fad: ok
+4/28/20, 13:17 - Fad: et toi tu me conseil kel phone
+4/28/20, 13:17 - Fad: <Media omitted>
+4/28/20, 13:21 - Ced: <Media omitted>
+4/28/20, 13:22 - Ced: <Media omitted>
+4/28/20, 13:23 - Fad: <Media omitted>
+4/28/20, 13:23 - Ced: <Media omitted>
+4/28/20, 13:24 - Ced: <Media omitted>
+4/28/20, 13:25 - Fad: <Media omitted>
+4/28/20, 13:25 - Fad: ok
+4/28/20, 13:26 - Fad: <Media omitted>
+4/28/20, 13:26 - Ced: Effectivement.
+4/28/20, 13:27 - Ced: <Media omitted>
+4/28/20, 13:28 - Ced: <Media omitted>
+4/28/20, 13:29 - Fad: <Media omitted>
+4/28/20, 13:29 - Fad: ok
+4/28/20, 13:29 - Ced: <Media omitted>
+4/28/20, 13:30 - Ced: <Media omitted>
+4/28/20, 13:31 - Fad: <Media omitted>
+4/28/20, 13:32 - Fad: <Media omitted>
+4/28/20, 13:33 - Fad: <Media omitted>
+4/28/20, 13:33 - Ced: <Media omitted>
+4/28/20, 13:34 - Ced: Fais pas attention.
+4/28/20, 13:34 - Ced: Okay.
+4/28/20, 13:35 - Ced: Okay
+4/28/20, 13:37 - Fad: oui c'est sa
+4/28/20, 13:39 - Ced: <Media omitted>
+4/28/20, 13:44 - Fad: <Media omitted>
+4/28/20, 13:45 - Ced: D'accord
+4/28/20, 13:47 - Ced: <Media omitted>
+4/28/20, 13:49 - Fad: <Media omitted>
+4/28/20, 13:54 - Ced: Je pense que c'est dans les 180...
+4/28/20, 13:54 - Fad: ok
+4/28/20, 13:55 - Ced: J sais plus trop
+4/28/20, 13:55 - Fad: ok
+4/28/20, 13:55 - Ced: <Media omitted>
+4/28/20, 13:56 - Fad: <Media omitted>
+4/28/20, 13:56 - Fad: <Media omitted>
+4/28/20, 13:56 - Ced: Okay
+4/28/20, 13:56 - Ced: <Media omitted>
+4/28/20, 13:57 - Fad: ann ok
+4/28/20, 14:04 - Fad: <Media omitted>
+4/28/20, 14:07 - Ced: Ooooh
+4/28/20, 14:07 - Ced: <Media omitted>
+4/28/20, 14:08 - Ced: <Media omitted>
+4/28/20, 14:11 - Fad: ok
+4/28/20, 14:12 - Fad: je n'achète plus un portable deuxième main
+4/28/20, 14:14 - Ced: Sage décision
+4/28/20, 14:30 - Fad: <Media omitted>
+4/28/20, 14:54 - Ced: <Media omitted>
+4/28/20, 14:55 - Ced: Trabsfertnow
+4/28/20, 15:03 - Fad: transfert now
+4/28/20, 15:03 - Ced: <Media omitted>
+4/28/20, 15:04 - Fad: wetransfert aussi
+4/28/20, 15:04 - Ced: <Media omitted>
+4/28/20, 15:05 - Ced: <Media omitted>
+4/28/20, 15:06 - Fad: 😂😂
+4/28/20, 15:06 - Fad: rien je suis chez ma seur actuellement
+4/28/20, 15:13 - Ced: Elle va bien?
+4/28/20, 15:13 - Ced: Et la petite qui aime ton tel?
+4/28/20, 15:18 - Fad: elle va bien
+4/28/20, 16:23 - Ced: <Media omitted>
+4/28/20, 16:27 - Fad: abon
+4/28/20, 16:42 - Ced: Oui
+4/28/20, 16:44 - Fad: ok
+4/28/20, 17:11 - Ced: <Media omitted>
+4/28/20, 17:12 - Fad: <Media omitted>
+4/28/20, 17:12 - Ced: <Media omitted>
+4/28/20, 17:12 - Fad: This message was deleted
+4/28/20, 17:13 - Fad: ok
+4/29/20, 09:04 - Ced: Ayat al kursi, c'est apparemment le verset le plus beau du coran.
+4/29/20, 09:05 - Fad: <Media omitted>
+4/29/20, 09:11 - Ced: Tu peux me le chanter? 😅
+4/29/20, 09:12 - Fad: pour quoi
+4/29/20, 09:12 - Ced: Ça me permet de mieux assimiler
+4/29/20, 09:12 - Fad: YouTube
+4/29/20, 09:13 - Ced: Toi t'es là ou pas?
+4/29/20, 09:13 - Fad: lui aussi
+4/29/20, 09:14 - Ced: Hummm
+4/29/20, 10:44 - Ced: Salut gars!
+4/29/20, 10:44 - Fad: salut
+4/29/20, 10:44 - Ced: Je viens d'avoir une discussion avec Camille
+4/29/20, 10:45 - Ced: Il propose qu'on lui installe le logiciel en Mai et qu'il nous paie en Juillet
+4/29/20, 10:45 - Ced: T'en dis quoi?
+4/29/20, 10:45 - Fad: toi tu en penses quoi ?
+4/29/20, 10:46 - Ced: <Media omitted>
+4/29/20, 10:46 - Ced: <Media omitted>
+4/29/20, 10:48 - Ced: <Media omitted>
+4/29/20, 10:49 - Fad: <Media omitted>
+4/29/20, 10:50 - Fad: <Media omitted>
+4/29/20, 10:52 - Ced: Okay
+4/29/20, 10:52 - Ced: <Media omitted>
+4/29/20, 10:54 - Fad: <Media omitted>
+4/29/20, 10:55 - Ced: <Media omitted>
+4/29/20, 11:01 - Fad: c'est 80 mille
+4/29/20, 11:03 - Fad: <Media omitted>
+4/29/20, 11:06 - Ced: Okay
+4/29/20, 11:15 - Ced: Et les modifs que tu comptais faire?
+4/29/20, 11:18 - Fad: <Media omitted>
+4/29/20, 11:25 - Ced: Okay
+4/29/20, 13:47 - Ced: <Media omitted>
+4/29/20, 13:47 - Ced: <Media omitted>
+4/29/20, 13:47 - Ced: <Media omitted>
+4/29/20, 13:47 - Ced: <Media omitted>
+4/29/20, 13:53 - Fad: ok
+4/29/20, 13:53 - Fad: je suis actuellement au boulot
+4/29/20, 13:54 - Fad: le dg avait besoin de la cle de notre bureau
+4/29/20, 14:12 - Ced: Okay
+4/29/20, 15:02 - Ced: Pourquoi enft?
+4/29/20, 15:03 - Fad: apparement cest mahones qui devai y travailler
+4/29/20, 15:04 - Ced: Je vois.
+4/29/20, 15:05 - Fad: ok
+4/29/20, 21:13 - Ced: <Media omitted>
+4/29/20, 21:14 - Fad: je m'en doutais
+4/29/20, 21:16 - Ced: 😹
+4/30/20, 11:39 - Ced: T'es inspiré aujourd'hui
+4/30/20, 11:41 - Fad: je profite de mes derniers instants sur Whatsapp pendant un bon moment
+4/30/20, 11:41 - Ced: Ah bon? Tu seras off?
+4/30/20, 11:43 - Fad: si l'écran me lâche
+4/30/20, 11:43 - Ced: Ok
+4/30/20, 11:44 - Fad: et c'est on aura pas de salaire ce mois donc le portable c'est pour le mois prochain
+4/30/20, 11:45 - Ced: Le plus important, c'est le défis. Pas l'argent.
+4/30/20, 11:45 - Ced: 😹
+4/30/20, 11:45 - Ced: Le mec làaaaa hummm
+4/30/20, 11:46 - Fad: 😅
+4/30/20, 12:20 - Ced: Dis, quand on saigne, le jeûne est rompu?
+4/30/20, 12:24 - Fad: <Media omitted>
+4/30/20, 13:03 - Ced: Okay
+5/1/20, 19:48 - Ced: 😹
+5/1/20, 19:49 - Fad: le gars va jamais finir son calcul
+5/1/20, 19:50 - Ced: <Media omitted>
+5/1/20, 19:54 - Fad: 😎
+5/3/20, 12:51 - Ced: Tu te demandais à quoi bon être un google Android dev n'est-ce pas ? !
+5/3/20, 12:51 - Fad: abon?
+5/3/20, 12:52 - Ced: Google dev expert*
+5/3/20, 12:52 - Fad: abon jai dit sa?
+5/3/20, 12:52 - Ced: Dernièrement quand Achille parlait d'un post sur tweeter.
+5/3/20, 12:52 - Fad: j'ai oublié
+5/3/20, 12:52 - Ced: Tkt
+5/3/20, 12:53 - Fad: ok
+5/3/20, 12:53 - Ced: Apparemment, en 2014, les GDE étaient payés en moyenne à 98.000$
+5/3/20, 12:54 - Fad: ok, où ?
+5/3/20, 12:56 - Ced: Là-bas, Dans les entreprises developpant des outils pour l'écosystème android
+5/3/20, 12:57 - Fad: ok
+5/3/20, 12:57 - Ced: Google lui même, square et plein d'autres
+5/3/20, 12:57 - Fad: ok
+5/3/20, 19:32 - Fad: salut
+5/3/20, 19:33 - Ced: Hi dude !
+5/3/20, 19:38 - Fad: xcmt
+5/3/20, 19:38 - Fad: le moi est fini inn
+5/3/20, 19:43 - Ced: Bien et toi?
+5/3/20, 19:43 - Ced: Oui oui. J'ai remarqué 😄
+5/3/20, 19:44 - Fad: donc normalement on reprend demain
+5/3/20, 19:49 - Ced: Oui oui. Normalement.
+5/3/20, 19:49 - Fad: cetai juste un rappel
+5/3/20, 19:50 - Ced: Merci
+5/3/20, 19:50 - Fad: 👍
+5/4/20, 07:21 - Ced: Salut Fad!
+5/4/20, 07:21 - Ced: N'oublie pas stp
+5/4/20, 11:59 - Fad: https://openclassrooms.com/forum/sujet/creer-une-chatbot-avec-python
+5/4/20, 18:05 - Ced: <Media omitted>
+5/4/20, 18:06 - Ced: <Media omitted>
+5/4/20, 19:20 - Ced: <Media omitted>
+5/4/20, 19:49 - Fad: oui je connais sa
+5/4/20, 19:49 - Fad: <Media omitted>
+5/4/20, 19:49 - Ced: Nice
+5/4/20, 19:50 - Ced: Oui. Logique
+5/4/20, 19:50 - Ced: <Media omitted>
+5/4/20, 19:52 - Fad: <Media omitted>
+5/4/20, 20:15 - Ced: D'accord. Ils utilisent python pour le tuto
+5/4/20, 20:15 - Fad: cool
+5/4/20, 20:15 - Ced: Rappelle moi le lien pour les téléchargements youtube
+5/4/20, 20:15 - Fad: 9xbuddy
+5/4/20, 20:22 - Ced: 👍🏾
+5/4/20, 22:20 - Ced: <Media omitted>
+5/4/20, 22:21 - Fad: ils sont trop fort
+5/4/20, 22:21 - Ced: Level tchaley
+5/4/20, 22:22 - Fad: 👍
+5/5/20, 18:48 - Ced: Tu dis que Java est très utilisé pour le big data n'est-ce pas ?
+5/5/20, 19:06 - Fad: oui
+5/5/20, 19:20 - Ced: Okay.
+5/6/20, 13:41 - Fad: [30/4 22:05] Rémi: Il n’a qu’à boire jus de gingembre
+[30/4 22:15] Audrey🌹: Ok
+[30/4 22:31] Audrey🌹: Mais attend c'est avant l'acte non?ou komn?ou il le fais chaque fois
+[30/4 22:37] Rémi: Il peut le faire chaque fois mais avant l’acte aussi c’est plus cool
+[30/4 22:37] Audrey🌹: OK je vois
+[30/4 22:37] Audrey🌹: Merxi
+5/6/20, 13:41 - Fad: 😁ASTUCE❓
+Oui il y en a
+
+Malgré nos potions ou médicaments aphrodisiaques que nous utilisons ce problème d' *éjaculer rapide* persiste
+
+ASTUCE
+1⃣ En plein  rapports sexuels ne soyez pas trop emporter c'est à dire lorsque vous aurez la sensation de jouir ( nous disons verser) ayez immédiatement vos idées ailleurs ( Exemple < si je quitte ici je vais aller  payer du spaghetti>)
+Ça permet de diminuer l' excitation qui est au comble
+
+2⃣ Lorsque vous voulez baiser une fille
+Ne vous pressez pas de pomper votre pénis dans le vagin *fort* fort fort
+vous le fera vers la fin du coī  quand la fille vous dira quelle est fatiguée ou desfois elles disent tu  n'as encore versé
+
+3⃣Astuce là tenez en compte les gars 😍
+
+Lors des rapports
+ il faudra toujours et toujours faire de petits pauses Exemple sur le fonctionnement biologique du cœur  c'est le DIASTOLE ( de petits repos)
+Pompez la Go enlevez le votre PÉNIS et  mettre votre doigt dedans en gérant sa respiration
+Ça permet de gagner du temps avant d' éjaculer
+
+ c'est de là et tout çà permet de ne plus vite verser
+
+C'est un bref cours sexuel
+😘bisous aux amoureux
+Maître COSMOS
+5/6/20, 13:41 - Fad: *POUR* *SE* *METTRE* *EN* *ÉRECTION* *POUR* *UNE LONGUE DURÉE D'ÉCTION ET DE L'ÉJACULATION PRÉCOCE* :
+
+ *Remède* 1:
+Mangez juste les carottes fruits 5 heures avant l'acte sexuel.
+   Et avoir l'habitude de manger les carottes chaque fois pour se mettre en érection normalement et tenir très fort au lit.
+
+ *Remède* 2 :
+Cherchez beaucoup de petits colas appelés en fon, Ahowé.
+    A l'aide d'un couteau, veuillez les diviser en deux parties.
+      Prenez une bouteille vite et y mettre les petits colas coupés dedans.
+   Ajoutez enfin du *vrai* *Sodabi*.
+
+  Laissez la composition à un endroit en secouant chaque trois jours la bouteille afin qu'elle (composition) soit une c'est-à-dire sans différence pendant une semaine.
+     Commencez à prendre cette boisson pour corriger vraiment l'éjaculation précoce.
+
+NB :
+Il faut nécessairement du Sodabi ou du vin de votre choix pour la composition.
+
+ *Remède* 3 :
+Séchez très bien :
+- Racines de Adjikoui (domino en français)
+- Racines de Kodô
+- Racines de agbangounnan ( un peu car cette racine est beaucoup plus conseillé à ceux qui veulent avoir un gros pénis ).
+
+- Beaucoup de petits colas
+- Beaucoup de dattes
+
+- Un peu de citronnelles séché
+- Beaucoup d'ail
+- Une gousse du piment de Guinée
+
+
+Mettez tous ces ingrédients dans une bouteille pouvant les contenir et y ajoutez du vrai Sodabi ou de bon Vin.
+Et vous laissez la composition comme je l'ai dit pratiquement à la fin du remède 2 pour mettre fin à la faiblesse sexuelle à travers l'éjaculation précoce et une longue durée d'érection lors d'un acte sexuel.
+5/6/20, 13:41 - Fad: <Media omitted>
+5/7/20, 01:53 - Ced: 😹😹😹😹😹😹😹
+5/7/20, 02:41 - Ced: Yo!
+5/7/20, 02:42 - Ced: J'ai comme l'impression qu'il fallait que je te télécharge un truc
+5/7/20, 02:43 - Ced: Oubien c'est à cause de l'installation de linux
+5/7/20, 06:30 - Fad: <Media omitted>
+5/7/20, 06:32 - Ced: Okay
+5/7/20, 21:57 - Ced: Yo
+5/7/20, 21:57 - Fad: oui
+5/7/20, 21:58 - Ced: Tu utilises quel lecteur de pdf sur linux?
+5/7/20, 21:58 - Fad: celui par défaut
+5/7/20, 21:58 - Ced: <Media omitted>
+5/7/20, 21:59 - Fad: <Media omitted>
+5/7/20, 22:02 - Ced: Okay
+5/7/20, 22:04 - Ced: <Media omitted>
+5/11/20, 05:27 - Ced: 😄
+5/11/20, 08:26 - Fad: tu es contant ou bien ?
+5/11/20, 08:27 - Ced: 😄
+5/11/20, 08:28 - Ced: Enft, je voulais écrire que c'est les compétences que eux, ils ont besoin de vendre. Ensuite je me suis dis boff....
+5/11/20, 08:28 - Ced: Après tout, ils ont raison
+5/11/20, 08:36 - Fad: ce sont les gars de 10000 codeurs qui ont publier sa
+5/11/20, 08:37 - Ced: C'est bien.
+5/11/20, 09:53 - Ced: https://github.com/louistiti
+5/11/20, 09:53 - Ced: <Media omitted>
+5/11/20, 09:59 - Fad: <Media omitted>
+5/11/20, 09:59 - Fad: <Media omitted>
+5/11/20, 10:01 - Ced: 😄
+5/11/20, 10:01 - Ced: <Media omitted>
+5/11/20, 10:28 - Fad: <Media omitted>
+5/11/20, 10:48 - Ced: Okay
+5/11/20, 12:14 - Fad: <Media omitted>
+5/11/20, 12:25 - Ced: <Media omitted>
+5/11/20, 12:26 - Ced: <Media omitted>
+5/11/20, 12:27 - Fad: <Media omitted>
+5/11/20, 12:28 - Fad: <Media omitted>
+5/11/20, 12:30 - Fad: <Media omitted>
+5/11/20, 12:31 - Fad: <Media omitted>
+5/11/20, 12:48 - Ced: <Media omitted>
+5/11/20, 12:50 - Fad: oui oui
+5/11/20, 23:26 - Ced: Réveille moi si possible stp
+5/12/20, 01:37 - Fad: Missed video call
+5/12/20, 01:37 - Fad: Missed voice call
+5/12/20, 01:39 - Ced: Merci bien tchaley
+5/12/20, 01:40 - Fad: 👍
+5/12/20, 03:48 - Ced: tu fais quoi?
+5/12/20, 08:10 - Fad: je dor
+5/12/20, 08:28 - Ced: Vas-y torh
+5/12/20, 08:29 - Fad: trankil
+5/13/20, 20:19 - Ced: <Media omitted>
+5/13/20, 20:20 - Fad: <Media omitted>
+5/13/20, 20:20 - Ced: Oui
+5/13/20, 20:21 - Ced: <Media omitted>
+5/13/20, 20:21 - Fad: <Media omitted>
+5/13/20, 20:22 - Ced: 😹
+5/14/20, 09:06 - Ced: Yooo
+5/14/20, 09:06 - Fad: oui
+5/14/20, 09:06 - Ced: Yooooo
+5/14/20, 09:06 - Fad: sa va ?
+5/14/20, 09:06 - Ced: <Media omitted>
+5/14/20, 09:07 - Ced: <Media omitted>
+5/14/20, 09:11 - Fad: <Media omitted>
+5/14/20, 09:12 - Ced: 😄
+5/14/20, 09:12 - Fad: <Media omitted>
+5/14/20, 09:13 - Ced: Ton ventilateur........
+5/14/20, 09:14 - Fad: oui jai un ventilateur
+5/14/20, 09:13 - Ced: <Media omitted>
+5/14/20, 09:14 - Ced: Bravo 😹
+5/14/20, 09:16 - Fad: <Media omitted>
+5/14/20, 09:34 - Ced: Ton ventilateur embête
+5/14/20, 14:16 - Ced: <Media omitted>
+5/14/20, 14:17 - Ced: <Media omitted>
+5/14/20, 14:21 - Ced: <Media omitted>
+5/14/20, 14:23 - Fad: <Media omitted>
+5/14/20, 14:25 - Fad: <Media omitted>
+5/14/20, 14:25 - Fad: <Media omitted>
+5/14/20, 14:36 - Ced: <Media omitted>
